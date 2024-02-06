@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule dictionary/list src/controllers/module.en.grammar.php?action=GRAMMAR_WORDS [QSA]
+RewriteRule user/feedback/add src/controllers/module.user.account.feedback.php?action=SEND_USER_FEEDBACK [QSA]
+RewriteRule user/feedback/view/([^/]+)$ src/controllers/module.user.account.feedback.php?action=VIEW_MY_FEEDBACK&userId=$1 [QSA]

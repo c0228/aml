@@ -1,0 +1,8991 @@
+{
+  "13": {
+    "root": "add",
+    "v1": "added",
+    "v2": "added",
+    "v3": "added",
+    "v4": "adding"
+  },
+  "28": {
+    "root": "star",
+    "v1": "starred",
+    "v2": "starred",
+    "v3": "starred",
+    "v4": "starring"
+  },
+  "40": {
+    "root": "agree",
+    "v1": "agreed",
+    "v2": "agreed",
+    "v3": "agreed",
+    "v4": "agreeing"
+  },
+  "48": {
+    "root": "steal",
+    "v1": "stole",
+    "v2": "stolen",
+    "v3": "stole",
+    "v4": "stealing"
+  },
+  "69": {
+    "root": "exercise",
+    "v1": "exercised",
+    "v2": "exercised",
+    "v3": "exercised",
+    "v4": "exercising"
+  },
+  "71": {
+    "root": "explain",
+    "v1": "explained",
+    "v2": "explained",
+    "v3": "explained",
+    "v4": "explaining"
+  },
+  "76": {
+    "root": "fall",
+    "v1": "fell",
+    "v2": "fallen",
+    "v3": "fell",
+    "v4": "falling"
+  },
+  "82": {
+    "root": "answer",
+    "v1": "answered",
+    "v2": "answered",
+    "v3": "answered",
+    "v4": "answering"
+  },
+  "93": {
+    "root": "arrive",
+    "v1": "arrived",
+    "v2": "arrived",
+    "v3": "arrived",
+    "v4": "arriving"
+  },
+  "98": {
+    "root": "ask",
+    "v1": "asked",
+    "v2": "asked",
+    "v3": "asked",
+    "v4": "asking"
+  },
+  "115": {
+    "root": "stress",
+    "v1": "stressed",
+    "v2": "stressed",
+    "v3": "stressed",
+    "v4": "stressing"
+  },
+  "118": {
+    "root": "succeed",
+    "v1": "succeeded",
+    "v2": "succeeded",
+    "v3": "succeeded",
+    "v4": "succeeding"
+  },
+  "122": {
+    "root": "suggest",
+    "v1": "suggested",
+    "v2": "suggested",
+    "v3": "suggested",
+    "v4": "suggesting"
+  },
+  "125": {
+    "root": "support",
+    "v1": "supported",
+    "v2": "supported",
+    "v3": "supported",
+    "v4": "supporting"
+  },
+  "127": {
+    "root": "suppose",
+    "v1": "supposed",
+    "v2": "supposed",
+    "v3": "supposed",
+    "v4": "supposing"
+  },
+  "130": {
+    "root": "surprise",
+    "v1": "surprised",
+    "v2": "surprised",
+    "v3": "surprised",
+    "v4": "surprising"
+  },
+  "143": {
+    "root": "taste",
+    "v1": "tasted",
+    "v2": "tasted",
+    "v3": "tasted",
+    "v4": "tasting"
+  },
+  "149": {
+    "root": "text",
+    "v1": "texted",
+    "v2": "texted",
+    "v3": "texted",
+    "v4": "texting"
+  },
+  "157": {
+    "root": "throw",
+    "v1": "threw",
+    "v2": "thrown",
+    "v3": "threw",
+    "v4": "throwing"
+  },
+  "159": {
+    "root": "tidy",
+    "v1": "tidied",
+    "v2": "tidied",
+    "v3": "tidied",
+    "v4": "tidying"
+  },
+  "160": {
+    "root": "tie",
+    "v1": "tied",
+    "v2": "tied",
+    "v3": "tied",
+    "v4": "tying"
+  },
+  "173": {
+    "root": "feel",
+    "v1": "felt",
+    "v2": "felt",
+    "v3": "felt",
+    "v4": "feeling"
+  },
+  "174": {
+    "root": "feel",
+    "v1": "felt",
+    "v2": "felt",
+    "v3": "felt",
+    "v4": "feeling"
+  },
+  "180": {
+    "root": "be",
+    "v1": "was/were",
+    "v2": "been",
+    "v3": "was/were",
+    "v4": "being"
+  },
+  "184": {
+    "root": "become",
+    "v1": "became",
+    "v2": "become",
+    "v3": "became",
+    "v4": "becoming"
+  },
+  "189": {
+    "root": "begin",
+    "v1": "began",
+    "v2": "begun",
+    "v3": "began",
+    "v4": "beginning"
+  },
+  "193": {
+    "root": "believe",
+    "v1": "believed",
+    "v2": "believed",
+    "v3": "believed",
+    "v4": "believing"
+  },
+  "217": {
+    "root": "born",
+    "v1": "born",
+    "v2": "born",
+    "v3": "born",
+    "v4": "bearing"
+  },
+  "227": {
+    "root": "fill",
+    "v1": "filled",
+    "v2": "filled",
+    "v3": "filled",
+    "v4": "filling"
+  },
+  "230": {
+    "root": "find",
+    "v1": "found",
+    "v2": "found",
+    "v3": "found",
+    "v4": "finding"
+  },
+  "232": {
+    "root": "finish",
+    "v1": "finished",
+    "v2": "finished",
+    "v3": "finished",
+    "v4": "finishing"
+  },
+  "243": {
+    "root": "fly",
+    "v1": "flew",
+    "v2": "flown",
+    "v3": "flew",
+    "v4": "flying"
+  },
+  "244": {
+    "root": "follow",
+    "v1": "followed",
+    "v2": "followed",
+    "v3": "followed",
+    "v4": "following"
+  },
+  "249": {
+    "root": "forget",
+    "v1": "forgot",
+    "v2": "forgotten",
+    "v3": "forgot",
+    "v4": "forgetting"
+  },
+  "251": {
+    "root": "form",
+    "v1": "formed",
+    "v2": "formed",
+    "v3": "formed",
+    "v4": "forming"
+  },
+  "275": {
+    "root": "break",
+    "v1": "broke",
+    "v2": "broken",
+    "v3": "broke",
+    "v4": "breaking"
+  },
+  "278": {
+    "root": "bring",
+    "v1": "brought",
+    "v2": "brought",
+    "v3": "brought",
+    "v4": "bringing"
+  },
+  "282": {
+    "root": "build",
+    "v1": "built",
+    "v2": "built",
+    "v3": "built",
+    "v4": "building"
+  },
+  "289": {
+    "root": "buy",
+    "v1": "bought",
+    "v2": "bought",
+    "v3": "bought",
+    "v4": "buying"
+  },
+  "294": {
+    "root": "call",
+    "v1": "called",
+    "v2": "called",
+    "v3": "called",
+    "v4": "calling"
+  },
+  "297": {
+    "root": "can",
+    "v1": "could",
+    "v2": "could",
+    "v3": "could",
+    "v4": "canning"
+  },
+  "302": {
+    "root": "cater",
+    "v1": "catered",
+    "v2": "catered",
+    "v3": "catered",
+    "v4": "catering"
+  },
+  "307": {
+    "root": "cease",
+    "v1": "ceased",
+    "v2": "ceased",
+    "v3": "ceased",
+    "v4": "ceasing"
+  },
+  "315": {
+    "root": "characterize",
+    "v1": "characterized",
+    "v2": "characterized",
+    "v3": "characterized",
+    "v4": "characterizing"
+  },
+  "319": {
+    "root": "chase",
+    "v1": "chased",
+    "v2": "chased",
+    "v3": "chased",
+    "v4": "chasing"
+  },
+  "322": {
+    "root": "cheer",
+    "v1": "cheered",
+    "v2": "cheered",
+    "v3": "cheered",
+    "v4": "cheering"
+  },
+  "325": {
+    "root": "chop",
+    "v1": "chopped",
+    "v2": "chopped",
+    "v3": "chopped",
+    "v4": "chopping"
+  },
+  "329": {
+    "root": "circulate",
+    "v1": "circulated",
+    "v2": "circulated",
+    "v3": "circulated",
+    "v4": "circulating"
+  },
+  "336": {
+    "root": "clarify",
+    "v1": "clarified",
+    "v2": "clarified",
+    "v3": "clarified",
+    "v4": "clarifying"
+  },
+  "340": {
+    "root": "classify",
+    "v1": "classified",
+    "v2": "classified",
+    "v3": "classified",
+    "v4": "classifying"
+  },
+  "343": {
+    "root": "cling",
+    "v1": "clung",
+    "v2": "clung",
+    "v3": "clung",
+    "v4": "clinging"
+  },
+  "353": {
+    "root": "coincide",
+    "v1": "coincided",
+    "v2": "coincided",
+    "v3": "coincided",
+    "v4": "coinciding"
+  },
+  "355": {
+    "root": "collaborate",
+    "v1": "collaborated",
+    "v2": "collaborated",
+    "v3": "collaborated",
+    "v4": "collaborating"
+  },
+  "365": {
+    "root": "combat",
+    "v1": "combated",
+    "v2": "combated",
+    "v3": "combated",
+    "v4": "combating"
+  },
+  "368": {
+    "root": "commence",
+    "v1": "commenced",
+    "v2": "commenced",
+    "v3": "commenced",
+    "v4": "commencing"
+  },
+  "379": {
+    "root": "compel",
+    "v1": "compelled",
+    "v2": "compelled",
+    "v3": "compelled",
+    "v4": "compelling"
+  },
+  "381": {
+    "root": "compensate",
+    "v1": "compensated",
+    "v2": "compensated",
+    "v3": "compensated",
+    "v4": "compensating"
+  },
+  "385": {
+    "root": "compile",
+    "v1": "compiled",
+    "v2": "compiled",
+    "v3": "compiled",
+    "v4": "compiling"
+  },
+  "386": {
+    "root": "complement",
+    "v1": "complemented",
+    "v2": "complemented",
+    "v3": "complemented",
+    "v4": "complementing"
+  },
+  "393": {
+    "root": "touch",
+    "v1": "touched",
+    "v2": "touched",
+    "v3": "touched",
+    "v4": "touching"
+  },
+  "403": {
+    "root": "train",
+    "v1": "trained",
+    "v2": "trained",
+    "v3": "trained",
+    "v4": "training"
+  },
+  "424": {
+    "root": "used to",
+    "v1": "used to",
+    "v2": "used to",
+    "v3": "used to",
+    "v4": "using to"
+  },
+  "451": {
+    "root": "wish",
+    "v1": "wished",
+    "v2": "wished",
+    "v3": "wished",
+    "v4": "wishing"
+  },
+  "457": {
+    "root": "worry",
+    "v1": "worried",
+    "v2": "worried",
+    "v3": "worried",
+    "v4": "worrying"
+  },
+  "465": {
+    "root": "access",
+    "v1": "accessed",
+    "v2": "accessed",
+    "v3": "accessed",
+    "v4": "accessing"
+  },
+  "472": {
+    "root": "admire",
+    "v1": "admired",
+    "v2": "admired",
+    "v3": "admired",
+    "v4": "admiring"
+  },
+  "473": {
+    "root": "admit",
+    "v1": "admitted",
+    "v2": "admitted",
+    "v3": "admitted",
+    "v4": "admitting"
+  },
+  "476": {
+    "root": "afford",
+    "v1": "afforded",
+    "v2": "afforded",
+    "v3": "afforded",
+    "v4": "affording"
+  },
+  "477": {
+    "root": "age",
+    "v1": "aged",
+    "v2": "aged",
+    "v3": "aged",
+    "v4": "aging"
+  },
+  "482": {
+    "root": "aim",
+    "v1": "aimed",
+    "v2": "aimed",
+    "v3": "aimed",
+    "v4": "aiming"
+  },
+  "489": {
+    "root": "abolish",
+    "v1": "abolished",
+    "v2": "abolished",
+    "v3": "abolished",
+    "v4": "abolishing"
+  },
+  "493": {
+    "root": "absorb",
+    "v1": "absorbed",
+    "v2": "absorbed",
+    "v3": "absorbed",
+    "v4": "absorbing"
+  },
+  "498": {
+    "root": "abuse",
+    "v1": "abused",
+    "v2": "abused",
+    "v3": "abused",
+    "v4": "abusing"
+  },
+  "500": {
+    "root": "accelerate",
+    "v1": "accelerated",
+    "v2": "accelerated",
+    "v3": "accelerated",
+    "v4": "accelerating"
+  },
+  "505": {
+    "root": "accommodate",
+    "v1": "accommodated",
+    "v2": "accommodated",
+    "v3": "accommodated",
+    "v4": "accommodating"
+  },
+  "506": {
+    "root": "accomplish",
+    "v1": "accomplished",
+    "v2": "accomplished",
+    "v3": "accomplished",
+    "v4": "accomplishing"
+  },
+  "513": {
+    "root": "accumulate",
+    "v1": "accumulated",
+    "v2": "accumulated",
+    "v3": "accumulated",
+    "v4": "accumulating"
+  },
+  "515": {
+    "root": "get",
+    "v1": "got",
+    "v2": "gotten",
+    "v3": "got",
+    "v4": "getting"
+  },
+  "518": {
+    "root": "give",
+    "v1": "gave",
+    "v2": "given",
+    "v3": "gave",
+    "v4": "giving"
+  },
+  "520": {
+    "root": "go",
+    "v1": "went",
+    "v2": "gone",
+    "v3": "went",
+    "v4": "going"
+  },
+  "533": {
+    "root": "grow",
+    "v1": "grew",
+    "v2": "grown",
+    "v3": "grew",
+    "v4": "growing"
+  },
+  "534": {
+    "root": "guess",
+    "v1": "guessed",
+    "v2": "guessed",
+    "v3": "guessed",
+    "v4": "guessing"
+  },
+  "549": {
+    "root": "happen",
+    "v1": "happened",
+    "v2": "happened",
+    "v3": "happened",
+    "v4": "happening"
+  },
+  "554": {
+    "root": "activate",
+    "v1": "activated",
+    "v2": "activated",
+    "v3": "activated",
+    "v4": "activating"
+  },
+  "563": {
+    "root": "adhere",
+    "v1": "adhered",
+    "v2": "adhered",
+    "v3": "adhered",
+    "v4": "adhering"
+  },
+  "565": {
+    "root": "adjust",
+    "v1": "adjusted",
+    "v2": "adjusted",
+    "v3": "adjusted",
+    "v4": "adjusting"
+  },
+  "567": {
+    "root": "administer",
+    "v1": "administered",
+    "v2": "administered",
+    "v3": "administered",
+    "v4": "administering"
+  },
+  "575": {
+    "root": "advocate",
+    "v1": "advocated",
+    "v2": "advocated",
+    "v3": "advocated",
+    "v4": "advocating"
+  },
+  "586": {
+    "root": "alert",
+    "v1": "alerted",
+    "v2": "alerted",
+    "v3": "alerted",
+    "v4": "alerting"
+  },
+  "589": {
+    "root": "alien",
+    "v1": "aliened",
+    "v2": "aliened",
+    "v3": "aliened",
+    "v4": "aliening"
+  },
+  "590": {
+    "root": "align",
+    "v1": "aligned",
+    "v2": "aligned",
+    "v3": "aligned",
+    "v4": "aligning"
+  },
+  "595": {
+    "root": "allege",
+    "v1": "alleged",
+    "v2": "alleged",
+    "v3": "alleged",
+    "v4": "alleging"
+  },
+  "598": {
+    "root": "allocate",
+    "v1": "allocated",
+    "v2": "allocated",
+    "v3": "allocated",
+    "v4": "allocating"
+  },
+  "609": {
+    "root": "amend",
+    "v1": "amended",
+    "v2": "amended",
+    "v3": "amended",
+    "v4": "amending"
+  },
+  "610": {
+    "root": "cannot",
+    "v1": "could not",
+    "v2": "could not",
+    "v3": "could not",
+    "v4": "not being able to"
+  },
+  "617": {
+    "root": "carry",
+    "v1": "carried",
+    "v2": "carried",
+    "v3": "carried",
+    "v4": "carrying"
+  },
+  "624": {
+    "root": "change",
+    "v1": "changed",
+    "v2": "changed",
+    "v3": "changed",
+    "v4": "changing"
+  },
+  "628": {
+    "root": "check",
+    "v1": "checked",
+    "v2": "checked",
+    "v3": "checked",
+    "v4": "checking"
+  },
+  "633": {
+    "root": "choose",
+    "v1": "chose",
+    "v2": "chosen",
+    "v3": "chose",
+    "v4": "choosing"
+  },
+  "639": {
+    "root": "clean",
+    "v1": "cleaned",
+    "v2": "cleaned",
+    "v3": "cleaned",
+    "v4": "cleaning"
+  },
+  "640": {
+    "root": "climb",
+    "v1": "climbed",
+    "v2": "climbed",
+    "v3": "climbed",
+    "v4": "climbing"
+  },
+  "642": {
+    "root": "close",
+    "v1": "closed",
+    "v2": "closed",
+    "v3": "closed",
+    "v4": "closing"
+  },
+  "651": {
+    "root": "come",
+    "v1": "came",
+    "v2": "come",
+    "v3": "came",
+    "v4": "coming"
+  },
+  "654": {
+    "root": "compare",
+    "v1": "compared",
+    "v2": "compared",
+    "v3": "compared",
+    "v4": "comparing"
+  },
+  "656": {
+    "root": "complete",
+    "v1": "completed",
+    "v2": "completed",
+    "v3": "completed",
+    "v4": "completing"
+  },
+  "660": {
+    "root": "cook",
+    "v1": "cooked",
+    "v2": "cooked",
+    "v3": "cooked",
+    "v4": "cooking"
+  },
+  "664": {
+    "root": "correct",
+    "v1": "corrected",
+    "v2": "corrected",
+    "v3": "corrected",
+    "v4": "correcting"
+  },
+  "666": {
+    "root": "cost",
+    "v1": "cost",
+    "v2": "cost",
+    "v3": "cost",
+    "v4": "costing"
+  },
+  "667": {
+    "root": "could",
+    "v1": "could",
+    "v2": "could",
+    "v3": "could",
+    "v4": "could"
+  },
+  "673": {
+    "root": "create",
+    "v1": "created",
+    "v2": "created",
+    "v3": "created",
+    "v4": "creating"
+  },
+  "677": {
+    "root": "cut",
+    "v1": "cut",
+    "v2": "cut",
+    "v3": "cut",
+    "v4": "cutting"
+  },
+  "684": {
+    "root": "analyze",
+    "v1": "analyzed",
+    "v2": "analyzed",
+    "v3": "analyzed",
+    "v4": "analyzing"
+  },
+  "686": {
+    "root": "announce",
+    "v1": "announced",
+    "v2": "announced",
+    "v3": "announced",
+    "v4": "announcing"
+  },
+  "688": {
+    "root": "annoy",
+    "v1": "annoyed",
+    "v2": "annoyed",
+    "v3": "annoyed",
+    "v4": "annoying"
+  },
+  "692": {
+    "root": "apologize",
+    "v1": "apologized",
+    "v2": "apologized",
+    "v3": "apologized",
+    "v4": "apologizing"
+  },
+  "695": {
+    "root": "appreciate",
+    "v1": "appreciated",
+    "v2": "appreciated",
+    "v3": "appreciated",
+    "v4": "appreciating"
+  },
+  "697": {
+    "root": "arrest",
+    "v1": "arrested",
+    "v2": "arrested",
+    "v3": "arrested",
+    "v4": "arresting"
+  },
+  "701": {
+    "root": "assist",
+    "v1": "assisted",
+    "v2": "assisted",
+    "v3": "assisted",
+    "v4": "assisting"
+  },
+  "703": {
+    "root": "attach",
+    "v1": "attached",
+    "v2": "attached",
+    "v3": "attached",
+    "v4": "attaching"
+  },
+  "705": {
+    "root": "attract",
+    "v1": "attracted",
+    "v2": "attracted",
+    "v3": "attracted",
+    "v4": "attracting"
+  },
+  "708": {
+    "root": "average",
+    "v1": "averaged",
+    "v2": "averaged",
+    "v3": "averaged",
+    "v4": "averaging"
+  },
+  "709": {
+    "root": "award",
+    "v1": "awarded",
+    "v2": "awarded",
+    "v3": "awarded",
+    "v4": "awarding"
+  },
+  "712": {
+    "root": "bake",
+    "v1": "baked",
+    "v2": "baked",
+    "v3": "baked",
+    "v4": "baking"
+  },
+  "714": {
+    "root": "balance",
+    "v1": "balanced",
+    "v2": "balanced",
+    "v3": "balanced",
+    "v4": "balancing"
+  },
+  "715": {
+    "root": "ban",
+    "v1": "banned",
+    "v2": "banned",
+    "v3": "banned",
+    "v4": "banning"
+  },
+  "719": {
+    "root": "base",
+    "v1": "based",
+    "v2": "based",
+    "v3": "based",
+    "v4": "basing"
+  },
+  "728": {
+    "root": "bend",
+    "v1": "bent",
+    "v2": "bent",
+    "v3": "bent",
+    "v4": "bending"
+  },
+  "730": {
+    "root": "benefit",
+    "v1": "benefited",
+    "v2": "benefited",
+    "v3": "benefited",
+    "v4": "benefiting"
+  },
+  "732": {
+    "root": "bite",
+    "v1": "bit",
+    "v2": "bitten",
+    "v3": "bit",
+    "v4": "biting"
+  },
+  "735": {
+    "root": "block",
+    "v1": "blocked",
+    "v2": "blocked",
+    "v3": "blocked",
+    "v4": "blocking"
+  },
+  "736": {
+    "root": "board",
+    "v1": "boarded",
+    "v2": "boarded",
+    "v3": "boarded",
+    "v4": "boarding"
+  },
+  "738": {
+    "root": "bomb",
+    "v1": "bombed",
+    "v2": "bombed",
+    "v3": "bombed",
+    "v4": "bombing"
+  },
+  "740": {
+    "root": "bother",
+    "v1": "bothered",
+    "v2": "bothered",
+    "v3": "bothered",
+    "v4": "bothering"
+  },
+  "743": {
+    "root": "brand",
+    "v1": "branded",
+    "v2": "branded",
+    "v3": "branded",
+    "v4": "branding"
+  },
+  "745": {
+    "root": "breathe",
+    "v1": "breathed",
+    "v2": "breathed",
+    "v3": "breathed",
+    "v4": "breathing"
+  },
+  "749": {
+    "root": "bury",
+    "v1": "buried",
+    "v2": "buried",
+    "v3": "buried",
+    "v4": "burying"
+  },
+  "752": {
+    "root": "calm",
+    "v1": "calmed",
+    "v2": "calmed",
+    "v3": "calmed",
+    "v4": "calming"
+  },
+  "755": {
+    "root": "campaign",
+    "v1": "campaigned",
+    "v2": "campaigned",
+    "v3": "campaigned",
+    "v4": "campaigning"
+  },
+  "765": {
+    "root": "centre",
+    "v1": "centred",
+    "v2": "centred",
+    "v3": "centred",
+    "v4": "centring"
+  },
+  "773": {
+    "root": "charge",
+    "v1": "charged",
+    "v2": "charged",
+    "v3": "charged",
+    "v4": "charging"
+  },
+  "775": {
+    "root": "cheat",
+    "v1": "cheated",
+    "v2": "cheated",
+    "v3": "cheated",
+    "v4": "cheating"
+  },
+  "780": {
+    "root": "dance",
+    "v1": "danced",
+    "v2": "danced",
+    "v3": "danced",
+    "v4": "dancing"
+  },
+  "790": {
+    "root": "decide",
+    "v1": "decided",
+    "v2": "decided",
+    "v3": "decided",
+    "v4": "deciding"
+  },
+  "794": {
+    "root": "design",
+    "v1": "designed",
+    "v2": "designed",
+    "v3": "designed",
+    "v4": "designing"
+  },
+  "806": {
+    "root": "anticipate",
+    "v1": "anticipated",
+    "v2": "anticipated",
+    "v3": "anticipated",
+    "v4": "anticipating"
+  },
+  "812": {
+    "root": "applaud",
+    "v1": "applauded",
+    "v2": "applauded",
+    "v3": "applauded",
+    "v4": "applauding"
+  },
+  "820": {
+    "root": "claim",
+    "v1": "claimed",
+    "v2": "claimed",
+    "v3": "claimed",
+    "v4": "claiming"
+  },
+  "823": {
+    "root": "clear",
+    "v1": "cleared",
+    "v2": "cleared",
+    "v3": "cleared",
+    "v4": "clearing"
+  },
+  "824": {
+    "root": "click",
+    "v1": "clicked",
+    "v2": "clicked",
+    "v3": "clicked",
+    "v4": "clicking"
+  },
+  "831": {
+    "root": "coach",
+    "v1": "coached",
+    "v2": "coached",
+    "v3": "coached",
+    "v4": "coaching"
+  },
+  "835": {
+    "root": "combine",
+    "v1": "combined",
+    "v2": "combined",
+    "v3": "combined",
+    "v4": "combining"
+  },
+  "836": {
+    "root": "comment",
+    "v1": "commented",
+    "v2": "commented",
+    "v3": "commented",
+    "v4": "commenting"
+  },
+  "839": {
+    "root": "commit",
+    "v1": "committed",
+    "v2": "committed",
+    "v3": "committed",
+    "v4": "committing"
+  },
+  "845": {
+    "root": "concentrate",
+    "v1": "concentrated",
+    "v2": "concentrated",
+    "v3": "concentrated",
+    "v4": "concentrating"
+  },
+  "846": {
+    "root": "conclude",
+    "v1": "concluded",
+    "v2": "concluded",
+    "v3": "concluded",
+    "v4": "concluding"
+  },
+  "849": {
+    "root": "confirm",
+    "v1": "confirmed",
+    "v2": "confirmed",
+    "v3": "confirmed",
+    "v4": "confirming"
+  },
+  "854": {
+    "root": "die",
+    "v1": "died",
+    "v2": "died",
+    "v3": "died",
+    "v4": "dying"
+  },
+  "861": {
+    "root": "discuss",
+    "v1": "discussed",
+    "v2": "discussed",
+    "v3": "discussed",
+    "v4": "discussing"
+  },
+  "863": {
+    "root": "do",
+    "v1": "did",
+    "v2": "done",
+    "v3": "did",
+    "v4": "doing"
+  },
+  "871": {
+    "root": "draw",
+    "v1": "drew",
+    "v2": "drawn",
+    "v3": "drew",
+    "v4": "drawing"
+  },
+  "873": {
+    "root": "dress",
+    "v1": "dressed",
+    "v2": "dressed",
+    "v3": "dressed",
+    "v4": "dressing"
+  },
+  "875": {
+    "root": "drink",
+    "v1": "drank",
+    "v2": "drunk",
+    "v3": "drank",
+    "v4": "drinking"
+  },
+  "876": {
+    "root": "drive",
+    "v1": "drove",
+    "v2": "driven",
+    "v3": "drove",
+    "v4": "driving"
+  },
+  "892": {
+    "root": "hate",
+    "v1": "hated",
+    "v2": "hated",
+    "v3": "hated",
+    "v4": "hating"
+  },
+  "893": {
+    "root": "have to",
+    "v1": "had to",
+    "v2": "had to",
+    "v3": "had to",
+    "v4": "having to"
+  },
+  "898": {
+    "root": "hear",
+    "v1": "heard",
+    "v2": "heard",
+    "v3": "heard",
+    "v4": "hearing"
+  },
+  "901": {
+    "root": "help",
+    "v1": "helped",
+    "v2": "helped",
+    "v3": "helped",
+    "v4": "helping"
+  },
+  "917": {
+    "root": "hope",
+    "v1": "hoped",
+    "v2": "hoped",
+    "v3": "hoped",
+    "v4": "hoping"
+  },
+  "934": {
+    "root": "imagine",
+    "v1": "imagined",
+    "v2": "imagined",
+    "v3": "imagined",
+    "v4": "imagining"
+  },
+  "936": {
+    "root": "improve",
+    "v1": "improved",
+    "v2": "improved",
+    "v3": "improved",
+    "v4": "improving"
+  },
+  "939": {
+    "root": "include",
+    "v1": "included",
+    "v2": "included",
+    "v3": "included",
+    "v4": "including"
+  },
+  "942": {
+    "root": "interest",
+    "v1": "interested",
+    "v2": "interested",
+    "v3": "interested",
+    "v4": "interesting"
+  },
+  "947": {
+    "root": "interview",
+    "v1": "interviewed",
+    "v2": "interviewed",
+    "v3": "interviewed",
+    "v4": "interviewing"
+  },
+  "949": {
+    "root": "introduce",
+    "v1": "introduced",
+    "v2": "introduced",
+    "v3": "introduced",
+    "v4": "introducing"
+  },
+  "957": {
+    "root": "join",
+    "v1": "joined",
+    "v2": "joined",
+    "v3": "joined",
+    "v4": "joining"
+  },
+  "963": {
+    "root": "keep",
+    "v1": "kept",
+    "v2": "kept",
+    "v3": "kept",
+    "v4": "keeping"
+  },
+  "969": {
+    "root": "know",
+    "v1": "knew",
+    "v2": "known",
+    "v3": "knew",
+    "v4": "knowing"
+  },
+  "977": {
+    "root": "laugh",
+    "v1": "laughed",
+    "v2": "laughed",
+    "v3": "laughed",
+    "v4": "laughing"
+  },
+  "979": {
+    "root": "learn",
+    "v1": "learned",
+    "v2": "learned",
+    "v3": "learned",
+    "v4": "learning"
+  },
+  "980": {
+    "root": "leave",
+    "v1": "left",
+    "v2": "left",
+    "v3": "left",
+    "v4": "leaving"
+  },
+  "986": {
+    "root": "let",
+    "v1": "let",
+    "v2": "let",
+    "v3": "let",
+    "v4": "letting"
+  },
+  "990": {
+    "root": "eat",
+    "v1": "ate",
+    "v2": "eaten",
+    "v3": "ate",
+    "v4": "eating"
+  },
+  "999": {
+    "root": "email",
+    "v1": "emailed",
+    "v2": "emailed",
+    "v3": "emailed",
+    "v4": "emailing"
+  },
+  "1001": {
+    "root": "end",
+    "v1": "ended",
+    "v2": "ended",
+    "v3": "ended",
+    "v4": "ending"
+  },
+  "1002": {
+    "root": "enjoy",
+    "v1": "enjoyed",
+    "v2": "enjoyed",
+    "v3": "enjoyed",
+    "v4": "enjoying"
+  },
+  "1007": {
+    "root": "appoint",
+    "v1": "appointed",
+    "v2": "appointed",
+    "v3": "appointed",
+    "v4": "appointing"
+  },
+  "1015": {
+    "root": "arm",
+    "v1": "armed",
+    "v2": "armed",
+    "v3": "armed",
+    "v4": "arming"
+  },
+  "1018": {
+    "root": "articulate",
+    "v1": "articulated",
+    "v2": "articulated",
+    "v3": "articulated",
+    "v4": "articulating"
+  },
+  "1023": {
+    "root": "aspire",
+    "v1": "aspired",
+    "v2": "aspired",
+    "v3": "aspired",
+    "v4": "aspiring"
+  },
+  "1026": {
+    "root": "assault",
+    "v1": "assaulted",
+    "v2": "assaulted",
+    "v3": "assaulted",
+    "v4": "assaulting"
+  },
+  "1027": {
+    "root": "assemble",
+    "v1": "assembled",
+    "v2": "assembled",
+    "v3": "assembled",
+    "v4": "assembling"
+  },
+  "1029": {
+    "root": "assert",
+    "v1": "asserted",
+    "v2": "asserted",
+    "v3": "asserted",
+    "v4": "asserting"
+  },
+  "1032": {
+    "root": "assign",
+    "v1": "assigned",
+    "v2": "assigned",
+    "v3": "assigned",
+    "v4": "assigning"
+  },
+  "1036": {
+    "root": "assure",
+    "v1": "assured",
+    "v2": "assured",
+    "v3": "assured",
+    "v4": "assuring"
+  },
+  "1041": {
+    "root": "attain",
+    "v1": "attained",
+    "v2": "attained",
+    "v3": "attained",
+    "v4": "attaining"
+  },
+  "1044": {
+    "root": "attribute",
+    "v1": "attributed",
+    "v2": "attributed",
+    "v3": "attributed",
+    "v4": "attributing"
+  },
+  "1049": {
+    "root": "authorize",
+    "v1": "authorized",
+    "v2": "authorized",
+    "v3": "authorized",
+    "v4": "authorizing"
+  },
+  "1059": {
+    "root": "await",
+    "v1": "awaited",
+    "v2": "awaited",
+    "v3": "awaited",
+    "v4": "awaiting"
+  },
+  "1069": {
+    "root": "lie",
+    "v1": "lay",
+    "v2": "lain",
+    "v3": "lay",
+    "v4": "lying"
+  },
+  "1073": {
+    "root": "like",
+    "v1": "liked",
+    "v2": "liked",
+    "v3": "liked",
+    "v4": "liking"
+  },
+  "1077": {
+    "root": "list",
+    "v1": "listed",
+    "v2": "listed",
+    "v3": "listed",
+    "v4": "listing"
+  },
+  "1078": {
+    "root": "listen",
+    "v1": "listened",
+    "v2": "listened",
+    "v3": "listened",
+    "v4": "listening"
+  },
+  "1082": {
+    "root": "live",
+    "v1": "lived",
+    "v2": "lived",
+    "v3": "lived",
+    "v4": "living"
+  },
+  "1087": {
+    "root": "look",
+    "v1": "looked",
+    "v2": "looked",
+    "v3": "looked",
+    "v4": "looking"
+  },
+  "1088": {
+    "root": "lose",
+    "v1": "lost",
+    "v2": "lost",
+    "v3": "lost",
+    "v4": "losing"
+  },
+  "1093": {
+    "root": "love",
+    "v1": "loved",
+    "v2": "loved",
+    "v3": "loved",
+    "v4": "loving"
+  },
+  "1098": {
+    "root": "make",
+    "v1": "made",
+    "v2": "made",
+    "v3": "made",
+    "v4": "making"
+  },
+  "1107": {
+    "root": "match",
+    "v1": "matched",
+    "v2": "matched",
+    "v3": "matched",
+    "v4": "matching"
+  },
+  "1112": {
+    "root": "mean",
+    "v1": "meant",
+    "v2": "meant",
+    "v3": "meant",
+    "v4": "meaning"
+  },
+  "1115": {
+    "root": "meet",
+    "v1": "met",
+    "v2": "met",
+    "v3": "met",
+    "v4": "meeting"
+  },
+  "1126": {
+    "root": "miss",
+    "v1": "missed",
+    "v2": "missed",
+    "v3": "missed",
+    "v4": "missing"
+  },
+  "1142": {
+    "root": "move",
+    "v1": "moved",
+    "v2": "moved",
+    "v3": "moved",
+    "v4": "moving"
+  },
+  "1150": {
+    "root": "must",
+    "v1": "must",
+    "v2": "must",
+    "v3": "must",
+    "v4": "must"
+  },
+  "1153": {
+    "root": "name",
+    "v1": "named",
+    "v2": "named",
+    "v3": "named",
+    "v4": "naming"
+  },
+  "1158": {
+    "root": "need",
+    "v1": "needed",
+    "v2": "needed",
+    "v3": "needed",
+    "v4": "needing"
+  },
+  "1185": {
+    "root": "bat",
+    "v1": "batted",
+    "v2": "batted",
+    "v3": "batted",
+    "v4": "batting"
+  },
+  "1200": {
+    "root": "betray",
+    "v1": "betrayed",
+    "v2": "betrayed",
+    "v3": "betrayed",
+    "v4": "betraying"
+  },
+  "1203": {
+    "root": "bid",
+    "v1": "bid",
+    "v2": "bid",
+    "v3": "bid",
+    "v4": "bidding"
+  },
+  "1204": {
+    "root": "bind",
+    "v1": "bound",
+    "v2": "bound",
+    "v3": "bound",
+    "v4": "binding"
+  },
+  "1212": {
+    "root": "blast",
+    "v1": "blasted",
+    "v2": "blasted",
+    "v3": "blasted",
+    "v4": "blasting"
+  },
+  "1213": {
+    "root": "bleed",
+    "v1": "bled",
+    "v2": "bled",
+    "v3": "bled",
+    "v4": "bleeding"
+  },
+  "1214": {
+    "root": "blend",
+    "v1": "blended",
+    "v2": "blended",
+    "v3": "blended",
+    "v4": "blending"
+  },
+  "1216": {
+    "root": "bless",
+    "v1": "blessed",
+    "v2": "blessed",
+    "v3": "blessed",
+    "v4": "blessing"
+  },
+  "1219": {
+    "root": "boast",
+    "v1": "boasted",
+    "v2": "boasted",
+    "v3": "boasted",
+    "v4": "boasting"
+  },
+  "1225": {
+    "root": "boost",
+    "v1": "boosted",
+    "v2": "boosted",
+    "v3": "boosted",
+    "v4": "boosting"
+  },
+  "1227": {
+    "root": "bounce",
+    "v1": "bounced",
+    "v2": "bounced",
+    "v3": "bounced",
+    "v4": "bouncing"
+  },
+  "1230": {
+    "root": "bow1",
+    "v1": "bowed",
+    "v2": "bowed",
+    "v3": "bowed",
+    "v4": "bowing"
+  },
+  "1233": {
+    "root": "breach",
+    "v1": "breached",
+    "v2": "breached",
+    "v3": "breached",
+    "v4": "breaching"
+  },
+  "1236": {
+    "root": "breed",
+    "v1": "bred",
+    "v2": "bred",
+    "v3": "bred",
+    "v4": "breeding"
+  },
+  "1253": {
+    "root": "burst",
+    "v1": "burst",
+    "v2": "burst",
+    "v3": "burst",
+    "v4": "bursting"
+  },
+  "1266": {
+    "root": "carve",
+    "v1": "carved",
+    "v2": "carved",
+    "v3": "carved",
+    "v4": "carving"
+  },
+  "1269": {
+    "root": "comply",
+    "v1": "complied",
+    "v2": "complied",
+    "v3": "complied",
+    "v4": "complying"
+  },
+  "1270": {
+    "root": "compose",
+    "v1": "composed",
+    "v2": "composed",
+    "v3": "composed",
+    "v4": "composing"
+  },
+  "1275": {
+    "root": "comprise",
+    "v1": "comprised",
+    "v2": "comprised",
+    "v3": "comprised",
+    "v4": "comprising"
+  },
+  "1277": {
+    "root": "compromise",
+    "v1": "compromised",
+    "v2": "compromised",
+    "v3": "compromised",
+    "v4": "compromising"
+  },
+  "1279": {
+    "root": "compute",
+    "v1": "computed",
+    "v2": "computed",
+    "v3": "computed",
+    "v4": "computing"
+  },
+  "1280": {
+    "root": "conceal",
+    "v1": "concealed",
+    "v2": "concealed",
+    "v3": "concealed",
+    "v4": "concealing"
+  },
+  "1281": {
+    "root": "concede",
+    "v1": "conceded",
+    "v2": "conceded",
+    "v3": "conceded",
+    "v4": "conceding"
+  },
+  "1282": {
+    "root": "conceive",
+    "v1": "conceived",
+    "v2": "conceived",
+    "v3": "conceived",
+    "v4": "conceiving"
+  },
+  "1287": {
+    "root": "condemn",
+    "v1": "condemned",
+    "v2": "condemned",
+    "v3": "condemned",
+    "v4": "condemning"
+  },
+  "1288": {
+    "root": "confer",
+    "v1": "conferred",
+    "v2": "conferred",
+    "v3": "conferred",
+    "v4": "conferring"
+  },
+  "1289": {
+    "root": "confess",
+    "v1": "confessed",
+    "v2": "confessed",
+    "v3": "confessed",
+    "v4": "confessing"
+  },
+  "1292": {
+    "root": "confine",
+    "v1": "confined",
+    "v2": "confined",
+    "v3": "confined",
+    "v4": "confining"
+  },
+  "1294": {
+    "root": "confront",
+    "v1": "confronted",
+    "v2": "confronted",
+    "v3": "confronted",
+    "v4": "confronting"
+  },
+  "1297": {
+    "root": "congratulate",
+    "v1": "congratulated",
+    "v2": "congratulated",
+    "v3": "congratulated",
+    "v4": "congratulating"
+  },
+  "1300": {
+    "root": "conquer",
+    "v1": "conquered",
+    "v2": "conquered",
+    "v3": "conquered",
+    "v4": "conquering"
+  },
+  "1306": {
+    "root": "consent",
+    "v1": "consented",
+    "v2": "consented",
+    "v3": "consented",
+    "v4": "consenting"
+  },
+  "1309": {
+    "root": "conserve",
+    "v1": "conserved",
+    "v2": "conserved",
+    "v3": "conserved",
+    "v4": "conserving"
+  },
+  "1314": {
+    "root": "consolidate",
+    "v1": "consolidated",
+    "v2": "consolidated",
+    "v3": "consolidated",
+    "v4": "consolidating"
+  },
+  "1317": {
+    "root": "constitute",
+    "v1": "constituted",
+    "v2": "constituted",
+    "v3": "constituted",
+    "v4": "constituting"
+  },
+  "1321": {
+    "root": "consult",
+    "v1": "consulted",
+    "v2": "consulted",
+    "v3": "consulted",
+    "v4": "consulting"
+  },
+  "1324": {
+    "root": "consumption",
+    "v1": "consumed",
+    "v2": "consumed",
+    "v3": "consumed",
+    "v4": "consuming"
+  },
+  "1325": {
+    "root": "contemplate",
+    "v1": "contemplated",
+    "v2": "contemplated",
+    "v3": "contemplated",
+    "v4": "contemplating"
+  },
+  "1327": {
+    "root": "contend",
+    "v1": "contended",
+    "v2": "contended",
+    "v3": "contended",
+    "v4": "contending"
+  },
+  "1342": {
+    "root": "convey",
+    "v1": "conveyed",
+    "v2": "conveyed",
+    "v3": "conveyed",
+    "v4": "conveying"
+  },
+  "1343": {
+    "root": "convict",
+    "v1": "convicted",
+    "v2": "convicted",
+    "v3": "convicted",
+    "v4": "convicting"
+  },
+  "1346": {
+    "root": "cooperate",
+    "v1": "cooperated",
+    "v2": "cooperated",
+    "v3": "cooperated",
+    "v4": "cooperating"
+  },
+  "1348": {
+    "root": "coordinate",
+    "v1": "coordinated",
+    "v2": "coordinated",
+    "v3": "coordinated",
+    "v4": "coordinating"
+  },
+  "1357": {
+    "root": "correlate",
+    "v1": "correlated",
+    "v2": "correlated",
+    "v3": "correlated",
+    "v4": "correlating"
+  },
+  "1359": {
+    "root": "correspond",
+    "v1": "corresponded",
+    "v2": "corresponded",
+    "v3": "corresponded",
+    "v4": "corresponding"
+  },
+  "1371": {
+    "root": "counter",
+    "v1": "countered",
+    "v2": "countered",
+    "v3": "countered",
+    "v4": "countering"
+  },
+  "1379": {
+    "root": "crawl",
+    "v1": "crawled",
+    "v2": "crawled",
+    "v3": "crawled",
+    "v4": "crawling"
+  },
+  "1384": {
+    "root": "creep",
+    "v1": "crept",
+    "v2": "crept",
+    "v3": "crept",
+    "v4": "creeping"
+  },
+  "1390": {
+    "root": "cruise",
+    "v1": "cruised",
+    "v2": "cruised",
+    "v3": "cruised",
+    "v4": "cruising"
+  },
+  "1391": {
+    "root": "crush",
+    "v1": "crushed",
+    "v2": "crushed",
+    "v3": "crushed",
+    "v4": "crushing"
+  },
+  "1396": {
+    "root": "cultivate",
+    "v1": "cultivated",
+    "v2": "cultivated",
+    "v3": "cultivated",
+    "v4": "cultivating"
+  },
+  "1408": {
+    "root": "dare",
+    "v1": "dared",
+    "v2": "dared",
+    "v3": "dared",
+    "v4": "daring"
+  },
+  "1424": {
+    "root": "deem",
+    "v1": "deemed",
+    "v2": "deemed",
+    "v3": "deemed",
+    "v4": "deeming"
+  },
+  "1431": {
+    "root": "defy",
+    "v1": "defied",
+    "v2": "defied",
+    "v3": "defied",
+    "v4": "defying"
+  },
+  "1434": {
+    "root": "delete",
+    "v1": "deleted",
+    "v2": "deleted",
+    "v3": "deleted",
+    "v4": "deleting"
+  },
+  "1441": {
+    "root": "denounce",
+    "v1": "denounced",
+    "v2": "denounced",
+    "v3": "denounced",
+    "v4": "denouncing"
+  },
+  "1444": {
+    "root": "depart",
+    "v1": "departed",
+    "v2": "departed",
+    "v3": "departed",
+    "v4": "departing"
+  },
+  "1447": {
+    "root": "depict",
+    "v1": "depicted",
+    "v2": "depicted",
+    "v3": "depicted",
+    "v4": "depicting"
+  },
+  "1448": {
+    "root": "deploy",
+    "v1": "deployed",
+    "v2": "deployed",
+    "v3": "deployed",
+    "v4": "deploying"
+  },
+  "1451": {
+    "root": "deposit",
+    "v1": "deposited",
+    "v2": "deposited",
+    "v3": "deposited",
+    "v4": "depositing"
+  },
+  "1453": {
+    "root": "deprive",
+    "v1": "deprived",
+    "v2": "deprived",
+    "v3": "deprived",
+    "v4": "depriving"
+  },
+  "1455": {
+    "root": "derive",
+    "v1": "derived",
+    "v2": "derived",
+    "v3": "derived",
+    "v4": "deriving"
+  },
+  "1456": {
+    "root": "descend",
+    "v1": "descended",
+    "v2": "descended",
+    "v3": "descended",
+    "v4": "descending"
+  },
+  "1458": {
+    "root": "designate",
+    "v1": "designated",
+    "v2": "designated",
+    "v3": "designated",
+    "v4": "designating"
+  },
+  "1464": {
+    "root": "detain",
+    "v1": "detained",
+    "v2": "detained",
+    "v3": "detained",
+    "v4": "detaining"
+  },
+  "1467": {
+    "root": "deteriorate",
+    "v1": "deteriorated",
+    "v2": "deteriorated",
+    "v3": "deteriorated",
+    "v4": "deteriorating"
+  },
+  "1469": {
+    "root": "devastate",
+    "v1": "devastated",
+    "v2": "devastated",
+    "v3": "devastated",
+    "v4": "devastating"
+  },
+  "1471": {
+    "root": "devise",
+    "v1": "devised",
+    "v2": "devised",
+    "v3": "devised",
+    "v4": "devising"
+  },
+  "1472": {
+    "root": "devote",
+    "v1": "devoted",
+    "v2": "devoted",
+    "v3": "devoted",
+    "v4": "devoting"
+  },
+  "1473": {
+    "root": "diagnose",
+    "v1": "diagnosed",
+    "v2": "diagnosed",
+    "v3": "diagnosed",
+    "v4": "diagnosing"
+  },
+  "1475": {
+    "root": "dictate",
+    "v1": "dictated",
+    "v2": "dictated",
+    "v3": "dictated",
+    "v4": "dictating"
+  },
+  "1477": {
+    "root": "differ",
+    "v1": "differed",
+    "v2": "differed",
+    "v3": "differed",
+    "v4": "differing"
+  },
+  "1478": {
+    "root": "differentiate",
+    "v1": "differentiated",
+    "v2": "differentiated",
+    "v3": "differentiated",
+    "v4": "differentiating"
+  },
+  "1482": {
+    "root": "diminish",
+    "v1": "diminished",
+    "v2": "diminished",
+    "v3": "diminished",
+    "v4": "diminishing"
+  },
+  "1483": {
+    "root": "dip",
+    "v1": "dipped",
+    "v2": "dipped",
+    "v3": "dipped",
+    "v4": "dipping"
+  },
+  "1490": {
+    "root": "disappoint",
+    "v1": "disappointed",
+    "v2": "disappointed",
+    "v3": "disappointed",
+    "v4": "disappointing"
+  },
+  "1493": {
+    "root": "discard",
+    "v1": "discarded",
+    "v2": "discarded",
+    "v3": "discarded",
+    "v4": "discarding"
+  },
+  "1494": {
+    "root": "discharge",
+    "v1": "discharged",
+    "v2": "discharged",
+    "v3": "discharged",
+    "v4": "discharging"
+  },
+  "1495": {
+    "root": "disclose",
+    "v1": "disclosed",
+    "v2": "disclosed",
+    "v3": "disclosed",
+    "v4": "disclosing"
+  },
+  "1497": {
+    "root": "discourage",
+    "v1": "discouraged",
+    "v2": "discouraged",
+    "v3": "discouraged",
+    "v4": "discouraging"
+  },
+  "1503": {
+    "root": "disorder",
+    "v1": "disordered",
+    "v2": "disordered",
+    "v3": "disordered",
+    "v4": "disordering"
+  },
+  "1505": {
+    "root": "dispose",
+    "v1": "disposed",
+    "v2": "disposed",
+    "v3": "disposed",
+    "v4": "disposing"
+  },
+  "1507": {
+    "root": "dispute",
+    "v1": "disputed",
+    "v2": "disputed",
+    "v3": "disputed",
+    "v4": "disputing"
+  },
+  "1508": {
+    "root": "disrupt",
+    "v1": "disrupted",
+    "v2": "disrupted",
+    "v3": "disrupted",
+    "v4": "disrupting"
+  },
+  "1510": {
+    "root": "dissolve",
+    "v1": "dissolved",
+    "v2": "dissolved",
+    "v3": "dissolved",
+    "v4": "dissolving"
+  },
+  "1515": {
+    "root": "distinguish",
+    "v1": "distinguished",
+    "v2": "distinguished",
+    "v3": "distinguished",
+    "v4": "distinguishing"
+  },
+  "1516": {
+    "root": "distort",
+    "v1": "distorted",
+    "v2": "distorted",
+    "v3": "distorted",
+    "v4": "distorting"
+  },
+  "1517": {
+    "root": "distract",
+    "v1": "distracted",
+    "v2": "distracted",
+    "v3": "distracted",
+    "v4": "distracting"
+  },
+  "1519": {
+    "root": "distress",
+    "v1": "distressed",
+    "v2": "distressed",
+    "v3": "distressed",
+    "v4": "distressing"
+  },
+  "1520": {
+    "root": "disturb",
+    "v1": "disturbed",
+    "v2": "disturbed",
+    "v3": "disturbed",
+    "v4": "disturbing"
+  },
+  "1522": {
+    "root": "dive",
+    "v1": "dived",
+    "v2": "dived",
+    "v3": "dived",
+    "v4": "diving"
+  },
+  "1526": {
+    "root": "divert",
+    "v1": "diverted",
+    "v2": "diverted",
+    "v3": "diverted",
+    "v4": "diverting"
+  },
+  "1529": {
+    "root": "divorce",
+    "v1": "divorced",
+    "v2": "divorced",
+    "v3": "divorced",
+    "v4": "divorcing"
+  },
+  "1542": {
+    "root": "drain",
+    "v1": "drained",
+    "v2": "drained",
+    "v3": "drained",
+    "v4": "draining"
+  },
+  "1544": {
+    "root": "drift",
+    "v1": "drifted",
+    "v2": "drifted",
+    "v3": "drifted",
+    "v4": "drifting"
+  },
+  "1547": {
+    "root": "drown",
+    "v1": "drowned",
+    "v2": "drowned",
+    "v3": "drowned",
+    "v4": "drowning"
+  },
+  "1549": {
+    "root": "dub",
+    "v1": "dubbed",
+    "v2": "dubbed",
+    "v3": "dubbed",
+    "v4": "dubbing"
+  },
+  "1559": {
+    "root": "ease",
+    "v1": "eased",
+    "v2": "eased",
+    "v3": "eased",
+    "v4": "easing"
+  },
+  "1560": {
+    "root": "echo",
+    "v1": "echoed",
+    "v2": "echoed",
+    "v3": "echoed",
+    "v4": "echoing"
+  },
+  "1577": {
+    "root": "elevate",
+    "v1": "elevated",
+    "v2": "elevated",
+    "v3": "elevated",
+    "v4": "elevating"
+  },
+  "1579": {
+    "root": "eliminate",
+    "v1": "eliminated",
+    "v2": "eliminated",
+    "v3": "eliminated",
+    "v4": "eliminating"
+  },
+  "1581": {
+    "root": "embark",
+    "v1": "embarked",
+    "v2": "embarked",
+    "v3": "embarked",
+    "v4": "embarking"
+  },
+  "1584": {
+    "root": "embed",
+    "v1": "embedded",
+    "v2": "embedded",
+    "v3": "embedded",
+    "v4": "embedding"
+  },
+  "1585": {
+    "root": "embody",
+    "v1": "embodied",
+    "v2": "embodied",
+    "v3": "embodied",
+    "v4": "embodying"
+  },
+  "1586": {
+    "root": "embrace",
+    "v1": "embraced",
+    "v2": "embraced",
+    "v3": "embraced",
+    "v4": "embracing"
+  },
+  "1592": {
+    "root": "empower",
+    "v1": "empowered",
+    "v2": "empowered",
+    "v3": "empowered",
+    "v4": "empowering"
+  },
+  "1593": {
+    "root": "enact",
+    "v1": "enacted",
+    "v2": "enacted",
+    "v3": "enacted",
+    "v4": "enacting"
+  },
+  "1594": {
+    "root": "encompass",
+    "v1": "encompassed",
+    "v2": "encompassed",
+    "v3": "encompassed",
+    "v4": "encompassing"
+  },
+  "1599": {
+    "root": "endorse",
+    "v1": "endorsed",
+    "v2": "endorsed",
+    "v3": "endorsed",
+    "v4": "endorsing"
+  },
+  "1601": {
+    "root": "endure",
+    "v1": "endured",
+    "v2": "endured",
+    "v3": "endured",
+    "v4": "enduring"
+  },
+  "1602": {
+    "root": "enforce",
+    "v1": "enforced",
+    "v2": "enforced",
+    "v3": "enforced",
+    "v4": "enforcing"
+  },
+  "1607": {
+    "root": "enquire",
+    "v1": "enquired",
+    "v2": "enquired",
+    "v3": "enquired",
+    "v4": "enquiring"
+  },
+  "1608": {
+    "root": "enrich",
+    "v1": "enriched",
+    "v2": "enriched",
+    "v3": "enriched",
+    "v4": "enriching"
+  },
+  "1609": {
+    "root": "enrol",
+    "v1": "enrolled",
+    "v2": "enrolled",
+    "v3": "enrolled",
+    "v4": "enrolling"
+  },
+  "1610": {
+    "root": "ensue",
+    "v1": "ensued",
+    "v2": "ensued",
+    "v3": "ensued",
+    "v4": "ensuing"
+  },
+  "1614": {
+    "root": "entitle",
+    "v1": "entitled",
+    "v2": "entitled",
+    "v3": "entitled",
+    "v4": "entitling"
+  },
+  "1621": {
+    "root": "equip",
+    "v1": "equipped",
+    "v2": "equipped",
+    "v3": "equipped",
+    "v4": "equipping"
+  },
+  "1625": {
+    "root": "erect",
+    "v1": "erected",
+    "v2": "erected",
+    "v3": "erected",
+    "v4": "erecting"
+  },
+  "1626": {
+    "root": "erupt",
+    "v1": "erupted",
+    "v2": "erupted",
+    "v3": "erupted",
+    "v4": "erupting"
+  },
+  "1627": {
+    "root": "escalate",
+    "v1": "escalated",
+    "v2": "escalated",
+    "v3": "escalated",
+    "v4": "escalating"
+  },
+  "1634": {
+    "root": "evacuate",
+    "v1": "evacuated",
+    "v2": "evacuated",
+    "v3": "evacuated",
+    "v4": "evacuating"
+  },
+  "1637": {
+    "root": "evoke",
+    "v1": "evoked",
+    "v2": "evoked",
+    "v3": "evoked",
+    "v4": "evoking"
+  },
+  "1640": {
+    "root": "evolve",
+    "v1": "evolved",
+    "v2": "evolved",
+    "v3": "evolved",
+    "v4": "evolving"
+  },
+  "1641": {
+    "root": "exaggerate",
+    "v1": "exaggerated",
+    "v2": "exaggerated",
+    "v3": "exaggerated",
+    "v4": "exaggerating"
+  },
+  "1642": {
+    "root": "exceed",
+    "v1": "exceeded",
+    "v2": "exceeded",
+    "v3": "exceeded",
+    "v4": "exceeding"
+  },
+  "1649": {
+    "root": "exclude",
+    "v1": "excluded",
+    "v2": "excluded",
+    "v3": "excluded",
+    "v4": "excluding"
+  },
+  "1653": {
+    "root": "execute",
+    "v1": "executed",
+    "v2": "executed",
+    "v3": "executed",
+    "v4": "executing"
+  },
+  "1655": {
+    "root": "exert",
+    "v1": "exerted",
+    "v2": "exerted",
+    "v3": "exerted",
+    "v4": "exerting"
+  },
+  "1656": {
+    "root": "exhibit",
+    "v1": "exhibited",
+    "v2": "exhibited",
+    "v3": "exhibited",
+    "v4": "exhibiting"
+  },
+  "1660": {
+    "root": "exit",
+    "v1": "exited",
+    "v2": "exited",
+    "v3": "exited",
+    "v4": "exiting"
+  },
+  "1666": {
+    "root": "expire",
+    "v1": "expired",
+    "v2": "expired",
+    "v3": "expired",
+    "v4": "expiring"
+  },
+  "1669": {
+    "root": "exploit",
+    "v1": "exploited",
+    "v2": "exploited",
+    "v3": "exploited",
+    "v4": "exploiting"
+  },
+  "1678": {
+    "root": "extract",
+    "v1": "extracted",
+    "v2": "extracted",
+    "v3": "extracted",
+    "v4": "extracting"
+  },
+  "1682": {
+    "root": "facilitate",
+    "v1": "facilitated",
+    "v2": "facilitated",
+    "v3": "facilitated",
+    "v4": "facilitating"
+  },
+  "1685": {
+    "root": "fade",
+    "v1": "faded",
+    "v2": "faded",
+    "v3": "faded",
+    "v4": "fading"
+  },
+  "1704": {
+    "root": "filter",
+    "v1": "filtered",
+    "v2": "filtered",
+    "v3": "filtered",
+    "v4": "filtering"
+  },
+  "1706": {
+    "root": "fine",
+    "v1": "fined",
+    "v2": "fined",
+    "v3": "fined",
+    "v4": "fining"
+  },
+  "1717": {
+    "root": "flee",
+    "v1": "fled",
+    "v2": "fled",
+    "v3": "fled",
+    "v4": "fleeing"
+  },
+  "1721": {
+    "root": "flourish",
+    "v1": "flourished",
+    "v2": "flourished",
+    "v3": "flourished",
+    "v4": "flourishing"
+  },
+  "1726": {
+    "root": "forbid",
+    "v1": "forbade",
+    "v2": "forbidden",
+    "v3": "forbidden",
+    "v4": "forbidding"
+  },
+  "1728": {
+    "root": "forecast",
+    "v1": "forecast",
+    "v2": "forecast",
+    "v3": "forecast",
+    "v4": "forecasting"
+  },
+  "1730": {
+    "root": "forge",
+    "v1": "forged",
+    "v2": "forged",
+    "v3": "forged",
+    "v4": "forging"
+  },
+  "1735": {
+    "root": "formulate",
+    "v1": "formulated",
+    "v2": "formulated",
+    "v3": "formulated",
+    "v4": "formulating"
+  },
+  "1741": {
+    "root": "foster",
+    "v1": "fostered",
+    "v2": "fostered",
+    "v3": "fostered",
+    "v4": "fostering"
+  },
+  "1756": {
+    "root": "fulfil",
+    "v1": "fulfilled",
+    "v2": "fulfilled",
+    "v3": "fulfilled",
+    "v4": "fulfilling"
+  },
+  "1770": {
+    "root": "gaze",
+    "v1": "gazed",
+    "v2": "gazed",
+    "v3": "gazed",
+    "v4": "gazing"
+  },
+  "1783": {
+    "root": "glance",
+    "v1": "glanced",
+    "v2": "glanced",
+    "v3": "glanced",
+    "v4": "glancing"
+  },
+  "1798": {
+    "root": "grasp",
+    "v1": "grasped",
+    "v2": "grasped",
+    "v3": "grasped",
+    "v4": "grasping"
+  },
+  "1807": {
+    "root": "grin",
+    "v1": "grinned",
+    "v2": "grinned",
+    "v3": "grinned",
+    "v4": "grinning"
+  },
+  "1808": {
+    "root": "grind",
+    "v1": "ground",
+    "v2": "ground",
+    "v3": "ground",
+    "v4": "grinding"
+  },
+  "1810": {
+    "root": "grip",
+    "v1": "gripped",
+    "v2": "gripped",
+    "v3": "gripped",
+    "v4": "gripping"
+  },
+  "1819": {
+    "root": "hail",
+    "v1": "hailed",
+    "v2": "hailed",
+    "v3": "hailed",
+    "v4": "hailing"
+  },
+  "1821": {
+    "root": "halt",
+    "v1": "halted",
+    "v2": "halted",
+    "v3": "halted",
+    "v4": "halting"
+  },
+  "1832": {
+    "root": "harvest",
+    "v1": "harvested",
+    "v2": "harvested",
+    "v3": "harvested",
+    "v4": "harvesting"
+  },
+  "1834": {
+    "root": "haunt",
+    "v1": "haunted",
+    "v2": "haunted",
+    "v3": "haunted",
+    "v4": "haunting"
+  },
+  "1837": {
+    "root": "heal",
+    "v1": "healed",
+    "v2": "healed",
+    "v3": "healed",
+    "v4": "healing"
+  },
+  "1839": {
+    "root": "heighten",
+    "v1": "heightened",
+    "v2": "heightened",
+    "v3": "heightened",
+    "v4": "heightening"
+  },
+  "1855": {
+    "root": "hook",
+    "v1": "hooked",
+    "v2": "hooked",
+    "v3": "hooked",
+    "v4": "hooking"
+  },
+  "1888": {
+    "root": "implement",
+    "v1": "implemented",
+    "v2": "implemented",
+    "v3": "implemented",
+    "v4": "implementing"
+  },
+  "1891": {
+    "root": "imprison",
+    "v1": "imprisoned",
+    "v2": "imprisoned",
+    "v3": "imprisoned",
+    "v4": "imprisoning"
+  },
+  "1900": {
+    "root": "incorporate",
+    "v1": "incorporated",
+    "v2": "incorporated",
+    "v3": "incorporated",
+    "v4": "incorporating"
+  },
+  "1902": {
+    "root": "incur",
+    "v1": "incurred",
+    "v2": "incurred",
+    "v3": "incurred",
+    "v4": "incurring"
+  },
+  "1909": {
+    "root": "induce",
+    "v1": "induced",
+    "v2": "induced",
+    "v3": "induced",
+    "v4": "inducing"
+  },
+  "1910": {
+    "root": "indulge",
+    "v1": "indulged",
+    "v2": "indulged",
+    "v3": "indulged",
+    "v4": "indulging"
+  },
+  "1916": {
+    "root": "infect",
+    "v1": "infected",
+    "v2": "infected",
+    "v3": "infected",
+    "v4": "infecting"
+  },
+  "1917": {
+    "root": "infer",
+    "v1": "inferred",
+    "v2": "inferred",
+    "v3": "inferred",
+    "v4": "inferring"
+  },
+  "1919": {
+    "root": "inflict",
+    "v1": "inflicted",
+    "v2": "inflicted",
+    "v3": "inflicted",
+    "v4": "inflicting"
+  },
+  "1925": {
+    "root": "inherit",
+    "v1": "inherited",
+    "v2": "inherited",
+    "v3": "inherited",
+    "v4": "inheriting"
+  },
+  "1926": {
+    "root": "inhibit",
+    "v1": "inhibited",
+    "v2": "inhibited",
+    "v3": "inhibited",
+    "v4": "inhibiting"
+  },
+  "1927": {
+    "root": "initiate",
+    "v1": "initiated",
+    "v2": "initiated",
+    "v3": "initiated",
+    "v4": "initiating"
+  },
+  "1928": {
+    "root": "inject",
+    "v1": "injected",
+    "v2": "injected",
+    "v3": "injected",
+    "v4": "injecting"
+  },
+  "1936": {
+    "root": "insert",
+    "v1": "inserted",
+    "v2": "inserted",
+    "v3": "inserted",
+    "v4": "inserting"
+  },
+  "1939": {
+    "root": "inspect",
+    "v1": "inspected",
+    "v2": "inspected",
+    "v3": "inspected",
+    "v4": "inspecting"
+  },
+  "1948": {
+    "root": "instruct",
+    "v1": "instructed",
+    "v2": "instructed",
+    "v3": "instructed",
+    "v4": "instructing"
+  },
+  "1952": {
+    "root": "insult",
+    "v1": "insulted",
+    "v2": "insulted",
+    "v3": "insulted",
+    "v4": "insulting"
+  },
+  "1956": {
+    "root": "integrate",
+    "v1": "integrated",
+    "v2": "integrated",
+    "v3": "integrated",
+    "v4": "integrating"
+  },
+  "1962": {
+    "root": "intensify",
+    "v1": "intensified",
+    "v2": "intensified",
+    "v3": "intensified",
+    "v4": "intensifying"
+  },
+  "1966": {
+    "root": "interact",
+    "v1": "interacted",
+    "v2": "interacted",
+    "v3": "interacted",
+    "v4": "interacting"
+  },
+  "1970": {
+    "root": "interfere",
+    "v1": "interfered",
+    "v2": "interfered",
+    "v3": "interfered",
+    "v4": "interfering"
+  },
+  "1978": {
+    "root": "intervene",
+    "v1": "intervened",
+    "v2": "intervened",
+    "v3": "intervened",
+    "v4": "intervening"
+  },
+  "1982": {
+    "root": "invade",
+    "v1": "invaded",
+    "v2": "invaded",
+    "v3": "invaded",
+    "v4": "invading"
+  },
+  "1987": {
+    "root": "invoke",
+    "v1": "invoked",
+    "v2": "invoked",
+    "v3": "invoked",
+    "v4": "invoking"
+  },
+  "1993": {
+    "root": "isolate",
+    "v1": "isolated",
+    "v2": "isolated",
+    "v3": "isolated",
+    "v4": "isolating"
+  },
+  "1997": {
+    "root": "jail",
+    "v1": "jailed",
+    "v2": "jailed",
+    "v3": "jailed",
+    "v4": "jailing"
+  },
+  "2008": {
+    "root": "kidnap",
+    "v1": "kidnapped",
+    "v2": "kidnapped",
+    "v3": "kidnapped",
+    "v4": "kidnapping"
+  },
+  "2028": {
+    "root": "leak",
+    "v1": "leaked",
+    "v2": "leaked",
+    "v3": "leaked",
+    "v4": "leaking"
+  },
+  "2030": {
+    "root": "leap",
+    "v1": "leaped",
+    "v2": "leaped",
+    "v3": "leaped",
+    "v4": "leaping"
+  },
+  "2048": {
+    "root": "license",
+    "v1": "licensed",
+    "v2": "licensed",
+    "v3": "licensed",
+    "v4": "licensing"
+  },
+  "2058": {
+    "root": "linger",
+    "v1": "lingered",
+    "v2": "lingered",
+    "v3": "lingered",
+    "v4": "lingering"
+  },
+  "2068": {
+    "root": "log",
+    "v1": "logged",
+    "v2": "logged",
+    "v3": "logged",
+    "v4": "logging"
+  },
+  "2073": {
+    "root": "loom",
+    "v1": "loomed",
+    "v2": "loomed",
+    "v3": "loomed",
+    "v4": "looming"
+  },
+  "2093": {
+    "root": "manifest",
+    "v1": "manifested",
+    "v2": "manifested",
+    "v3": "manifested",
+    "v4": "manifesting"
+  },
+  "2094": {
+    "root": "manipulate",
+    "v1": "manipulated",
+    "v2": "manipulated",
+    "v3": "manipulated",
+    "v4": "manipulating"
+  },
+  "2096": {
+    "root": "manufacture",
+    "v1": "manufactured",
+    "v2": "manufactured",
+    "v3": "manufactured",
+    "v4": "manufacturing"
+  },
+  "2111": {
+    "root": "mature",
+    "v1": "matured",
+    "v2": "matured",
+    "v3": "matured",
+    "v4": "maturing"
+  },
+  "2113": {
+    "root": "maximize",
+    "v1": "maximized",
+    "v2": "maximized",
+    "v3": "maximized",
+    "v4": "maximizing"
+  },
+  "2135": {
+    "root": "merge",
+    "v1": "merged",
+    "v2": "merged",
+    "v3": "merged",
+    "v4": "merging"
+  },
+  "2148": {
+    "root": "minimize",
+    "v1": "minimized",
+    "v2": "minimized",
+    "v3": "minimized",
+    "v4": "minimizing"
+  },
+  "2159": {
+    "root": "mobilize",
+    "v1": "mobilized",
+    "v2": "mobilized",
+    "v3": "mobilized",
+    "v4": "mobilizing"
+  },
+  "2175": {
+    "root": "motivate",
+    "v1": "motivated",
+    "v2": "motivated",
+    "v3": "motivated",
+    "v4": "motivating"
+  },
+  "2192": {
+    "root": "neglect",
+    "v1": "neglected",
+    "v2": "neglected",
+    "v3": "neglected",
+    "v4": "neglecting"
+  },
+  "2193": {
+    "root": "negotiate",
+    "v1": "negotiated",
+    "v2": "negotiated",
+    "v3": "negotiated",
+    "v4": "negotiating"
+  },
+  "2203": {
+    "root": "nod",
+    "v1": "nodded",
+    "v2": "nodded",
+    "v3": "nodded",
+    "v4": "nodding"
+  },
+  "2204": {
+    "root": "nominate",
+    "v1": "nominated",
+    "v2": "nominated",
+    "v3": "nominated",
+    "v4": "nominating"
+  },
+  "2215": {
+    "root": "notify",
+    "v1": "notified",
+    "v2": "notified",
+    "v3": "notified",
+    "v4": "notifying"
+  },
+  "2225": {
+    "root": "oblige",
+    "v1": "obliged",
+    "v2": "obliged",
+    "v3": "obliged",
+    "v4": "obliging"
+  },
+  "2227": {
+    "root": "obsess",
+    "v1": "obsessed",
+    "v2": "obsessed",
+    "v3": "obsessed",
+    "v4": "obsessing"
+  },
+  "2232": {
+    "root": "occupy",
+    "v1": "occupied",
+    "v2": "occupied",
+    "v3": "occupied",
+    "v4": "occupying"
+  },
+  "2243": {
+    "root": "opt",
+    "v1": "opted",
+    "v2": "opted",
+    "v3": "opted",
+    "v4": "opting"
+  },
+  "2252": {
+    "root": "originate",
+    "v1": "originated",
+    "v2": "originated",
+    "v3": "originated",
+    "v4": "originating"
+  },
+  "2260": {
+    "root": "outrage",
+    "v1": "outraged",
+    "v2": "outraged",
+    "v3": "outraged",
+    "v4": "outraging"
+  },
+  "2263": {
+    "root": "overcome",
+    "v1": "overcame",
+    "v2": "overcame",
+    "v3": "overcome",
+    "v4": "overcoming"
+  },
+  "2264": {
+    "root": "overlook",
+    "v1": "overlooked",
+    "v2": "overlooked",
+    "v3": "overlooked",
+    "v4": "overlooking"
+  },
+  "2269": {
+    "root": "oversee",
+    "v1": "oversaw",
+    "v2": "oversaw",
+    "v3": "overseen",
+    "v4": "overseeing"
+  },
+  "2270": {
+    "root": "overturn",
+    "v1": "overturned",
+    "v2": "overturned",
+    "v3": "overturned",
+    "v4": "overturning"
+  },
+  "2271": {
+    "root": "overwhelm",
+    "v1": "overwhelmed",
+    "v2": "overwhelmed",
+    "v3": "overwhelmed",
+    "v4": "overwhelming"
+  },
+  "2302": {
+    "root": "patrol",
+    "v1": "patrolled",
+    "v2": "patrolled",
+    "v3": "patrolled",
+    "v4": "patrolling"
+  },
+  "2305": {
+    "root": "pause",
+    "v1": "paused",
+    "v2": "paused",
+    "v3": "paused",
+    "v4": "pausing"
+  },
+  "2311": {
+    "root": "perceive",
+    "v1": "perceived",
+    "v2": "perceived",
+    "v3": "perceived",
+    "v4": "perceiving"
+  },
+  "2314": {
+    "root": "persist",
+    "v1": "persisted",
+    "v2": "persisted",
+    "v3": "persisted",
+    "v4": "persisting"
+  },
+  "2323": {
+    "root": "pioneer",
+    "v1": "pioneered",
+    "v2": "pioneered",
+    "v3": "pioneered",
+    "v4": "pioneering"
+  },
+  "2330": {
+    "root": "plead",
+    "v1": "pleaded",
+    "v2": "pleaded",
+    "v3": "pleaded",
+    "v4": "pleading"
+  },
+  "2332": {
+    "root": "pledge",
+    "v1": "pledged",
+    "v2": "pledged",
+    "v3": "pledged",
+    "v4": "pledging"
+  },
+  "2334": {
+    "root": "plug",
+    "v1": "plugged",
+    "v2": "plugged",
+    "v3": "plugged",
+    "v4": "plugging"
+  },
+  "2335": {
+    "root": "plunge",
+    "v1": "plunged",
+    "v2": "plunged",
+    "v3": "plunged",
+    "v4": "plunging"
+  },
+  "2339": {
+    "root": "pop",
+    "v1": "popped",
+    "v2": "popped",
+    "v3": "popped",
+    "v4": "popping"
+  },
+  "2342": {
+    "root": "portray",
+    "v1": "portrayed",
+    "v2": "portrayed",
+    "v3": "portrayed",
+    "v4": "portraying"
+  },
+  "2343": {
+    "root": "postpone",
+    "v1": "postponed",
+    "v2": "postponed",
+    "v3": "postponed",
+    "v4": "postponing"
+  },
+  "2347": {
+    "root": "preach",
+    "v1": "preached",
+    "v2": "preached",
+    "v3": "preached",
+    "v4": "preaching"
+  },
+  "2348": {
+    "root": "precede",
+    "v1": "preceded",
+    "v2": "preceded",
+    "v3": "preceded",
+    "v4": "preceding"
+  },
+  "2365": {
+    "root": "prescribe",
+    "v1": "prescribed",
+    "v2": "prescribed",
+    "v3": "prescribed",
+    "v4": "prescribing"
+  },
+  "2369": {
+    "root": "preside",
+    "v1": "presided",
+    "v2": "presided",
+    "v3": "presided",
+    "v4": "presiding"
+  },
+  "2374": {
+    "root": "presume",
+    "v1": "presumed",
+    "v2": "presumed",
+    "v3": "presumed",
+    "v4": "presuming"
+  },
+  "2375": {
+    "root": "prevail",
+    "v1": "prevailed",
+    "v2": "prevailed",
+    "v3": "prevailed",
+    "v4": "prevailing"
+  },
+  "2388": {
+    "root": "probe",
+    "v1": "probed",
+    "v2": "probed",
+    "v3": "probed",
+    "v4": "probing"
+  },
+  "2391": {
+    "root": "proceed",
+    "v1": "proceeded",
+    "v2": "proceeded",
+    "v3": "proceeded",
+    "v4": "proceeding"
+  },
+  "2396": {
+    "root": "proclaim",
+    "v1": "proclaimed",
+    "v2": "proclaimed",
+    "v3": "proclaimed",
+    "v4": "proclaiming"
+  },
+  "2403": {
+    "root": "prohibit",
+    "v1": "prohibited",
+    "v2": "prohibited",
+    "v3": "prohibited",
+    "v4": "prohibiting"
+  },
+  "2408": {
+    "root": "prompt",
+    "v1": "prompted",
+    "v2": "prompted",
+    "v3": "prompted",
+    "v4": "prompting"
+  },
+  "2413": {
+    "root": "prosecute",
+    "v1": "prosecuted",
+    "v2": "prosecuted",
+    "v3": "prosecuted",
+    "v4": "prosecuting"
+  },
+  "2425": {
+    "root": "provoke",
+    "v1": "provoked",
+    "v2": "provoked",
+    "v3": "provoked",
+    "v4": "provoking"
+  },
+  "2431": {
+    "root": "pump",
+    "v1": "pumped",
+    "v2": "pumped",
+    "v3": "pumped",
+    "v4": "pumping"
+  },
+  "2432": {
+    "root": "punch",
+    "v1": "punched",
+    "v2": "punched",
+    "v3": "punched",
+    "v4": "punching"
+  },
+  "2450": {
+    "root": "raid",
+    "v1": "raided",
+    "v2": "raided",
+    "v3": "raided",
+    "v4": "raiding"
+  },
+  "2453": {
+    "root": "rally",
+    "v1": "rallied",
+    "v2": "rallied",
+    "v3": "rallied",
+    "v4": "rallying"
+  },
+  "2470": {
+    "root": "reassure",
+    "v1": "reassured",
+    "v2": "reassured",
+    "v3": "reassured",
+    "v4": "reassuring"
+  },
+  "2473": {
+    "root": "rebuild",
+    "v1": "rebuilt",
+    "v2": "rebuilt",
+    "v3": "rebuilt",
+    "v4": "rebuilding"
+  },
+  "2477": {
+    "root": "reckon",
+    "v1": "reckoned",
+    "v2": "reckoned",
+    "v3": "reckoned",
+    "v4": "reckoning"
+  },
+  "2480": {
+    "root": "recount",
+    "v1": "recounted",
+    "v2": "recounted",
+    "v3": "recounted",
+    "v4": "recounting"
+  },
+  "2482": {
+    "root": "recruit",
+    "v1": "recruited",
+    "v2": "recruited",
+    "v3": "recruited",
+    "v4": "recruiting"
+  },
+  "2488": {
+    "root": "reform",
+    "v1": "reformed",
+    "v2": "reformed",
+    "v3": "reformed",
+    "v4": "reforming"
+  },
+  "2493": {
+    "root": "regain",
+    "v1": "regained",
+    "v2": "regained",
+    "v3": "regained",
+    "v4": "regaining"
+  },
+  "2497": {
+    "root": "regulate",
+    "v1": "regulated",
+    "v2": "regulated",
+    "v3": "regulated",
+    "v4": "regulating"
+  },
+  "2501": {
+    "root": "reign",
+    "v1": "reigned",
+    "v2": "reigned",
+    "v3": "reigned",
+    "v4": "reigning"
+  },
+  "2503": {
+    "root": "reinforce",
+    "v1": "reinforced",
+    "v2": "reinforced",
+    "v3": "reinforced",
+    "v4": "reinforcing"
+  },
+  "2507": {
+    "root": "relieve",
+    "v1": "relieved",
+    "v2": "relieved",
+    "v3": "relieved",
+    "v4": "relieving"
+  },
+  "2517": {
+    "root": "render",
+    "v1": "rendered",
+    "v2": "rendered",
+    "v3": "rendered",
+    "v4": "rendering"
+  },
+  "2518": {
+    "root": "renew",
+    "v1": "renewed",
+    "v2": "renewed",
+    "v3": "renewed",
+    "v4": "renewing"
+  },
+  "2525": {
+    "root": "reproduce",
+    "v1": "reproduced",
+    "v2": "reproduced",
+    "v3": "reproduced",
+    "v4": "reproducing"
+  },
+  "2528": {
+    "root": "resemble",
+    "v1": "resembled",
+    "v2": "resembled",
+    "v3": "resembled",
+    "v4": "resembling"
+  },
+  "2529": {
+    "root": "reside",
+    "v1": "resided",
+    "v2": "resided",
+    "v3": "resided",
+    "v4": "residing"
+  },
+  "2533": {
+    "root": "resign",
+    "v1": "resigned",
+    "v2": "resigned",
+    "v3": "resigned",
+    "v4": "resigning"
+  },
+  "2540": {
+    "root": "restore",
+    "v1": "restored",
+    "v2": "restored",
+    "v3": "restored",
+    "v4": "restoring"
+  },
+  "2542": {
+    "root": "restrict",
+    "v1": "restricted",
+    "v2": "restricted",
+    "v3": "restricted",
+    "v4": "restricting"
+  },
+  "2544": {
+    "root": "resume",
+    "v1": "resumed",
+    "v2": "resumed",
+    "v3": "resumed",
+    "v4": "resuming"
+  },
+  "2547": {
+    "root": "retreat",
+    "v1": "retreated",
+    "v2": "retreated",
+    "v3": "retreated",
+    "v4": "retreating"
+  },
+  "2549": {
+    "root": "retrieve",
+    "v1": "retrieved",
+    "v2": "retrieved",
+    "v3": "retrieved",
+    "v4": "retrieving"
+  },
+  "2553": {
+    "root": "reverse",
+    "v1": "reversed",
+    "v2": "reversed",
+    "v3": "reversed",
+    "v4": "reversing"
+  },
+  "2558": {
+    "root": "revive",
+    "v1": "revived",
+    "v2": "revived",
+    "v3": "revived",
+    "v4": "reviving"
+  },
+  "2564": {
+    "root": "rip",
+    "v1": "ripped",
+    "v2": "ripped",
+    "v3": "ripped",
+    "v4": "ripping"
+  },
+  "2569": {
+    "root": "rob",
+    "v1": "robbed",
+    "v2": "robbed",
+    "v3": "robbed",
+    "v4": "robbing"
+  },
+  "2572": {
+    "root": "rock",
+    "v1": "rocked",
+    "v2": "rocked",
+    "v3": "rocked",
+    "v4": "rocking"
+  },
+  "2577": {
+    "root": "rotate",
+    "v1": "rotated",
+    "v2": "rotated",
+    "v3": "rotated",
+    "v4": "rotating"
+  },
+  "2580": {
+    "root": "ruin",
+    "v1": "ruined",
+    "v2": "ruined",
+    "v3": "ruined",
+    "v4": "ruining"
+  },
+  "2584": {
+    "root": "sack",
+    "v1": "sacked",
+    "v2": "sacked",
+    "v3": "sacked",
+    "v4": "sacking"
+  },
+  "2586": {
+    "root": "sacrifice",
+    "v1": "sacrificed",
+    "v2": "sacrificed",
+    "v3": "sacrificed",
+    "v4": "sacrificing"
+  },
+  "2594": {
+    "root": "scare",
+    "v1": "scared",
+    "v2": "scared",
+    "v3": "scared",
+    "v4": "scaring"
+  },
+  "2602": {
+    "root": "scratch",
+    "v1": "scratched",
+    "v2": "scratched",
+    "v3": "scratched",
+    "v4": "scratching"
+  },
+  "2605": {
+    "root": "screw",
+    "v1": "screwed",
+    "v2": "screwed",
+    "v3": "screwed",
+    "v4": "screwing"
+  },
+  "2608": {
+    "root": "seal",
+    "v1": "sealed",
+    "v2": "sealed",
+    "v3": "sealed",
+    "v4": "sealing"
+  },
+  "2614": {
+    "root": "seize",
+    "v1": "seized",
+    "v2": "seized",
+    "v3": "seized",
+    "v4": "seizing"
+  },
+  "2632": {
+    "root": "shatter",
+    "v1": "shattered",
+    "v2": "shattered",
+    "v3": "shattered",
+    "v4": "shattering"
+  },
+  "2633": {
+    "root": "shed",
+    "v1": "shed",
+    "v2": "shed",
+    "v3": "shed",
+    "v4": "shedding"
+  },
+  "2642": {
+    "root": "shrink",
+    "v1": "shrank",
+    "v2": "shrank",
+    "v3": "shrunk",
+    "v4": "shrinking"
+  },
+  "2643": {
+    "root": "shrug",
+    "v1": "shrugged",
+    "v2": "shrugged",
+    "v3": "shrugged",
+    "v4": "shrugging"
+  },
+  "2645": {
+    "root": "sigh",
+    "v1": "sighed",
+    "v2": "sighed",
+    "v3": "sighed",
+    "v4": "sighing"
+  },
+  "2649": {
+    "root": "simulate",
+    "v1": "simulated",
+    "v2": "simulated",
+    "v3": "simulated",
+    "v4": "simulating"
+  },
+  "2656": {
+    "root": "skip",
+    "v1": "skipped",
+    "v2": "skipped",
+    "v3": "skipped",
+    "v4": "skipping"
+  },
+  "2658": {
+    "root": "slam",
+    "v1": "slammed",
+    "v2": "slammed",
+    "v3": "slammed",
+    "v4": "slamming"
+  },
+  "2659": {
+    "root": "slap",
+    "v1": "slapped",
+    "v2": "slapped",
+    "v3": "slapped",
+    "v4": "slapping"
+  },
+  "2660": {
+    "root": "slash",
+    "v1": "slashed",
+    "v2": "slashed",
+    "v3": "slashed",
+    "v4": "slashing"
+  },
+  "2664": {
+    "root": "smash",
+    "v1": "smashed",
+    "v2": "smashed",
+    "v3": "smashed",
+    "v4": "smashing"
+  },
+  "2665": {
+    "root": "snap",
+    "v1": "snapped",
+    "v2": "snapped",
+    "v3": "snapped",
+    "v4": "snapping"
+  },
+  "2666": {
+    "root": "soak",
+    "v1": "soaked",
+    "v2": "soaked",
+    "v3": "soaked",
+    "v4": "soaking"
+  },
+  "2667": {
+    "root": "soar",
+    "v1": "soared",
+    "v2": "soared",
+    "v3": "soared",
+    "v4": "soaring"
+  },
+  "2682": {
+    "root": "span",
+    "v1": "spanned",
+    "v2": "spanned",
+    "v3": "spanned",
+    "v4": "spanning"
+  },
+  "2685": {
+    "root": "spare",
+    "v1": "spared",
+    "v2": "spared",
+    "v3": "spared",
+    "v4": "sparing"
+  },
+  "2686": {
+    "root": "spark",
+    "v1": "sparked",
+    "v2": "sparked",
+    "v3": "sparked",
+    "v4": "sparking"
+  },
+  "2687": {
+    "root": "specialize",
+    "v1": "specialized",
+    "v2": "specialized",
+    "v3": "specialized",
+    "v4": "specializing"
+  },
+  "2690": {
+    "root": "specify",
+    "v1": "specified",
+    "v2": "specified",
+    "v3": "specified",
+    "v4": "specifying"
+  },
+  "2696": {
+    "root": "speculate",
+    "v1": "speculated",
+    "v2": "speculated",
+    "v3": "speculated",
+    "v4": "speculating"
+  },
+  "2701": {
+    "root": "spill",
+    "v1": "spilled",
+    "v2": "spilled",
+    "v3": "spilled",
+    "v4": "spilling"
+  },
+  "2702": {
+    "root": "spin",
+    "v1": "spun",
+    "v2": "spun",
+    "v3": "spun",
+    "v4": "spinning"
+  },
+  "2705": {
+    "root": "spoil",
+    "v1": "spoiled",
+    "v2": "spoiled",
+    "v3": "spoiled",
+    "v4": "spoiling"
+  },
+  "2713": {
+    "root": "spy",
+    "v1": "spied",
+    "v2": "spied",
+    "v3": "spied",
+    "v4": "spying"
+  },
+  "2716": {
+    "root": "squeeze",
+    "v1": "squeezed",
+    "v2": "squeezed",
+    "v3": "squeezed",
+    "v4": "squeezing"
+  },
+  "2717": {
+    "root": "stab",
+    "v1": "stabbed",
+    "v2": "stabbed",
+    "v3": "stabbed",
+    "v4": "stabbing"
+  },
+  "2719": {
+    "root": "stabilize",
+    "v1": "stabilized",
+    "v2": "stabilized",
+    "v3": "stabilized",
+    "v4": "stabilizing"
+  },
+  "2725": {
+    "root": "starve",
+    "v1": "starved",
+    "v2": "starved",
+    "v3": "starved",
+    "v4": "starving"
+  },
+  "2729": {
+    "root": "steer",
+    "v1": "steered",
+    "v2": "steered",
+    "v3": "steered",
+    "v4": "steering"
+  },
+  "2730": {
+    "root": "stem",
+    "v1": "stemmed",
+    "v2": "stemmed",
+    "v3": "stemmed",
+    "v4": "stemming"
+  },
+  "2733": {
+    "root": "stimulate",
+    "v1": "stimulated",
+    "v2": "stimulated",
+    "v3": "stimulated",
+    "v4": "stimulating"
+  },
+  "2735": {
+    "root": "stir",
+    "v1": "stirred",
+    "v2": "stirred",
+    "v3": "stirred",
+    "v4": "stirring"
+  },
+  "2741": {
+    "root": "strengthen",
+    "v1": "strengthened",
+    "v2": "strengthened",
+    "v3": "strengthened",
+    "v4": "strengthening"
+  },
+  "2745": {
+    "root": "strip (remove clothes/a layer)",
+    "v1": "stripped",
+    "v2": "stripped",
+    "v3": "stripped",
+    "v4": "stripping"
+  },
+  "2746": {
+    "root": "strive",
+    "v1": "strove",
+    "v2": "striven",
+    "v3": "striven",
+    "v4": "striving"
+  },
+  "2749": {
+    "root": "stumble",
+    "v1": "stumbled",
+    "v2": "stumbled",
+    "v3": "stumbled",
+    "v4": "stumbling"
+  },
+  "2750": {
+    "root": "stun",
+    "v1": "stunned",
+    "v2": "stunned",
+    "v3": "stunned",
+    "v4": "stunning"
+  },
+  "2760": {
+    "root": "substitute",
+    "v1": "substituted",
+    "v2": "substituted",
+    "v3": "substituted",
+    "v4": "substituting"
+  },
+  "2769": {
+    "root": "suck",
+    "v1": "sucked",
+    "v2": "sucked",
+    "v3": "sucked",
+    "v4": "sucking"
+  },
+  "2770": {
+    "root": "sue",
+    "v1": "sued",
+    "v2": "sued",
+    "v3": "sued",
+    "v4": "suing"
+  },
+  "2780": {
+    "root": "supervise",
+    "v1": "supervised",
+    "v2": "supervised",
+    "v3": "supervised",
+    "v4": "supervising"
+  },
+  "2783": {
+    "root": "supplement",
+    "v1": "supplemented",
+    "v2": "supplemented",
+    "v3": "supplemented",
+    "v4": "supplementing"
+  },
+  "2787": {
+    "root": "suppress",
+    "v1": "suppressed",
+    "v2": "suppressed",
+    "v3": "suppressed",
+    "v4": "suppressing"
+  },
+  "2793": {
+    "root": "surrender",
+    "v1": "surrendered",
+    "v2": "surrendered",
+    "v3": "surrendered",
+    "v4": "surrendering"
+  },
+  "2797": {
+    "root": "suspend",
+    "v1": "suspended",
+    "v2": "suspended",
+    "v3": "suspended",
+    "v4": "suspending"
+  },
+  "2801": {
+    "root": "sustain",
+    "v1": "sustained",
+    "v2": "sustained",
+    "v3": "sustained",
+    "v4": "sustaining"
+  },
+  "2803": {
+    "root": "swallow",
+    "v1": "swallowed",
+    "v2": "swallowed",
+    "v3": "swallowed",
+    "v4": "swallowing"
+  },
+  "2804": {
+    "root": "swing",
+    "v1": "swung",
+    "v2": "swung",
+    "v3": "swung",
+    "v4": "swinging"
+  },
+  "2812": {
+    "root": "tackle",
+    "v1": "tackled",
+    "v2": "tackled",
+    "v3": "tackled",
+    "v4": "tackling"
+  },
+  "2816": {
+    "root": "tag",
+    "v1": "tagged",
+    "v2": "tagged",
+    "v3": "tagged",
+    "v4": "tagging"
+  },
+  "2818": {
+    "root": "tap",
+    "v1": "tapped",
+    "v2": "tapped",
+    "v3": "tapped",
+    "v4": "tapping"
+  },
+  "2825": {
+    "root": "tempt",
+    "v1": "tempted",
+    "v2": "tempted",
+    "v3": "tempted",
+    "v4": "tempting"
+  },
+  "2833": {
+    "root": "terminate",
+    "v1": "terminated",
+    "v2": "terminated",
+    "v3": "terminated",
+    "v4": "terminating"
+  },
+  "2838": {
+    "root": "terrify",
+    "v1": "terrified",
+    "v2": "terrified",
+    "v3": "terrified",
+    "v4": "terrifying"
+  },
+  "2843": {
+    "root": "testify",
+    "v1": "testified",
+    "v2": "testified",
+    "v3": "testified",
+    "v4": "testifying"
+  },
+  "2864": {
+    "root": "thrive",
+    "v1": "thrived",
+    "v2": "thrived",
+    "v3": "thrived",
+    "v4": "thriving"
+  },
+  "2867": {
+    "root": "tighten",
+    "v1": "tightened",
+    "v2": "tightened",
+    "v3": "tightened",
+    "v4": "tightening"
+  },
+  "2874": {
+    "root": "tolerate",
+    "v1": "tolerated",
+    "v2": "tolerated",
+    "v3": "tolerated",
+    "v4": "tolerating"
+  },
+  "2878": {
+    "root": "top",
+    "v1": "topped",
+    "v2": "topped",
+    "v3": "topped",
+    "v4": "topping"
+  },
+  "2879": {
+    "root": "torture",
+    "v1": "tortured",
+    "v2": "tortured",
+    "v3": "tortured",
+    "v4": "torturing"
+  },
+  "2881": {
+    "root": "toss",
+    "v1": "tossed",
+    "v2": "tossed",
+    "v3": "tossed",
+    "v4": "tossing"
+  },
+  "2882": {
+    "root": "total",
+    "v1": "totaled",
+    "v2": "totaled",
+    "v3": "totaled",
+    "v4": "totaling"
+  },
+  "2885": {
+    "root": "trace",
+    "v1": "traced",
+    "v2": "traced",
+    "v3": "traced",
+    "v4": "tracing"
+  },
+  "2892": {
+    "root": "trail",
+    "v1": "trailed",
+    "v2": "trailed",
+    "v3": "trailed",
+    "v4": "trailing"
+  },
+  "2900": {
+    "root": "transmit",
+    "v1": "transmitted",
+    "v2": "transmitted",
+    "v3": "transmitted",
+    "v4": "transmitting"
+  },
+  "2904": {
+    "root": "trap",
+    "v1": "trapped",
+    "v2": "trapped",
+    "v3": "trapped",
+    "v4": "trapping"
+  },
+  "2914": {
+    "root": "trigger",
+    "v1": "triggered",
+    "v2": "triggered",
+    "v3": "triggered",
+    "v4": "triggering"
+  },
+  "2927": {
+    "root": "twist",
+    "v1": "twisted",
+    "v2": "twisted",
+    "v3": "twisted",
+    "v4": "twisting"
+  },
+  "2932": {
+    "root": "undergo",
+    "v1": "underwent",
+    "v2": "undergone",
+    "v3": "undergone",
+    "v4": "undergoing"
+  },
+  "2935": {
+    "root": "undermine",
+    "v1": "undermined",
+    "v2": "undermined",
+    "v3": "undermined",
+    "v4": "undermining"
+  },
+  "2936": {
+    "root": "undertake",
+    "v1": "undertook",
+    "v2": "undertaken",
+    "v3": "undertaken",
+    "v4": "undertaking"
+  },
+  "2938": {
+    "root": "unfold",
+    "v1": "unfolded",
+    "v2": "unfolded",
+    "v3": "unfolded",
+    "v4": "unfolding"
+  },
+  "2940": {
+    "root": "unify",
+    "v1": "unified",
+    "v2": "unified",
+    "v3": "unified",
+    "v4": "unifying"
+  },
+  "2941": {
+    "root": "unite",
+    "v1": "united",
+    "v2": "united",
+    "v3": "united",
+    "v4": "uniting"
+  },
+  "2945": {
+    "root": "unveil",
+    "v1": "unveiled",
+    "v2": "unveiled",
+    "v3": "unveiled",
+    "v4": "unveiling"
+  },
+  "2947": {
+    "root": "upgrade",
+    "v1": "upgraded",
+    "v2": "upgraded",
+    "v3": "upgraded",
+    "v4": "upgrading"
+  },
+  "2949": {
+    "root": "uphold",
+    "v1": "upheld",
+    "v2": "upheld",
+    "v3": "upheld",
+    "v4": "upholding"
+  },
+  "2954": {
+    "root": "utilize",
+    "v1": "utilized",
+    "v2": "utilized",
+    "v3": "utilized",
+    "v4": "utilizing"
+  },
+  "2960": {
+    "root": "vanish",
+    "v1": "vanished",
+    "v2": "vanished",
+    "v3": "vanished",
+    "v4": "vanishing"
+  },
+  "2967": {
+    "root": "venture",
+    "v1": "ventured",
+    "v2": "ventured",
+    "v3": "ventured",
+    "v4": "venturing"
+  },
+  "2970": {
+    "root": "verify",
+    "v1": "verified",
+    "v2": "verified",
+    "v3": "verified",
+    "v4": "verifying"
+  },
+  "2982": {
+    "root": "violate",
+    "v1": "violated",
+    "v2": "violated",
+    "v3": "violated",
+    "v4": "violating"
+  },
+  "2990": {
+    "root": "vow",
+    "v1": "vowed",
+    "v2": "vowed",
+    "v3": "vowed",
+    "v4": "vowing"
+  },
+  "2993": {
+    "root": "wander",
+    "v1": "wandered",
+    "v2": "wandered",
+    "v3": "wandered",
+    "v4": "wandering"
+  },
+  "2999": {
+    "root": "warrant",
+    "v1": "warranted",
+    "v2": "warranted",
+    "v3": "warranted",
+    "v4": "warranting"
+  },
+  "3001": {
+    "root": "weaken",
+    "v1": "weakened",
+    "v2": "weakened",
+    "v3": "weakened",
+    "v4": "weakening"
+  },
+  "3002": {
+    "root": "weave",
+    "v1": "wove",
+    "v2": "woven",
+    "v3": "woven",
+    "v4": "weaving"
+  },
+  "3013": {
+    "root": "whip",
+    "v1": "whipped",
+    "v2": "whipped",
+    "v3": "whipped",
+    "v4": "whipping"
+  },
+  "3016": {
+    "root": "widen",
+    "v1": "widened",
+    "v2": "widened",
+    "v3": "widened",
+    "v4": "widening"
+  },
+  "3021": {
+    "root": "wipe",
+    "v1": "wiped",
+    "v2": "wiped",
+    "v3": "wiped",
+    "v4": "wiping"
+  },
+  "3024": {
+    "root": "withdraw",
+    "v1": "withdrew",
+    "v2": "withdrawn",
+    "v3": "withdrawn",
+    "v4": "withdrawing"
+  },
+  "3032": {
+    "root": "worship",
+    "v1": "worshiped",
+    "v2": "worshiped",
+    "v3": "worshiped",
+    "v4": "worshiping"
+  },
+  "3036": {
+    "root": "yell",
+    "v1": "yelled",
+    "v2": "yelled",
+    "v3": "yelled",
+    "v4": "yelling"
+  },
+  "3038": {
+    "root": "yield",
+    "v1": "yielded",
+    "v2": "yielded",
+    "v3": "yielded",
+    "v4": "yielding"
+  },
+  "3040": {
+    "root": "confuse",
+    "v1": "confused",
+    "v2": "confused",
+    "v3": "confused",
+    "v4": "confusing"
+  },
+  "3044": {
+    "root": "consist",
+    "v1": "consisted",
+    "v2": "consisted",
+    "v3": "consisted",
+    "v4": "consisting"
+  },
+  "3045": {
+    "root": "consume",
+    "v1": "consumed",
+    "v2": "consumed",
+    "v3": "consumed",
+    "v4": "consuming"
+  },
+  "3048": {
+    "root": "contact",
+    "v1": "contacted",
+    "v2": "contacted",
+    "v3": "contacted",
+    "v4": "contacting"
+  },
+  "3053": {
+    "root": "contrast",
+    "v1": "contrasted",
+    "v2": "contrasted",
+    "v3": "contrasted",
+    "v4": "contrasting"
+  },
+  "3055": {
+    "root": "convince",
+    "v1": "convinced",
+    "v2": "convinced",
+    "v3": "convinced",
+    "v4": "convincing"
+  },
+  "3056": {
+    "root": "cool",
+    "v1": "cooled",
+    "v2": "cooled",
+    "v3": "cooled",
+    "v4": "cooling"
+  },
+  "3077": {
+    "root": "damage",
+    "v1": "damaged",
+    "v2": "damaged",
+    "v3": "damaged",
+    "v4": "damaging"
+  },
+  "3080": {
+    "root": "decorate",
+    "v1": "decorated",
+    "v2": "decorated",
+    "v3": "decorated",
+    "v4": "decorating"
+  },
+  "3082": {
+    "root": "define",
+    "v1": "defined",
+    "v2": "defined",
+    "v3": "defined",
+    "v4": "defining"
+  },
+  "3085": {
+    "root": "deliver",
+    "v1": "delivered",
+    "v2": "delivered",
+    "v3": "delivered",
+    "v4": "delivering"
+  },
+  "3089": {
+    "root": "determine",
+    "v1": "determined",
+    "v2": "determined",
+    "v3": "determined",
+    "v4": "determining"
+  },
+  "3095": {
+    "root": "direct",
+    "v1": "directed",
+    "v2": "directed",
+    "v3": "directed",
+    "v4": "directing"
+  },
+  "3103": {
+    "root": "dislike",
+    "v1": "disliked",
+    "v2": "disliked",
+    "v3": "disliked",
+    "v4": "disliking"
+  },
+  "3105": {
+    "root": "divide",
+    "v1": "divided",
+    "v2": "divided",
+    "v3": "divided",
+    "v4": "dividing"
+  },
+  "3107": {
+    "root": "donate",
+    "v1": "donated",
+    "v2": "donated",
+    "v3": "donated",
+    "v4": "donating"
+  },
+  "3110": {
+    "root": "doubt",
+    "v1": "doubted",
+    "v2": "doubted",
+    "v3": "doubted",
+    "v4": "doubting"
+  },
+  "3124": {
+    "root": "educate",
+    "v1": "educated",
+    "v2": "educated",
+    "v3": "educated",
+    "v4": "educating"
+  },
+  "3137": {
+    "root": "empty",
+    "v1": "emptied",
+    "v2": "emptied",
+    "v3": "emptied",
+    "v4": "emptying"
+  },
+  "3138": {
+    "root": "encourage",
+    "v1": "encouraged",
+    "v2": "encouraged",
+    "v3": "encouraged",
+    "v4": "encouraging"
+  },
+  "3142": {
+    "root": "entertain",
+    "v1": "entertained",
+    "v2": "entertained",
+    "v3": "entertained",
+    "v4": "entertaining"
+  },
+  "3149": {
+    "root": "equal",
+    "v1": "equaled",
+    "v2": "equaled",
+    "v3": "equaled",
+    "v4": "equaling"
+  },
+  "3151": {
+    "root": "escape",
+    "v1": "escaped",
+    "v2": "escaped",
+    "v3": "escaped",
+    "v4": "escaping"
+  },
+  "3155": {
+    "root": "examine",
+    "v1": "examined",
+    "v2": "examined",
+    "v3": "examined",
+    "v4": "examining"
+  },
+  "3158": {
+    "root": "exchange",
+    "v1": "exchanged",
+    "v2": "exchanged",
+    "v3": "exchanged",
+    "v4": "exchanging"
+  },
+  "3161": {
+    "root": "expand",
+    "v1": "expanded",
+    "v2": "expanded",
+    "v3": "expanded",
+    "v4": "expanding"
+  },
+  "3164": {
+    "root": "experience",
+    "v1": "experienced",
+    "v2": "experienced",
+    "v3": "experienced",
+    "v4": "experiencing"
+  },
+  "3166": {
+    "root": "experiment",
+    "v1": "experimented",
+    "v2": "experimented",
+    "v3": "experimented",
+    "v4": "experimenting"
+  },
+  "3167": {
+    "root": "explode",
+    "v1": "exploded",
+    "v2": "exploded",
+    "v3": "exploded",
+    "v4": "exploding"
+  },
+  "3168": {
+    "root": "explore",
+    "v1": "explored",
+    "v2": "explored",
+    "v3": "explored",
+    "v4": "exploring"
+  },
+  "3171": {
+    "root": "export",
+    "v1": "exported",
+    "v2": "exported",
+    "v3": "exported",
+    "v4": "exporting"
+  },
+  "3174": {
+    "root": "face",
+    "v1": "faced",
+    "v2": "faced",
+    "v3": "faced",
+    "v4": "facing"
+  },
+  "3177": {
+    "root": "fancy",
+    "v1": "fancied",
+    "v2": "fancied",
+    "v3": "fancied",
+    "v4": "fancying"
+  },
+  "3182": {
+    "root": "fasten",
+    "v1": "fastened",
+    "v2": "fastened",
+    "v3": "fastened",
+    "v4": "fastening"
+  },
+  "3184": {
+    "root": "fear",
+    "v1": "feared",
+    "v2": "feared",
+    "v3": "feared",
+    "v4": "fearing"
+  },
+  "3185": {
+    "root": "feature",
+    "v1": "featured",
+    "v2": "featured",
+    "v3": "featured",
+    "v4": "featuring"
+  },
+  "3190": {
+    "root": "fire",
+    "v1": "fired",
+    "v2": "fired",
+    "v3": "fired",
+    "v4": "firing"
+  },
+  "3195": {
+    "root": "flood",
+    "v1": "flooded",
+    "v2": "flooded",
+    "v3": "flooded",
+    "v4": "flooding"
+  },
+  "3197": {
+    "root": "flow",
+    "v1": "flowed",
+    "v2": "flown",
+    "v3": "flown",
+    "v4": "flowing"
+  },
+  "3199": {
+    "root": "fold",
+    "v1": "folded",
+    "v2": "folded",
+    "v3": "folded",
+    "v4": "folding"
+  },
+  "3204": {
+    "root": "force",
+    "v1": "forced",
+    "v2": "forced",
+    "v3": "forced",
+    "v4": "forcing"
+  },
+  "3207": {
+    "root": "frame",
+    "v1": "framed",
+    "v2": "framed",
+    "v3": "framed",
+    "v4": "framing"
+  },
+  "3208": {
+    "root": "freeze",
+    "v1": "froze",
+    "v2": "frozen",
+    "v3": "frozen",
+    "v4": "freezing"
+  },
+  "3212": {
+    "root": "frighten",
+    "v1": "frightened",
+    "v2": "frightened",
+    "v3": "frightened",
+    "v4": "frightening"
+  },
+  "3214": {
+    "root": "fry",
+    "v1": "fried",
+    "v2": "fried",
+    "v3": "fried",
+    "v4": "frying"
+  },
+  "3220": {
+    "root": "gather",
+    "v1": "gathered",
+    "v2": "gathered",
+    "v3": "gathered",
+    "v4": "gathering"
+  },
+  "3236": {
+    "root": "graduate",
+    "v1": "graduated",
+    "v2": "graduated",
+    "v3": "graduated",
+    "v4": "graduating"
+  },
+  "3278": {
+    "root": "open",
+    "v1": "opened",
+    "v2": "opened",
+    "v3": "opened",
+    "v4": "opening"
+  },
+  "3288": {
+    "root": "order",
+    "v1": "ordered",
+    "v2": "ordered",
+    "v3": "ordered",
+    "v4": "ordering"
+  },
+  "3299": {
+    "root": "print",
+    "v1": "printed",
+    "v2": "printed",
+    "v3": "printed",
+    "v4": "printing"
+  },
+  "3307": {
+    "root": "park",
+    "v1": "parked",
+    "v2": "parked",
+    "v3": "parked",
+    "v4": "parking"
+  },
+  "3315": {
+    "root": "pay",
+    "v1": "paid",
+    "v2": "paid",
+    "v3": "paid",
+    "v4": "paying"
+  },
+  "3325": {
+    "root": "phone",
+    "v1": "phoned",
+    "v2": "phoned",
+    "v3": "phoned",
+    "v4": "phoning"
+  },
+  "3337": {
+    "root": "plan",
+    "v1": "planned",
+    "v2": "planned",
+    "v3": "planned",
+    "v4": "planning"
+  },
+  "3340": {
+    "root": "recommend",
+    "v1": "recommended",
+    "v2": "recommended",
+    "v3": "recommended",
+    "v4": "recommending"
+  },
+  "3342": {
+    "root": "record",
+    "v1": "recorded",
+    "v2": "recorded",
+    "v3": "recorded",
+    "v4": "recording"
+  },
+  "3344": {
+    "root": "recycle",
+    "v1": "recycled",
+    "v2": "recycled",
+    "v3": "recycled",
+    "v4": "recycling"
+  },
+  "3345": {
+    "root": "reduce",
+    "v1": "reduced",
+    "v2": "reduced",
+    "v3": "reduced",
+    "v4": "reducing"
+  },
+  "3346": {
+    "root": "refer",
+    "v1": "referred",
+    "v2": "referred",
+    "v3": "referred",
+    "v4": "referring"
+  },
+  "3347": {
+    "root": "refuse",
+    "v1": "refused",
+    "v2": "refused",
+    "v3": "refused",
+    "v4": "refusing"
+  },
+  "3351": {
+    "root": "remove",
+    "v1": "removed",
+    "v2": "removed",
+    "v3": "removed",
+    "v4": "removing"
+  },
+  "3352": {
+    "root": "repair",
+    "v1": "repaired",
+    "v2": "repaired",
+    "v3": "repaired",
+    "v4": "repairing"
+  },
+  "3353": {
+    "root": "replace",
+    "v1": "replaced",
+    "v2": "replaced",
+    "v3": "replaced",
+    "v4": "replacing"
+  },
+  "3354": {
+    "root": "reply",
+    "v1": "replied",
+    "v2": "replied",
+    "v3": "replied",
+    "v4": "replying"
+  },
+  "3356": {
+    "root": "report",
+    "v1": "reported",
+    "v2": "reported",
+    "v3": "reported",
+    "v4": "reporting"
+  },
+  "3360": {
+    "root": "research",
+    "v1": "researched",
+    "v2": "researched",
+    "v3": "researched",
+    "v4": "researching"
+  },
+  "3362": {
+    "root": "respond",
+    "v1": "responded",
+    "v2": "responded",
+    "v3": "responded",
+    "v4": "responding"
+  },
+  "3365": {
+    "root": "rest",
+    "v1": "rested",
+    "v2": "rested",
+    "v3": "rested",
+    "v4": "resting"
+  },
+  "3367": {
+    "root": "review",
+    "v1": "reviewed",
+    "v2": "reviewed",
+    "v3": "reviewed",
+    "v4": "reviewing"
+  },
+  "3370": {
+    "root": "ring",
+    "v1": "rang",
+    "v2": "rung",
+    "v3": "rung",
+    "v4": "ringing"
+  },
+  "3371": {
+    "root": "rise",
+    "v1": "rose",
+    "v2": "risen",
+    "v3": "risen",
+    "v4": "rising"
+  },
+  "3386": {
+    "root": "sail",
+    "v1": "sailed",
+    "v2": "sailed",
+    "v3": "sailed",
+    "v4": "sailing"
+  },
+  "3391": {
+    "root": "save",
+    "v1": "saved",
+    "v2": "saved",
+    "v3": "saved",
+    "v4": "saving"
+  },
+  "3396": {
+    "root": "score",
+    "v1": "scored",
+    "v2": "scored",
+    "v3": "scored",
+    "v4": "scoring"
+  },
+  "3400": {
+    "root": "search",
+    "v1": "searched",
+    "v2": "searched",
+    "v3": "searched",
+    "v4": "searching"
+  },
+  "3408": {
+    "root": "seem",
+    "v1": "seemed",
+    "v2": "seemed",
+    "v3": "seemed",
+    "v4": "seeming"
+  },
+  "3413": {
+    "root": "serve",
+    "v1": "served",
+    "v2": "served",
+    "v3": "served",
+    "v4": "serving"
+  },
+  "3417": {
+    "root": "shake",
+    "v1": "shook",
+    "v2": "shaken",
+    "v3": "shaken",
+    "v4": "shaking"
+  },
+  "3418": {
+    "root": "shall",
+    "v1": "should",
+    "v2": "should",
+    "v3": "should",
+    "v4": "shoulding"
+  },
+  "3423": {
+    "root": "shout",
+    "v1": "shouted",
+    "v2": "shouted",
+    "v3": "shouted",
+    "v4": "shouting"
+  },
+  "3425": {
+    "root": "shut",
+    "v1": "shut",
+    "v2": "shut",
+    "v3": "shut",
+    "v4": "shutting"
+  },
+  "3429": {
+    "root": "sign",
+    "v1": "signed",
+    "v2": "signed",
+    "v3": "signed",
+    "v4": "signing"
+  },
+  "3442": {
+    "root": "guard",
+    "v1": "guarded",
+    "v2": "guarded",
+    "v3": "guarded",
+    "v4": "guarding"
+  },
+  "3444": {
+    "root": "hand",
+    "v1": "handed",
+    "v2": "handed",
+    "v3": "handed",
+    "v4": "handing"
+  },
+  "3445": {
+    "root": "hang",
+    "v1": "hung",
+    "v2": "hung",
+    "v3": "hung",
+    "v4": "hanging"
+  },
+  "3449": {
+    "root": "head",
+    "v1": "headed",
+    "v2": "headed",
+    "v3": "headed",
+    "v4": "heading"
+  },
+  "3454": {
+    "root": "highlight",
+    "v1": "highlighted",
+    "v2": "highlighted",
+    "v3": "highlighted",
+    "v4": "highlighting"
+  },
+  "3457": {
+    "root": "hire",
+    "v1": "hired",
+    "v2": "hired",
+    "v3": "hired",
+    "v4": "hiring"
+  },
+  "3464": {
+    "root": "hunt",
+    "v1": "hunted",
+    "v2": "hunted",
+    "v3": "hunted",
+    "v4": "hunting"
+  },
+  "3467": {
+    "root": "hurry",
+    "v1": "hurried",
+    "v2": "hurried",
+    "v3": "hurried",
+    "v4": "hurrying"
+  },
+  "3469": {
+    "root": "ignore",
+    "v1": "ignored",
+    "v2": "ignored",
+    "v3": "ignored",
+    "v4": "ignoring"
+  },
+  "3475": {
+    "root": "impact",
+    "v1": "impacted",
+    "v2": "impacted",
+    "v3": "impacted",
+    "v4": "impacting"
+  },
+  "3477": {
+    "root": "import",
+    "v1": "imported",
+    "v2": "imported",
+    "v3": "imported",
+    "v4": "importing"
+  },
+  "3484": {
+    "root": "indicate",
+    "v1": "indicated",
+    "v2": "indicated",
+    "v3": "indicated",
+    "v4": "indicating"
+  },
+  "3489": {
+    "root": "influence",
+    "v1": "influenced",
+    "v2": "influenced",
+    "v3": "influenced",
+    "v4": "influencing"
+  },
+  "3491": {
+    "root": "injuire",
+    "v1": "injured",
+    "v2": "injured",
+    "v3": "injured",
+    "v4": "injuring"
+  },
+  "3495": {
+    "root": "intend",
+    "v1": "intended",
+    "v2": "intended",
+    "v3": "intended",
+    "v4": "intending"
+  },
+  "3497": {
+    "root": "invest",
+    "v1": "invested",
+    "v2": "invested",
+    "v3": "invested",
+    "v4": "investing"
+  },
+  "3498": {
+    "root": "investigate",
+    "v1": "investigated",
+    "v2": "investigated",
+    "v3": "investigated",
+    "v4": "investigating"
+  },
+  "3501": {
+    "root": "iron",
+    "v1": "ironed",
+    "v2": "ironed",
+    "v3": "ironed",
+    "v4": "ironing"
+  },
+  "3505": {
+    "root": "judge",
+    "v1": "judged",
+    "v2": "judged",
+    "v3": "judged",
+    "v4": "judging"
+  },
+  "3507": {
+    "root": "key",
+    "v1": "keyed",
+    "v2": "keyed",
+    "v3": "keyed",
+    "v4": "keying"
+  },
+  "3509": {
+    "root": "kick",
+    "v1": "kicked",
+    "v2": "kicked",
+    "v3": "kicked",
+    "v4": "kicking"
+  },
+  "3513": {
+    "root": "kiss",
+    "v1": "kissed",
+    "v2": "kissed",
+    "v3": "kissed",
+    "v4": "kissing"
+  },
+  "3517": {
+    "root": "label",
+    "v1": "labeled",
+    "v2": "labeled",
+    "v3": "labeled",
+    "v4": "labeling"
+  },
+  "3520": {
+    "root": "lack",
+    "v1": "lacked",
+    "v2": "lacked",
+    "v3": "lacked",
+    "v4": "lacking"
+  },
+  "3522": {
+    "root": "lay",
+    "v1": "laid",
+    "v2": "laid",
+    "v3": "laid",
+    "v4": "laying"
+  },
+  "3532": {
+    "root": "lie",
+    "v1": "lay",
+    "v2": "lain",
+    "v3": "lain",
+    "v4": "lying"
+  },
+  "3536": {
+    "root": "limit",
+    "v1": "limited",
+    "v2": "limited",
+    "v3": "limited",
+    "v4": "limiting"
+  },
+  "3545": {
+    "root": "locate",
+    "v1": "located",
+    "v2": "located",
+    "v3": "located",
+    "v4": "locating"
+  },
+  "3555": {
+    "root": "decline",
+    "v1": "declined",
+    "v2": "declined",
+    "v3": "declined",
+    "v4": "declining"
+  },
+  "3558": {
+    "root": "decrease",
+    "v1": "decreased",
+    "v2": "decreased",
+    "v3": "decreased",
+    "v4": "decreasing"
+  },
+  "3561": {
+    "root": "defeat",
+    "v1": "defeated",
+    "v2": "defeated",
+    "v3": "defeated",
+    "v4": "defeating"
+  },
+  "3564": {
+    "root": "defend",
+    "v1": "defended",
+    "v2": "defended",
+    "v3": "defended",
+    "v4": "defending"
+  },
+  "3565": {
+    "root": "delay",
+    "v1": "delayed",
+    "v2": "delayed",
+    "v3": "delayed",
+    "v4": "delaying"
+  },
+  "3569": {
+    "root": "delight",
+    "v1": "delighted",
+    "v2": "delighted",
+    "v3": "delighted",
+    "v4": "delighting"
+  },
+  "3574": {
+    "root": "demand",
+    "v1": "demanded",
+    "v2": "demanded",
+    "v3": "demanded",
+    "v4": "demanding"
+  },
+  "3575": {
+    "root": "demonstrate",
+    "v1": "demonstrated",
+    "v2": "demonstrated",
+    "v3": "demonstrated",
+    "v4": "demonstrating"
+  },
+  "3576": {
+    "root": "deny",
+    "v1": "denied",
+    "v2": "denied",
+    "v3": "denied",
+    "v4": "denying"
+  },
+  "3580": {
+    "root": "desert",
+    "v1": "deserted",
+    "v2": "deserted",
+    "v3": "deserted",
+    "v4": "deserting"
+  },
+  "3581": {
+    "root": "deserve",
+    "v1": "deserved",
+    "v2": "deserved",
+    "v3": "deserved",
+    "v4": "deserving"
+  },
+  "3583": {
+    "root": "desire",
+    "v1": "desired",
+    "v2": "desired",
+    "v3": "desired",
+    "v4": "desiring"
+  },
+  "3585": {
+    "root": "detail",
+    "v1": "detailed",
+    "v2": "detailed",
+    "v3": "detailed",
+    "v4": "detailing"
+  },
+  "3587": {
+    "root": "detect",
+    "v1": "detected",
+    "v2": "detected",
+    "v3": "detected",
+    "v4": "detecting"
+  },
+  "3588": {
+    "root": "dig",
+    "v1": "dug",
+    "v2": "dug",
+    "v3": "dug",
+    "v4": "digging"
+  },
+  "3591": {
+    "root": "discount",
+    "v1": "discounted",
+    "v2": "discounted",
+    "v3": "discounted",
+    "v4": "discounting"
+  },
+  "3593": {
+    "root": "dismiss",
+    "v1": "dismissed",
+    "v2": "dismissed",
+    "v3": "dismissed",
+    "v4": "dismissing"
+  },
+  "3594": {
+    "root": "display",
+    "v1": "displayed",
+    "v2": "displayed",
+    "v3": "displayed",
+    "v4": "displaying"
+  },
+  "3596": {
+    "root": "distribute",
+    "v1": "distributed",
+    "v2": "distributed",
+    "v3": "distributed",
+    "v4": "distributing"
+  },
+  "3601": {
+    "root": "document",
+    "v1": "documented",
+    "v2": "documented",
+    "v3": "documented",
+    "v4": "documenting"
+  },
+  "3603": {
+    "root": "dominate",
+    "v1": "dominated",
+    "v2": "dominated",
+    "v3": "dominated",
+    "v4": "dominating"
+  },
+  "3608": {
+    "root": "draft",
+    "v1": "drafted",
+    "v2": "drafted",
+    "v3": "drafted",
+    "v4": "drafting"
+  },
+  "3609": {
+    "root": "drag",
+    "v1": "dragged",
+    "v2": "dragged",
+    "v3": "dragged",
+    "v4": "dragging"
+  },
+  "3611": {
+    "root": "edit",
+    "v1": "edited",
+    "v2": "edited",
+    "v3": "edited",
+    "v4": "editing"
+  },
+  "3615": {
+    "root": "elect",
+    "v1": "elected",
+    "v2": "elected",
+    "v3": "elected",
+    "v4": "electing"
+  },
+  "3617": {
+    "root": "emerge",
+    "v1": "emerged",
+    "v2": "emerged",
+    "v3": "emerged",
+    "v4": "emerging"
+  },
+  "3620": {
+    "root": "emphasize",
+    "v1": "emphasized",
+    "v2": "emphasized",
+    "v3": "emphasized",
+    "v4": "emphasizing"
+  },
+  "3621": {
+    "root": "enable",
+    "v1": "enabled",
+    "v2": "enabled",
+    "v3": "enabled",
+    "v4": "enabling"
+  },
+  "3622": {
+    "root": "encounter",
+    "v1": "encountered",
+    "v2": "encountered",
+    "v3": "encountered",
+    "v4": "encountering"
+  },
+  "3624": {
+    "root": "engage",
+    "v1": "engaged",
+    "v2": "engaged",
+    "v3": "engaged",
+    "v4": "engaging"
+  },
+  "3625": {
+    "root": "enhance",
+    "v1": "enhanced",
+    "v2": "enhanced",
+    "v3": "enhanced",
+    "v4": "enhancing"
+  },
+  "3627": {
+    "root": "ensure",
+    "v1": "ensured",
+    "v2": "ensured",
+    "v3": "ensured",
+    "v4": "ensuring"
+  },
+  "3633": {
+    "root": "establish",
+    "v1": "established",
+    "v2": "established",
+    "v3": "established",
+    "v4": "establishing"
+  },
+  "3635": {
+    "root": "estimate",
+    "v1": "estimated",
+    "v2": "estimated",
+    "v3": "estimated",
+    "v4": "estimating"
+  },
+  "3637": {
+    "root": "lock",
+    "v1": "locked",
+    "v2": "locked",
+    "v3": "locked",
+    "v4": "locking"
+  },
+  "3651": {
+    "root": "mail",
+    "v1": "mailed",
+    "v2": "mailed",
+    "v3": "mailed",
+    "v4": "mailing"
+  },
+  "3655": {
+    "root": "manage",
+    "v1": "managed",
+    "v2": "managed",
+    "v3": "managed",
+    "v4": "managing"
+  },
+  "3658": {
+    "root": "mark",
+    "v1": "marked",
+    "v2": "marked",
+    "v3": "marked",
+    "v4": "marking"
+  },
+  "3660": {
+    "root": "marry",
+    "v1": "married",
+    "v2": "married",
+    "v3": "married",
+    "v4": "marrying"
+  },
+  "3665": {
+    "root": "matter",
+    "v1": "mattered",
+    "v2": "mattered",
+    "v3": "mattered",
+    "v4": "mattering"
+  },
+  "3666": {
+    "root": "may",
+    "v1": "may",
+    "v2": "might",
+    "v3": "might",
+    "v4": "may"
+  },
+  "3671": {
+    "root": "mention",
+    "v1": "mentioned",
+    "v2": "mentioned",
+    "v3": "mentioned",
+    "v4": "mentioning"
+  },
+  "3676": {
+    "root": "might",
+    "v1": "might",
+    "v2": "might",
+    "v3": "might",
+    "v4": "might"
+  },
+  "3678": {
+    "root": "mind",
+    "v1": "minded",
+    "v2": "minded",
+    "v3": "minded",
+    "v4": "minding"
+  },
+  "3708": {
+    "root": "notice",
+    "v1": "noticed",
+    "v2": "noticed",
+    "v3": "noticed",
+    "v4": "noticing"
+  },
+  "3712": {
+    "root": "number",
+    "v1": "numbered",
+    "v2": "numbered",
+    "v3": "numbered",
+    "v4": "numbering"
+  },
+  "3715": {
+    "root": "offer",
+    "v1": "offered",
+    "v2": "offered",
+    "v3": "offered",
+    "v4": "offering"
+  },
+  "3724": {
+    "root": "organize",
+    "v1": "organized",
+    "v2": "organized",
+    "v3": "organized",
+    "v4": "organizing"
+  },
+  "3731": {
+    "root": "own",
+    "v1": "owned",
+    "v2": "owned",
+    "v3": "owned",
+    "v4": "owning"
+  },
+  "3733": {
+    "root": "pack",
+    "v1": "packed",
+    "v2": "packed",
+    "v3": "packed",
+    "v4": "packing"
+  },
+  "3740": {
+    "root": "pass",
+    "v1": "passed",
+    "v2": "passed",
+    "v3": "passed",
+    "v4": "passing"
+  },
+  "3752": {
+    "root": "perform",
+    "v1": "performed",
+    "v2": "performed",
+    "v3": "performed",
+    "v4": "performing"
+  },
+  "3758": {
+    "root": "photograph",
+    "v1": "photographed",
+    "v2": "photographed",
+    "v3": "photographed",
+    "v4": "photographing"
+  },
+  "3761": {
+    "root": "pick",
+    "v1": "picked",
+    "v2": "picked",
+    "v3": "picked",
+    "v4": "picking"
+  },
+  "3764": {
+    "root": "plant",
+    "v1": "planted",
+    "v2": "planted",
+    "v3": "planted",
+    "v4": "planting"
+  },
+  "3769": {
+    "root": "please",
+    "v1": "pleased",
+    "v2": "pleased",
+    "v3": "pleased",
+    "v4": "pleasing"
+  },
+  "3782": {
+    "root": "predict",
+    "v1": "predicted",
+    "v2": "predicted",
+    "v3": "predicted",
+    "v4": "predicting"
+  },
+  "3783": {
+    "root": "present",
+    "v1": "presented",
+    "v2": "presented",
+    "v3": "presented",
+    "v4": "presenting"
+  },
+  "3784": {
+    "root": "prevent",
+    "v1": "prevented",
+    "v2": "prevented",
+    "v3": "prevented",
+    "v4": "preventing"
+  },
+  "3785": {
+    "root": "print",
+    "v1": "printed",
+    "v2": "printed",
+    "v3": "printed",
+    "v4": "printing"
+  },
+  "3790": {
+    "root": "produce",
+    "v1": "produced",
+    "v2": "produced",
+    "v3": "produced",
+    "v4": "producing"
+  },
+  "3796": {
+    "root": "promise",
+    "v1": "promised",
+    "v2": "promised",
+    "v3": "promised",
+    "v4": "promising"
+  },
+  "3798": {
+    "root": "pronounce",
+    "v1": "pronounced",
+    "v2": "pronounced",
+    "v3": "pronounced",
+    "v4": "pronouncing"
+  },
+  "3799": {
+    "root": "protect",
+    "v1": "protected",
+    "v2": "protected",
+    "v3": "protected",
+    "v4": "protecting"
+  },
+  "3800": {
+    "root": "provide",
+    "v1": "provided",
+    "v2": "provided",
+    "v3": "provided",
+    "v4": "providing"
+  },
+  "3804": {
+    "root": "publish",
+    "v1": "published",
+    "v2": "published",
+    "v3": "published",
+    "v4": "publishing"
+  },
+  "3805": {
+    "root": "pull",
+    "v1": "pulled",
+    "v2": "pulled",
+    "v3": "pulled",
+    "v4": "pulling"
+  },
+  "3807": {
+    "root": "push",
+    "v1": "pushed",
+    "v2": "pushed",
+    "v3": "pushed",
+    "v4": "pushing"
+  },
+  "3811": {
+    "root": "question",
+    "v1": "questioned",
+    "v2": "questioned",
+    "v3": "questioned",
+    "v4": "questioning"
+  },
+  "3814": {
+    "root": "race",
+    "v1": "raced",
+    "v2": "raced",
+    "v3": "raced",
+    "v4": "racing"
+  },
+  "3816": {
+    "root": "raise",
+    "v1": "raised",
+    "v2": "raised",
+    "v3": "raised",
+    "v4": "raising"
+  },
+  "3819": {
+    "root": "reach",
+    "v1": "reached",
+    "v2": "reached",
+    "v3": "reached",
+    "v4": "reaching"
+  },
+  "3820": {
+    "root": "react",
+    "v1": "reacted",
+    "v2": "reacted",
+    "v3": "reacted",
+    "v4": "reacting"
+  },
+  "3821": {
+    "root": "realize",
+    "v1": "realized",
+    "v2": "realized",
+    "v3": "realized",
+    "v4": "realizing"
+  },
+  "3822": {
+    "root": "receive",
+    "v1": "received",
+    "v2": "received",
+    "v3": "received",
+    "v4": "receiving"
+  },
+  "3827": {
+    "root": "recognize",
+    "v1": "recognized",
+    "v2": "recognized",
+    "v3": "recognized",
+    "v4": "recognizing"
+  },
+  "3830": {
+    "root": "market",
+    "v1": "marketed",
+    "v2": "marketed",
+    "v3": "marketed",
+    "v4": "marketing"
+  },
+  "3834": {
+    "root": "measure",
+    "v1": "measured",
+    "v2": "measured",
+    "v3": "measured",
+    "v4": "measuring"
+  },
+  "3842": {
+    "root": "mix",
+    "v1": "mixed",
+    "v2": "mixed",
+    "v3": "mixed",
+    "v4": "mixing"
+  },
+  "3849": {
+    "root": "murder",
+    "v1": "murdered",
+    "v2": "murdered",
+    "v3": "murdered",
+    "v4": "murdering"
+  },
+  "3861": {
+    "root": "need",
+    "v1": "needed",
+    "v2": "needed",
+    "v3": "needed",
+    "v4": "needing"
+  },
+  "3877": {
+    "root": "occur",
+    "v1": "occurred",
+    "v2": "occurred",
+    "v3": "occurred",
+    "v4": "occurring"
+  },
+  "3887": {
+    "root": "ought",
+    "v1": "ought",
+    "v2": "ought",
+    "v3": "ought",
+    "v4": "ought"
+  },
+  "3896": {
+    "root": "participate",
+    "v1": "participated",
+    "v2": "participated",
+    "v3": "participated",
+    "v4": "participating"
+  },
+  "3907": {
+    "root": "persuade",
+    "v1": "persuaded",
+    "v2": "persuaded",
+    "v3": "persuaded",
+    "v4": "persuading"
+  },
+  "3911": {
+    "root": "pin",
+    "v1": "pinned",
+    "v2": "pinned",
+    "v3": "pinned",
+    "v4": "pinning"
+  },
+  "3913": {
+    "root": "place",
+    "v1": "placed",
+    "v2": "placed",
+    "v3": "placed",
+    "v4": "placing"
+  },
+  "3923": {
+    "root": "point",
+    "v1": "pointed",
+    "v2": "pointed",
+    "v3": "pointed",
+    "v4": "pointing"
+  },
+  "3925": {
+    "root": "poison",
+    "v1": "poisoned",
+    "v2": "poisoned",
+    "v3": "poisoned",
+    "v4": "poisoning"
+  },
+  "3935": {
+    "root": "pour",
+    "v1": "poured",
+    "v2": "poured",
+    "v3": "poured",
+    "v4": "pouring"
+  },
+  "3940": {
+    "root": "pray",
+    "v1": "prayed",
+    "v2": "prayed",
+    "v3": "prayed",
+    "v4": "praying"
+  },
+  "3947": {
+    "root": "press",
+    "v1": "pressed",
+    "v2": "pressed",
+    "v3": "pressed",
+    "v4": "pressing"
+  },
+  "3949": {
+    "root": "pretend",
+    "v1": "pretended",
+    "v2": "pretended",
+    "v3": "pretended",
+    "v4": "pretending"
+  },
+  "3963": {
+    "root": "program",
+    "v1": "programmed",
+    "v2": "programmed",
+    "v3": "programmed",
+    "v4": "programming"
+  },
+  "3964": {
+    "root": "promote",
+    "v1": "promoted",
+    "v2": "promoted",
+    "v3": "promoted",
+    "v4": "promoting"
+  },
+  "3969": {
+    "root": "protest",
+    "v1": "protested",
+    "v2": "protested",
+    "v3": "protested",
+    "v4": "protesting"
+  },
+  "3971": {
+    "root": "prove",
+    "v1": "proved",
+    "v2": "proved",
+    "v3": "proved",
+    "v4": "proving"
+  },
+  "3973": {
+    "root": "punish",
+    "v1": "punished",
+    "v2": "punished",
+    "v3": "punished",
+    "v4": "punishing"
+  },
+  "3978": {
+    "root": "qualify",
+    "v1": "qualified",
+    "v2": "qualified",
+    "v3": "qualified",
+    "v4": "qualifying"
+  },
+  "3980": {
+    "root": "queue",
+    "v1": "queued",
+    "v2": "queued",
+    "v3": "queued",
+    "v4": "queuing"
+  },
+  "3981": {
+    "root": "quit",
+    "v1": "quit",
+    "v2": "quit",
+    "v3": "quit",
+    "v4": "quit"
+  },
+  "3983": {
+    "root": "quote",
+    "v1": "quoted",
+    "v2": "quoted",
+    "v3": "quoted",
+    "v4": "quoting"
+  },
+  "3995": {
+    "root": "reflect",
+    "v1": "reflected",
+    "v2": "reflected",
+    "v3": "reflected",
+    "v4": "reflecting"
+  },
+  "3997": {
+    "root": "reject",
+    "v1": "rejected",
+    "v2": "rejected",
+    "v3": "rejected",
+    "v4": "rejecting"
+  },
+  "3998": {
+    "root": "relate",
+    "v1": "related",
+    "v2": "related",
+    "v3": "related",
+    "v4": "relating"
+  },
+  "4005": {
+    "root": "release",
+    "v1": "released",
+    "v2": "released",
+    "v3": "released",
+    "v4": "releasing"
+  },
+  "4010": {
+    "root": "remain",
+    "v1": "remained",
+    "v2": "remained",
+    "v3": "remained",
+    "v4": "remaining"
+  },
+  "4011": {
+    "root": "remind",
+    "v1": "reminded",
+    "v2": "reminded",
+    "v3": "reminded",
+    "v4": "reminding"
+  },
+  "4014": {
+    "root": "rent",
+    "v1": "rented",
+    "v2": "rented",
+    "v3": "rented",
+    "v4": "renting"
+  },
+  "4018": {
+    "root": "represent",
+    "v1": "represented",
+    "v2": "represented",
+    "v3": "represented",
+    "v4": "representing"
+  },
+  "4019": {
+    "root": "request",
+    "v1": "requested",
+    "v2": "requested",
+    "v3": "requested",
+    "v4": "requesting"
+  },
+  "4020": {
+    "root": "require",
+    "v1": "required",
+    "v2": "required",
+    "v3": "required",
+    "v4": "requiring"
+  },
+  "4024": {
+    "root": "respect",
+    "v1": "respected",
+    "v2": "respected",
+    "v3": "respected",
+    "v4": "respecting"
+  },
+  "4027": {
+    "root": "result",
+    "v1": "resulted",
+    "v2": "resulted",
+    "v3": "resulted",
+    "v4": "resulting"
+  },
+  "4028": {
+    "root": "play",
+    "v1": "played",
+    "v2": "played",
+    "v3": "played",
+    "v4": "playing"
+  },
+  "4041": {
+    "root": "post",
+    "v1": "posted",
+    "v2": "posted",
+    "v3": "posted",
+    "v4": "posting"
+  },
+  "4045": {
+    "root": "practise",
+    "v1": "practised",
+    "v2": "practised",
+    "v3": "practised",
+    "v4": "practising"
+  },
+  "4046": {
+    "root": "prefer",
+    "v1": "preferred",
+    "v2": "preferred",
+    "v3": "preferred",
+    "v4": "preferring"
+  },
+  "4047": {
+    "root": "prepare",
+    "v1": "prepared",
+    "v2": "prepared",
+    "v3": "prepared",
+    "v4": "preparing"
+  },
+  "4060": {
+    "root": "put",
+    "v1": "put",
+    "v2": "put",
+    "v3": "put",
+    "v4": "putting"
+  },
+  "4069": {
+    "root": "rain",
+    "v1": "rained",
+    "v2": "rained",
+    "v3": "rained",
+    "v4": "raining"
+  },
+  "4078": {
+    "root": "relax",
+    "v1": "relaxed",
+    "v2": "relaxed",
+    "v3": "relaxed",
+    "v4": "relaxing"
+  },
+  "4079": {
+    "root": "remember",
+    "v1": "remembered",
+    "v2": "remembered",
+    "v3": "remembered",
+    "v4": "remembering"
+  },
+  "4080": {
+    "root": "repeat",
+    "v1": "repeated",
+    "v2": "repeated",
+    "v3": "repeated",
+    "v4": "repeating"
+  },
+  "4084": {
+    "root": "return",
+    "v1": "return",
+    "v2": "returned",
+    "v3": "returned",
+    "v4": "returning"
+  },
+  "4087": {
+    "root": "ride",
+    "v1": "ride",
+    "v2": "rode",
+    "v3": "ridden",
+    "v4": "riding"
+  },
+  "4096": {
+    "root": "run",
+    "v1": "run",
+    "v2": "ran",
+    "v3": "run",
+    "v4": "running"
+  },
+  "4105": {
+    "root": "say",
+    "v1": "say",
+    "v2": "said",
+    "v3": "said",
+    "v4": "saying"
+  },
+  "4114": {
+    "root": "see",
+    "v1": "see",
+    "v2": "saw",
+    "v3": "seen",
+    "v4": "seeing"
+  },
+  "4115": {
+    "root": "send",
+    "v1": "send",
+    "v2": "sent",
+    "v3": "sent",
+    "v4": "sending"
+  },
+  "4121": {
+    "root": "share",
+    "v1": "share",
+    "v2": "shared",
+    "v3": "shared",
+    "v4": "sharing"
+  },
+  "4128": {
+    "root": "should",
+    "v1": "should",
+    "v2": "should",
+    "v3": "should",
+    "v4": "should"
+  },
+  "4129": {
+    "root": "show",
+    "v1": "show",
+    "v2": "showed",
+    "v3": "shown",
+    "v4": "showing"
+  },
+  "4134": {
+    "root": "sing",
+    "v1": "sing",
+    "v2": "sang",
+    "v3": "sung",
+    "v4": "singing"
+  },
+  "4137": {
+    "root": "sit",
+    "v1": "sit",
+    "v2": "sat",
+    "v3": "sat",
+    "v4": "sitting"
+  },
+  "4144": {
+    "root": "sleep",
+    "v1": "sleep",
+    "v2": "slept",
+    "v3": "slept",
+    "v4": "sleeping"
+  },
+  "4149": {
+    "root": "snow",
+    "v1": "snow",
+    "v2": "snowed",
+    "v3": "snowed",
+    "v4": "snowing"
+  },
+  "4164": {
+    "root": "sound",
+    "v1": "sound",
+    "v2": "sounded",
+    "v3": "sounded",
+    "v4": "sounding"
+  },
+  "4170": {
+    "root": "speak",
+    "v1": "speak",
+    "v2": "spoke",
+    "v3": "spoken",
+    "v4": "speaking"
+  },
+  "4172": {
+    "root": "spell",
+    "v1": "spell",
+    "v2": "spelled",
+    "v3": "spelled",
+    "v4": "spelling"
+  },
+  "4174": {
+    "root": "spend",
+    "v1": "spend",
+    "v2": "spent",
+    "v3": "spent",
+    "v4": "spending"
+  },
+  "4179": {
+    "root": "start",
+    "v1": "start",
+    "v2": "started",
+    "v3": "started",
+    "v4": "starting"
+  },
+  "4182": {
+    "root": "stay",
+    "v1": "stay",
+    "v2": "stayed",
+    "v3": "stayed",
+    "v4": "staying"
+  },
+  "4184": {
+    "root": "stop",
+    "v1": "stop",
+    "v2": "stopped",
+    "v3": "stopped",
+    "v4": "stopping"
+  },
+  "4191": {
+    "root": "study",
+    "v1": "study",
+    "v2": "studied",
+    "v3": "studied",
+    "v4": "studying"
+  },
+  "4202": {
+    "root": "swim",
+    "v1": "swim",
+    "v2": "swam",
+    "v3": "swum",
+    "v4": "swimming"
+  },
+  "4205": {
+    "root": "take",
+    "v1": "take",
+    "v2": "took",
+    "v3": "taken",
+    "v4": "taking"
+  },
+  "4206": {
+    "root": "talk",
+    "v1": "talk",
+    "v2": "talked",
+    "v3": "talked",
+    "v4": "talking"
+  },
+  "4208": {
+    "root": "taxi",
+    "v1": "taxi",
+    "v2": "taxied",
+    "v3": "taxied",
+    "v4": "taxiing"
+  },
+  "4210": {
+    "root": "teach",
+    "v1": "teach",
+    "v2": "taught",
+    "v3": "taught",
+    "v4": "teaching"
+  },
+  "4215": {
+    "root": "telephone",
+    "v1": "telephone",
+    "v2": "telephoned",
+    "v3": "telephoned",
+    "v4": "telephoning"
+  },
+  "4217": {
+    "root": "tell",
+    "v1": "tell",
+    "v2": "told",
+    "v3": "told",
+    "v4": "telling"
+  },
+  "4222": {
+    "root": "test",
+    "v1": "test",
+    "v2": "tested",
+    "v3": "tested",
+    "v4": "testing"
+  },
+  "4225": {
+    "root": "thank",
+    "v1": "thank",
+    "v2": "thanked",
+    "v3": "thanked",
+    "v4": "thanking"
+  },
+  "4228": {
+    "root": "retire",
+    "v1": "retire",
+    "v2": "retired",
+    "v3": "retired",
+    "v4": "retiring"
+  },
+  "4230": {
+    "root": "revise",
+    "v1": "revise",
+    "v2": "revised",
+    "v3": "revised",
+    "v4": "revising"
+  },
+  "4234": {
+    "root": "risk",
+    "v1": "risk",
+    "v2": "risked",
+    "v3": "risked",
+    "v4": "risking"
+  },
+  "4236": {
+    "root": "roll",
+    "v1": "roll",
+    "v2": "rolled",
+    "v3": "rolled",
+    "v4": "rolling"
+  },
+  "4244": {
+    "root": "rule",
+    "v1": "rule",
+    "v2": "ruled",
+    "v3": "ruled",
+    "v4": "ruling"
+  },
+  "4250": {
+    "root": "scan",
+    "v1": "scan",
+    "v2": "scanned",
+    "v3": "scanned",
+    "v4": "scanning"
+  },
+  "4258": {
+    "root": "separate",
+    "v1": "separate",
+    "v2": "separated",
+    "v3": "separated",
+    "v4": "separating"
+  },
+  "4261": {
+    "root": "set",
+    "v1": "set",
+    "v2": "set",
+    "v3": "set",
+    "v4": "setting"
+  },
+  "4272": {
+    "root": "shine",
+    "v1": "shine",
+    "v2": "shone",
+    "v3": "shone",
+    "v4": "shining"
+  },
+  "4274": {
+    "root": "shoot",
+    "v1": "shoot",
+    "v2": "shot",
+    "v3": "shot",
+    "v4": "shooting"
+  },
+  "4278": {
+    "root": "signal",
+    "v1": "signal",
+    "v2": "signaled",
+    "v3": "signaled",
+    "v4": "signaling"
+  },
+  "4285": {
+    "root": "sink",
+    "v1": "sink",
+    "v2": "sank",
+    "v3": "sunk",
+    "v4": "sinking"
+  },
+  "4287": {
+    "root": "slice",
+    "v1": "slice",
+    "v2": "sliced",
+    "v3": "sliced",
+    "v4": "slicing"
+  },
+  "4289": {
+    "root": "slow",
+    "v1": "slow",
+    "v2": "slowed",
+    "v3": "slowed",
+    "v4": "slowing"
+  },
+  "4296": {
+    "root": "sort",
+    "v1": "sort",
+    "v2": "sorted",
+    "v3": "sorted",
+    "v4": "sorting"
+  },
+  "4304": {
+    "root": "spread",
+    "v1": "spread",
+    "v2": "spread",
+    "v3": "spread",
+    "v4": "spreading"
+  },
+  "4305": {
+    "root": "spring",
+    "v1": "spring",
+    "v2": "sprang",
+    "v3": "sprung",
+    "v4": "springing"
+  },
+  "4311": {
+    "root": "state",
+    "v1": "state",
+    "v2": "stated",
+    "v3": "stated",
+    "v4": "stating"
+  },
+  "4314": {
+    "root": "stick",
+    "v1": "stick",
+    "v2": "stuck",
+    "v3": "stuck",
+    "v4": "sticking"
+  },
+  "4317": {
+    "root": "store",
+    "v1": "store",
+    "v2": "stored",
+    "v3": "stored",
+    "v4": "storing"
+  },
+  "4327": {
+    "root": "suffer",
+    "v1": "suffer",
+    "v2": "suffered",
+    "v3": "suffered",
+    "v4": "suffering"
+  },
+  "4328": {
+    "root": "suit",
+    "v1": "suit",
+    "v2": "suited",
+    "v3": "suited",
+    "v4": "suiting"
+  },
+  "4330": {
+    "root": "summarize",
+    "v1": "summarize",
+    "v2": "summarized",
+    "v3": "summarized",
+    "v4": "summarizing"
+  },
+  "4333": {
+    "root": "supply",
+    "v1": "supply",
+    "v2": "supplied",
+    "v3": "supplied",
+    "v4": "supplying"
+  },
+  "4337": {
+    "root": "survive",
+    "v1": "survive",
+    "v2": "survived",
+    "v3": "survived",
+    "v4": "surviving"
+  },
+  "4339": {
+    "root": "switch",
+    "v1": "switch",
+    "v2": "switched",
+    "v3": "switched",
+    "v4": "switching"
+  },
+  "4346": {
+    "root": "tax",
+    "v1": "tax",
+    "v2": "taxed",
+    "v3": "taxed",
+    "v4": "taxing"
+  },
+  "4349": {
+    "root": "tend",
+    "v1": "tend",
+    "v2": "tended",
+    "v3": "tended",
+    "v4": "tending"
+  },
+  "4367": {
+    "root": "tip",
+    "v1": "tip",
+    "v2": "tipped",
+    "v3": "tipped",
+    "v4": "tipping"
+  },
+  "4374": {
+    "root": "tour",
+    "v1": "tour",
+    "v2": "toured",
+    "v3": "toured",
+    "v4": "touring"
+  },
+  "4376": {
+    "root": "trade",
+    "v1": "trade",
+    "v2": "traded",
+    "v3": "traded",
+    "v4": "trading"
+  },
+  "4377": {
+    "root": "translate",
+    "v1": "translate",
+    "v2": "translated",
+    "v3": "translated",
+    "v4": "translating"
+  },
+  "4379": {
+    "root": "transport",
+    "v1": "transport",
+    "v2": "transported",
+    "v3": "transported",
+    "v4": "transporting"
+  },
+  "4380": {
+    "root": "treat",
+    "v1": "treat",
+    "v2": "treated",
+    "v3": "treated",
+    "v4": "treating"
+  },
+  "4384": {
+    "root": "trick",
+    "v1": "trick",
+    "v2": "tricked",
+    "v3": "tricked",
+    "v4": "tricking"
+  },
+  "4387": {
+    "root": "type",
+    "v1": "type",
+    "v2": "typed",
+    "v3": "typed",
+    "v4": "typing"
+  },
+  "4403": {
+    "root": "update",
+    "v1": "update",
+    "v2": "updated",
+    "v3": "updated",
+    "v4": "updating"
+  },
+  "4407": {
+    "root": "upset",
+    "v1": "upset",
+    "v2": "upset",
+    "v3": "upset",
+    "v4": "upsetting"
+  },
+  "4415": {
+    "root": "view",
+    "v1": "view",
+    "v2": "viewed",
+    "v3": "viewed",
+    "v4": "viewing"
+  },
+  "4419": {
+    "root": "volunteer",
+    "v1": "volunteer",
+    "v2": "volunteered",
+    "v3": "volunteered",
+    "v4": "volunteering"
+  },
+  "4421": {
+    "root": "vote",
+    "v1": "vote",
+    "v2": "voted",
+    "v3": "voted",
+    "v4": "voting"
+  },
+  "4422": {
+    "root": "warm",
+    "v1": "warm",
+    "v2": "warmed",
+    "v3": "warmed",
+    "v4": "warming"
+  },
+  "4423": {
+    "root": "warn",
+    "v1": "warn",
+    "v2": "warned",
+    "v3": "warned",
+    "v4": "warning"
+  },
+  "4426": {
+    "root": "waste",
+    "v1": "waste",
+    "v2": "wasted",
+    "v3": "wasted",
+    "v4": "wasting"
+  },
+  "4439": {
+    "root": "think",
+    "v1": "think",
+    "v2": "thought",
+    "v3": "thought",
+    "v4": "thinking"
+  },
+  "4461": {
+    "root": "water",
+    "v1": "water",
+    "v2": "watered",
+    "v3": "watered",
+    "v4": "watering"
+  },
+  "4462": {
+    "root": "wave",
+    "v1": "wave",
+    "v2": "waved",
+    "v3": "waved",
+    "v4": "waving"
+  },
+  "4464": {
+    "root": "weigh",
+    "v1": "weigh",
+    "v2": "weighed",
+    "v3": "weighed",
+    "v4": "weighing"
+  },
+  "4476": {
+    "root": "wonder",
+    "v1": "wonder",
+    "v2": "wondered",
+    "v3": "wondered",
+    "v4": "wondering"
+  },
+  "4490": {
+    "root": "abandon",
+    "v1": "abandon",
+    "v2": "abandoned",
+    "v3": "abandoned",
+    "v4": "abandoning"
+  },
+  "4494": {
+    "root": "accompany",
+    "v1": "accompany",
+    "v2": "accompanied",
+    "v3": "accompanied",
+    "v4": "accompanying"
+  },
+  "4495": {
+    "root": "account",
+    "v1": "account",
+    "v2": "accounted",
+    "v3": "accounted",
+    "v4": "accounting"
+  },
+  "4497": {
+    "root": "accuse",
+    "v1": "accuse",
+    "v2": "accused",
+    "v3": "accused",
+    "v4": "accusing"
+  },
+  "4498": {
+    "root": "acknowledge",
+    "v1": "acknowledge",
+    "v2": "acknowledged",
+    "v3": "acknowledged",
+    "v4": "acknowledging"
+  },
+  "4499": {
+    "root": "acquire",
+    "v1": "acquire",
+    "v2": "acquired",
+    "v3": "acquired",
+    "v4": "acquiring"
+  },
+  "4501": {
+    "root": "adapt",
+    "v1": "adapt",
+    "v2": "adapted",
+    "v3": "adapted",
+    "v4": "adapting"
+  },
+  "4503": {
+    "root": "address",
+    "v1": "address",
+    "v2": "addressed",
+    "v3": "addressed",
+    "v4": "addressing"
+  },
+  "4505": {
+    "root": "adopt",
+    "v1": "adopt",
+    "v2": "adopted",
+    "v3": "adopted",
+    "v4": "adopting"
+  },
+  "4507": {
+    "root": "advance",
+    "v1": "advance",
+    "v2": "advanced",
+    "v3": "advanced",
+    "v4": "advancing"
+  },
+  "4515": {
+    "root": "aid",
+    "v1": "aid",
+    "v2": "aided",
+    "v3": "aided",
+    "v4": "aiding"
+  },
+  "4517": {
+    "root": "alarm",
+    "v1": "alarm",
+    "v2": "alarmed",
+    "v3": "alarmed",
+    "v4": "alarming"
+  },
+  "4518": {
+    "root": "alter",
+    "v1": "alter",
+    "v2": "altered",
+    "v3": "altered",
+    "v4": "altering"
+  },
+  "4519": {
+    "root": "amount",
+    "v1": "amount",
+    "v2": "amounted",
+    "v3": "amounted",
+    "v4": "amounting"
+  },
+  "4528": {
+    "root": "appeal",
+    "v1": "appeal",
+    "v2": "appealed",
+    "v3": "appealed",
+    "v4": "appealing"
+  },
+  "4530": {
+    "root": "approach",
+    "v1": "approach",
+    "v2": "approached",
+    "v3": "approached",
+    "v4": "approaching"
+  },
+  "4533": {
+    "root": "arise",
+    "v1": "arise",
+    "v2": "arose",
+    "v3": "arisen",
+    "v4": "arising"
+  },
+  "4540": {
+    "root": "assess",
+    "v1": "assess",
+    "v2": "assessed",
+    "v3": "assessed",
+    "v4": "assessing"
+  },
+  "4542": {
+    "root": "associate",
+    "v1": "associate",
+    "v2": "associated",
+    "v3": "associated",
+    "v4": "associating"
+  },
+  "4545": {
+    "root": "assume",
+    "v1": "assume",
+    "v2": "assumed",
+    "v3": "assumed",
+    "v4": "assuming"
+  },
+  "4547": {
+    "root": "attempt",
+    "v1": "attempt",
+    "v2": "attempted",
+    "v3": "attempted",
+    "v4": "attempting"
+  },
+  "4548": {
+    "root": "back",
+    "v1": "back",
+    "v2": "backed",
+    "v3": "backed",
+    "v4": "backing"
+  },
+  "4550": {
+    "root": "bar",
+    "v1": "bar",
+    "v2": "barred",
+    "v3": "barred",
+    "v4": "barring"
+  },
+  "4553": {
+    "root": "battle",
+    "v1": "battle",
+    "v2": "battled",
+    "v3": "battled",
+    "v4": "battling"
+  },
+  "4554": {
+    "root": "bear",
+    "v1": "bear",
+    "v2": "bore",
+    "v3": "borne",
+    "v4": "bearing"
+  },
+  "4556": {
+    "root": "beg",
+    "v1": "beg",
+    "v2": "begged",
+    "v3": "begged",
+    "v4": "begging"
+  },
+  "4559": {
+    "root": "bet",
+    "v1": "bet",
+    "v2": "bet",
+    "v3": "bet",
+    "v4": "betting"
+  },
+  "4563": {
+    "root": "bill",
+    "v1": "bill",
+    "v2": "billed",
+    "v3": "billed",
+    "v4": "billing"
+  },
+  "4565": {
+    "root": "blame",
+    "v1": "blame",
+    "v2": "blamed",
+    "v3": "blamed",
+    "v4": "blaming"
+  },
+  "4569": {
+    "root": "border",
+    "v1": "border",
+    "v2": "bordered",
+    "v3": "bordered",
+    "v4": "bordering"
+  },
+  "4570": {
+    "root": "broadcast",
+    "v1": "broadcast",
+    "v2": "broadcast",
+    "v3": "broadcast",
+    "v4": "broadcasting"
+  },
+  "4579": {
+    "root": "calculate",
+    "v1": "calculate",
+    "v2": "calculated",
+    "v3": "calculated",
+    "v4": "calculating"
+  },
+  "4580": {
+    "root": "cancel",
+    "v1": "cancel",
+    "v2": "cancelled",
+    "v3": "cancelled",
+    "v4": "cancelling"
+  },
+  "4584": {
+    "root": "capture",
+    "v1": "capture",
+    "v2": "captured",
+    "v3": "captured",
+    "v4": "capturing"
+  },
+  "4587": {
+    "root": "cast",
+    "v1": "cast",
+    "v2": "cast",
+    "v3": "cast",
+    "v4": "casting"
+  },
+  "4590": {
+    "root": "chain",
+    "v1": "chain",
+    "v2": "chained",
+    "v3": "chained",
+    "v4": "chaining"
+  },
+  "4591": {
+    "root": "chair",
+    "v1": "chair",
+    "v2": "chaired",
+    "v3": "chaired",
+    "v4": "chairing"
+  },
+  "4593": {
+    "root": "challenge",
+    "v1": "challenge",
+    "v2": "challenged",
+    "v3": "challenged",
+    "v4": "challenging"
+  },
+  "4596": {
+    "root": "chart",
+    "v1": "chart",
+    "v2": "charted",
+    "v3": "charted",
+    "v4": "charting"
+  },
+  "4600": {
+    "root": "cite",
+    "v1": "cite",
+    "v2": "cited",
+    "v3": "cited",
+    "v4": "citing"
+  },
+  "4607": {
+    "root": "collapse",
+    "v1": "collapse",
+    "v2": "collapsed",
+    "v3": "collapsed",
+    "v4": "collapsing"
+  },
+  "4611": {
+    "root": "comfort",
+    "v1": "comfort",
+    "v2": "comforted",
+    "v3": "comforted",
+    "v4": "comforting"
+  },
+  "4613": {
+    "root": "command",
+    "v1": "command",
+    "v2": "commanded",
+    "v3": "commanded",
+    "v4": "commanding"
+  },
+  "4615": {
+    "root": "commission",
+    "v1": "commission",
+    "v2": "commissioned",
+    "v3": "commissioned",
+    "v4": "commissioning"
+  },
+  "4625": {
+    "root": "concern",
+    "v1": "concern",
+    "v2": "concerned",
+    "v3": "concerned",
+    "v4": "concerning"
+  },
+  "4627": {
+    "root": "conduct",
+    "v1": "conduct",
+    "v2": "conducted",
+    "v3": "conducted",
+    "v4": "conducting"
+  },
+  "4631": {
+    "root": "conflict",
+    "v1": "conflict",
+    "v2": "conflicted",
+    "v3": "conflicted",
+    "v4": "conflicting"
+  },
+  "4640": {
+    "root": "construct",
+    "v1": "construct",
+    "v2": "constructed",
+    "v3": "constructed",
+    "v4": "constructing"
+  },
+  "4644": {
+    "root": "contest",
+    "v1": "contest",
+    "v2": "contested",
+    "v3": "contested",
+    "v4": "contesting"
+  },
+  "4646": {
+    "root": "contract",
+    "v1": "contract",
+    "v2": "contracted",
+    "v3": "contracted",
+    "v4": "contracting"
+  },
+  "4647": {
+    "root": "contribute",
+    "v1": "contribute",
+    "v2": "contributed",
+    "v3": "contributed",
+    "v4": "contributing"
+  },
+  "4649": {
+    "root": "convert",
+    "v1": "convert",
+    "v2": "converted",
+    "v3": "converted",
+    "v4": "converting"
+  },
+  "4658": {
+    "root": "crash",
+    "v1": "crash",
+    "v2": "crashed",
+    "v3": "crashed",
+    "v4": "crashing"
+  },
+  "4661": {
+    "root": "credit",
+    "v1": "credit",
+    "v2": "credited",
+    "v3": "credited",
+    "v4": "crediting"
+  },
+  "4668": {
+    "root": "criticize",
+    "v1": "criticize",
+    "v2": "criticized",
+    "v3": "criticized",
+    "v4": "criticizing"
+  },
+  "4672": {
+    "root": "cure",
+    "v1": "cure",
+    "v2": "cured",
+    "v3": "cured",
+    "v4": "curing"
+  },
+  "4676": {
+    "root": "curve",
+    "v1": "curve",
+    "v2": "curved",
+    "v3": "curved",
+    "v4": "curving"
+  },
+  "4678": {
+    "root": "date",
+    "v1": "date",
+    "v2": "dated",
+    "v3": "dated",
+    "v4": "dating"
+  },
+  "4680": {
+    "root": "debate",
+    "v1": "debate",
+    "v2": "debated",
+    "v3": "debated",
+    "v4": "debating"
+  },
+  "4683": {
+    "root": "declare",
+    "v1": "declare",
+    "v2": "declared",
+    "v3": "declared",
+    "v4": "declaring"
+  },
+  "4696": {
+    "root": "travel",
+    "v1": "travel",
+    "v2": "travelled",
+    "v3": "travelled",
+    "v4": "travelling"
+  },
+  "4702": {
+    "root": "try",
+    "v1": "try",
+    "v2": "tried",
+    "v3": "tried",
+    "v4": "trying"
+  },
+  "4705": {
+    "root": "turn",
+    "v1": "turn",
+    "v2": "turned",
+    "v3": "turned",
+    "v4": "turning"
+  },
+  "4717": {
+    "root": "understand",
+    "v1": "understand",
+    "v2": "understood",
+    "v3": "understood",
+    "v4": "understanding"
+  },
+  "4725": {
+    "root": "use",
+    "v1": "use",
+    "v2": "used",
+    "v3": "used",
+    "v4": "using"
+  },
+  "4734": {
+    "root": "visit",
+    "v1": "visit",
+    "v2": "visited",
+    "v3": "visited",
+    "v4": "visiting"
+  },
+  "4736": {
+    "root": "wait",
+    "v1": "wait",
+    "v2": "waited",
+    "v3": "waited",
+    "v4": "waiting"
+  },
+  "4738": {
+    "root": "wake",
+    "v1": "wake",
+    "v2": "woke",
+    "v3": "woken",
+    "v4": "waking"
+  },
+  "4739": {
+    "root": "walk",
+    "v1": "walk",
+    "v2": "walked",
+    "v3": "walked",
+    "v4": "walking"
+  },
+  "4742": {
+    "root": "want",
+    "v1": "want",
+    "v2": "wanted",
+    "v3": "wanted",
+    "v4": "wanting"
+  },
+  "4744": {
+    "root": "wash",
+    "v1": "wash",
+    "v2": "washed",
+    "v3": "washed",
+    "v4": "washing"
+  },
+  "4745": {
+    "root": "watch",
+    "v1": "watch",
+    "v2": "watched",
+    "v3": "watched",
+    "v4": "watching"
+  },
+  "4750": {
+    "root": "wear",
+    "v1": "wear",
+    "v2": "wore",
+    "v3": "worn",
+    "v4": "wearing"
+  },
+  "4755": {
+    "root": "welcome",
+    "v1": "welcome",
+    "v2": "welcomed",
+    "v3": "welcomed",
+    "v4": "welcoming"
+  },
+  "4777": {
+    "root": "will",
+    "v1": "will",
+    "v2": "willed",
+    "v3": "willed",
+    "v4": "willing"
+  },
+  "4778": {
+    "root": "win",
+    "v1": "win",
+    "v2": "won",
+    "v3": "won",
+    "v4": "winning"
+  },
+  "4787": {
+    "root": "work",
+    "v1": "work",
+    "v2": "worked",
+    "v3": "worked",
+    "v4": "working"
+  },
+  "4791": {
+    "root": "would",
+    "v1": "would",
+    "v2": "would",
+    "v3": "would",
+    "v4": "would"
+  },
+  "4792": {
+    "root": "write",
+    "v1": "write",
+    "v2": "wrote",
+    "v3": "written",
+    "v4": "writing"
+  },
+  "4810": {
+    "root": "accept",
+    "v1": "accept",
+    "v2": "accepted",
+    "v3": "accepted",
+    "v4": "accepting"
+  },
+  "4813": {
+    "root": "achieve",
+    "v1": "achieve",
+    "v2": "achieved",
+    "v3": "achieved",
+    "v4": "achieving"
+  },
+  "4818": {
+    "root": "advertise",
+    "v1": "advertise",
+    "v2": "advertised",
+    "v3": "advertised",
+    "v4": "advertising"
+  },
+  "4821": {
+    "root": "affect",
+    "v1": "affect",
+    "v2": "affected",
+    "v3": "affected",
+    "v4": "affecting"
+  },
+  "4848": {
+    "root": "appear",
+    "v1": "appear",
+    "v2": "appeared",
+    "v3": "appeared",
+    "v4": "appearing"
+  },
+  "4850": {
+    "root": "apply",
+    "v1": "apply",
+    "v2": "applied",
+    "v3": "applied",
+    "v4": "applying"
+  },
+  "4853": {
+    "root": "argue",
+    "v1": "argue",
+    "v2": "argued",
+    "v3": "argued",
+    "v4": "arguing"
+  },
+  "4856": {
+    "root": "arrange",
+    "v1": "arrange",
+    "v2": "arranged",
+    "v3": "arranged",
+    "v4": "arranging"
+  },
+  "4865": {
+    "root": "attack",
+    "v1": "attack",
+    "v2": "attacked",
+    "v3": "attacked",
+    "v4": "attacking"
+  },
+  "4866": {
+    "root": "attend",
+    "v1": "attend",
+    "v2": "attended",
+    "v3": "attended",
+    "v4": "attending"
+  },
+  "4875": {
+    "root": "avoid",
+    "v1": "avoid",
+    "v2": "avoided",
+    "v3": "avoided",
+    "v4": "avoiding"
+  },
+  "4887": {
+    "root": "evaluate",
+    "v1": "evaluate",
+    "v2": "evaluated",
+    "v3": "evaluated",
+    "v4": "evaluating"
+  },
+  "4893": {
+    "root": "excuse",
+    "v1": "excuse",
+    "v2": "excused",
+    "v3": "excused",
+    "v4": "excusing"
+  },
+  "4900": {
+    "root": "expose",
+    "v1": "expose",
+    "v2": "exposed",
+    "v3": "exposed",
+    "v4": "exposing"
+  },
+  "4901": {
+    "root": "extend",
+    "v1": "extend",
+    "v2": "extended",
+    "v3": "extended",
+    "v4": "extending"
+  },
+  "4910": {
+    "root": "favour",
+    "v1": "favour",
+    "v2": "favoured",
+    "v3": "favoured",
+    "v4": "favouring"
+  },
+  "4917": {
+    "root": "figure",
+    "v1": "figure",
+    "v2": "figured",
+    "v3": "figured",
+    "v4": "figuring"
+  },
+  "4918": {
+    "root": "file",
+    "v1": "file",
+    "v2": "filed",
+    "v3": "filed",
+    "v4": "filing"
+  },
+  "4920": {
+    "root": "finance",
+    "v1": "finance",
+    "v2": "financed",
+    "v3": "financed",
+    "v4": "financing"
+  },
+  "4926": {
+    "root": "flash",
+    "v1": "flash",
+    "v2": "flashed",
+    "v3": "flashed",
+    "v4": "flashing"
+  },
+  "4928": {
+    "root": "float",
+    "v1": "float",
+    "v2": "floated",
+    "v3": "floated",
+    "v4": "floating"
+  },
+  "4932": {
+    "root": "forgive",
+    "v1": "forgive",
+    "v2": "forgave",
+    "v3": "forgiven",
+    "v4": "forgiving"
+  },
+  "4936": {
+    "root": "found",
+    "v1": "find",
+    "v2": "found",
+    "v3": "found",
+    "v4": "finding"
+  },
+  "4937": {
+    "root": "free",
+    "v1": "free",
+    "v2": "freed",
+    "v3": "freed",
+    "v4": "freeing"
+  },
+  "4940": {
+    "root": "fuel",
+    "v1": "fuel",
+    "v2": "fuelled",
+    "v3": "fuelled",
+    "v4": "fuelling"
+  },
+  "4942": {
+    "root": "function",
+    "v1": "function",
+    "v2": "functioned",
+    "v3": "functioned",
+    "v4": "functioning"
+  },
+  "4944": {
+    "root": "fund",
+    "v1": "fund",
+    "v2": "funded",
+    "v3": "funded",
+    "v4": "funding"
+  },
+  "4948": {
+    "root": "gain",
+    "v1": "gain",
+    "v2": "gained",
+    "v3": "gained",
+    "v4": "gaining"
+  },
+  "4951": {
+    "root": "generate",
+    "v1": "generate",
+    "v2": "generated",
+    "v3": "generated",
+    "v4": "generating"
+  },
+  "4953": {
+    "root": "govern",
+    "v1": "govern",
+    "v2": "governed",
+    "v3": "governed",
+    "v4": "governing"
+  },
+  "4954": {
+    "root": "grab",
+    "v1": "grab",
+    "v2": "grabbed",
+    "v3": "grabbed",
+    "v4": "grabbing"
+  },
+  "4955": {
+    "root": "grade",
+    "v1": "grade",
+    "v2": "graded",
+    "v3": "graded",
+    "v4": "grading"
+  },
+  "4958": {
+    "root": "grant",
+    "v1": "grant",
+    "v2": "granted",
+    "v3": "granted",
+    "v4": "granting"
+  },
+  "4960": {
+    "root": "guarantee",
+    "v1": "guarantee",
+    "v2": "guaranteed",
+    "v3": "guaranteed",
+    "v4": "guaranteeing"
+  },
+  "4962": {
+    "root": "handle",
+    "v1": "handle",
+    "v2": "handled",
+    "v3": "handled",
+    "v4": "handling"
+  },
+  "4965": {
+    "root": "harm",
+    "v1": "harm",
+    "v2": "harmed",
+    "v3": "harmed",
+    "v4": "harming"
+  },
+  "4971": {
+    "root": "hesitate",
+    "v1": "hesitate",
+    "v2": "hesitated",
+    "v3": "hesitated",
+    "v4": "hesitating"
+  },
+  "4978": {
+    "root": "honour",
+    "v1": "honour",
+    "v2": "honoured",
+    "v3": "honoured",
+    "v4": "honouring"
+  },
+  "4979": {
+    "root": "host",
+    "v1": "host",
+    "v2": "hosted",
+    "v3": "hosted",
+    "v4": "hosting"
+  },
+  "4980": {
+    "root": "house",
+    "v1": "house",
+    "v2": "housed",
+    "v3": "housed",
+    "v4": "housing"
+  },
+  "4989": {
+    "root": "illustrate",
+    "v1": "illustrate",
+    "v2": "illustrated",
+    "v3": "illustrated",
+    "v4": "illustrating"
+  },
+  "4993": {
+    "root": "imply",
+    "v1": "imply",
+    "v2": "implied",
+    "v3": "implied",
+    "v4": "implying"
+  },
+  "4994": {
+    "root": "impose",
+    "v1": "impose",
+    "v2": "imposed",
+    "v3": "imposed",
+    "v4": "imposing"
+  },
+  "4995": {
+    "root": "impress",
+    "v1": "impress",
+    "v2": "impressed",
+    "v3": "impressed",
+    "v4": "impressing"
+  },
+  "5003": {
+    "root": "inform",
+    "v1": "inform",
+    "v2": "informed",
+    "v3": "informed",
+    "v4": "informing"
+  },
+  "5009": {
+    "root": "insist",
+    "v1": "insist",
+    "v2": "insisted",
+    "v3": "insisted",
+    "v4": "insisting"
+  },
+  "5010": {
+    "root": "inspire",
+    "v1": "inspire",
+    "v2": "inspired",
+    "v3": "inspired",
+    "v4": "inspiring"
+  },
+  "5011": {
+    "root": "install",
+    "v1": "install",
+    "v2": "installed",
+    "v3": "installed",
+    "v4": "installing"
+  },
+  "5019": {
+    "root": "interpret",
+    "v1": "interpret",
+    "v2": "interpreted",
+    "v3": "interpreted",
+    "v4": "interpreting"
+  },
+  "5020": {
+    "root": "interrupt",
+    "v1": "interrupt",
+    "v2": "interrupted",
+    "v3": "interrupted",
+    "v4": "interrupting"
+  },
+  "5023": {
+    "root": "issue",
+    "v1": "issue",
+    "v2": "issued",
+    "v3": "issued",
+    "v4": "issuing"
+  },
+  "5028": {
+    "root": "justify",
+    "v1": "justify",
+    "v2": "justified",
+    "v3": "justified",
+    "v4": "justifying"
+  },
+  "5033": {
+    "root": "launch",
+    "v1": "launch",
+    "v2": "launched",
+    "v3": "launched",
+    "v4": "launching"
+  },
+  "5037": {
+    "root": "lean",
+    "v1": "lean",
+    "v2": "leaned",
+    "v3": "leaned",
+    "v4": "leaning"
+  },
+  "5039": {
+    "root": "level",
+    "v1": "level",
+    "v2": "leveled",
+    "v3": "leveled",
+    "v4": "leveling"
+  },
+  "5042": {
+    "root": "line",
+    "v1": "line",
+    "v2": "lined",
+    "v3": "lined",
+    "v4": "lining"
+  },
+  "5045": {
+    "root": "load",
+    "v1": "load",
+    "v2": "loaded",
+    "v3": "loaded",
+    "v4": "loading"
+  },
+  "5053": {
+    "root": "lower",
+    "v1": "lower",
+    "v2": "lowered",
+    "v3": "lowered",
+    "v4": "lowering"
+  },
+  "5055": {
+    "root": "maintain",
+    "v1": "maintain",
+    "v2": "maintained",
+    "v3": "maintained",
+    "v4": "maintaining"
+  },
+  "5058": {
+    "root": "map",
+    "v1": "map",
+    "v2": "mapped",
+    "v3": "mapped",
+    "v4": "mapping"
+  },
+  "5063": {
+    "root": "master",
+    "v1": "master",
+    "v2": "mastered",
+    "v3": "mastered",
+    "v4": "mastering"
+  },
+  "5071": {
+    "root": "melt",
+    "v1": "melt",
+    "v2": "melted",
+    "v3": "melted",
+    "v4": "melting"
+  },
+  "5077": {
+    "root": "beat",
+    "v1": "beat",
+    "v2": "beated",
+    "v3": "beaten",
+    "v4": "beating"
+  },
+  "5081": {
+    "root": "behave",
+    "v1": "behave",
+    "v2": "behaved",
+    "v3": "behaved",
+    "v4": "behaving"
+  },
+  "5083": {
+    "root": "belong",
+    "v1": "belong",
+    "v2": "belonged",
+    "v3": "belonged",
+    "v4": "belonging"
+  },
+  "5099": {
+    "root": "blow",
+    "v1": "blow",
+    "v2": "blew",
+    "v3": "blown",
+    "v4": "blowing"
+  },
+  "5101": {
+    "root": "boil",
+    "v1": "boil",
+    "v2": "boiled",
+    "v3": "boiled",
+    "v4": "boiling"
+  },
+  "5103": {
+    "root": "book",
+    "v1": "book",
+    "v2": "booked",
+    "v3": "booked",
+    "v4": "booking"
+  },
+  "5104": {
+    "root": "borrow",
+    "v1": "borrow",
+    "v2": "borrowed",
+    "v3": "borrowed",
+    "v4": "borrowing"
+  },
+  "5114": {
+    "root": "brush",
+    "v1": "brush",
+    "v2": "brushed",
+    "v3": "brushed",
+    "v4": "brushing"
+  },
+  "5119": {
+    "root": "camp",
+    "v1": "camp",
+    "v2": "camped",
+    "v3": "camped",
+    "v4": "camping"
+  },
+  "5123": {
+    "root": "care",
+    "v1": "care",
+    "v2": "cared",
+    "v3": "cared",
+    "v4": "caring"
+  },
+  "5131": {
+    "root": "catch",
+    "v1": "catch",
+    "v2": "caught",
+    "v3": "caught",
+    "v4": "catching"
+  },
+  "5133": {
+    "root": "cause",
+    "v1": "cause",
+    "v2": "caused",
+    "v3": "caused",
+    "v4": "causing"
+  },
+  "5134": {
+    "root": "celebrate",
+    "v1": "celebrate",
+    "v2": "celebrated",
+    "v3": "celebrated",
+    "v4": "celebrating"
+  },
+  "5141": {
+    "root": "chat",
+    "v1": "chat",
+    "v2": "chatted",
+    "v3": "chatted",
+    "v4": "chatting"
+  },
+  "5151": {
+    "root": "circle",
+    "v1": "circle",
+    "v2": "circled",
+    "v3": "circled",
+    "v4": "circling"
+  },
+  "5165": {
+    "root": "collect",
+    "v1": "collect",
+    "v2": "collected",
+    "v3": "collected",
+    "v4": "collecting"
+  },
+  "5170": {
+    "root": "communicate",
+    "v1": "communicate",
+    "v2": "communicated",
+    "v3": "communicated",
+    "v4": "communicating"
+  },
+  "5172": {
+    "root": "compete",
+    "v1": "compete",
+    "v2": "competed",
+    "v3": "competed",
+    "v4": "competing"
+  },
+  "5174": {
+    "root": "complain",
+    "v1": "complain",
+    "v2": "complained",
+    "v3": "complained",
+    "v4": "complaining"
+  },
+  "5178": {
+    "root": "connect",
+    "v1": "connect",
+    "v2": "connected",
+    "v3": "connected",
+    "v4": "connecting"
+  },
+  "5180": {
+    "root": "consider",
+    "v1": "consider",
+    "v2": "considered",
+    "v3": "considered",
+    "v4": "considering"
+  },
+  "5181": {
+    "root": "contain",
+    "v1": "contain",
+    "v2": "contained",
+    "v3": "contained",
+    "v4": "containing"
+  },
+  "5184": {
+    "root": "continue",
+    "v1": "continue",
+    "v2": "continued",
+    "v3": "continued",
+    "v4": "continuing"
+  },
+  "5186": {
+    "root": "control",
+    "v1": "control",
+    "v2": "controlled",
+    "v3": "controlled",
+    "v4": "controlling"
+  },
+  "5189": {
+    "root": "ski",
+    "v1": "ski",
+    "v2": "skied",
+    "v3": "skied",
+    "v4": "skiing"
+  },
+  "5198": {
+    "root": "smell",
+    "v1": "smell",
+    "v2": "smelled",
+    "v3": "smelled",
+    "v4": "smelling"
+  },
+  "5200": {
+    "root": "smile",
+    "v1": "smile",
+    "v2": "smiled",
+    "v3": "smiled",
+    "v4": "smiling"
+  },
+  "5203": {
+    "root": "smoke",
+    "v1": "smoke",
+    "v2": "smoked",
+    "v3": "smoked",
+    "v4": "smoking"
+  },
+  "5213": {
+    "root": "solve",
+    "v1": "solve",
+    "v2": "solved",
+    "v3": "solved",
+    "v4": "solving"
+  },
+  "5221": {
+    "root": "copy",
+    "v1": "copy",
+    "v2": "copied",
+    "v3": "copied",
+    "v4": "copying"
+  },
+  "5224": {
+    "root": "count",
+    "v1": "count",
+    "v2": "counted",
+    "v3": "counted",
+    "v4": "counting"
+  },
+  "5226": {
+    "root": "cover",
+    "v1": "cover",
+    "v2": "covered",
+    "v3": "covered",
+    "v4": "covering"
+  },
+  "5232": {
+    "root": "cross",
+    "v1": "cross",
+    "v2": "crossed",
+    "v3": "crossed",
+    "v4": "crossing"
+  },
+  "5235": {
+    "root": "cry",
+    "v1": "cry",
+    "v2": "cried",
+    "v3": "cried",
+    "v4": "crying"
+  },
+  "5239": {
+    "root": "cycle",
+    "v1": "cycle",
+    "v2": "cycled",
+    "v3": "cycled",
+    "v4": "cycling"
+  },
+  "5245": {
+    "root": "deal",
+    "v1": "deal",
+    "v2": "dealt",
+    "v3": "dealt",
+    "v4": "dealing"
+  },
+  "5254": {
+    "root": "depend",
+    "v1": "depend",
+    "v2": "depended",
+    "v3": "depended",
+    "v4": "depending"
+  },
+  "5257": {
+    "root": "destroy",
+    "v1": "destroy",
+    "v2": "destroyed",
+    "v3": "destroyed",
+    "v4": "destroying"
+  },
+  "5259": {
+    "root": "develop",
+    "v1": "develop",
+    "v2": "developed",
+    "v3": "developed",
+    "v4": "developing"
+  },
+  "5267": {
+    "root": "disagree",
+    "v1": "disagree",
+    "v2": "disagreed",
+    "v3": "disagreed",
+    "v4": "disagreeing"
+  },
+  "5268": {
+    "root": "disappear",
+    "v1": "disappear",
+    "v2": "disappeared",
+    "v3": "disappeared",
+    "v4": "disappearing"
+  },
+  "5278": {
+    "root": "double",
+    "v1": "double",
+    "v2": "doubled",
+    "v3": "doubled",
+    "v4": "doubling"
+  },
+  "5279": {
+    "root": "download",
+    "v1": "download",
+    "v2": "downloaded",
+    "v3": "downloaded",
+    "v4": "downloading"
+  },
+  "5285": {
+    "root": "dream",
+    "v1": "dream",
+    "v2": "dreamed",
+    "v3": "dreamed",
+    "v4": "dreaming"
+  },
+  "5288": {
+    "root": "drop",
+    "v1": "drop",
+    "v2": "dropped",
+    "v3": "dropped",
+    "v4": "dropping"
+  },
+  "5291": {
+    "root": "dry",
+    "v1": "dry",
+    "v2": "dried",
+    "v3": "dried",
+    "v4": "drying"
+  },
+  "5292": {
+    "root": "earn",
+    "v1": "earn",
+    "v2": "earned",
+    "v3": "earned",
+    "v4": "earning"
+  },
+  "5304": {
+    "root": "employ",
+    "v1": "employ",
+    "v2": "employed",
+    "v3": "employed",
+    "v4": "employing"
+  },
+  "5313": {
+    "root": "enter",
+    "v1": "enter",
+    "v2": "entered",
+    "v3": "entered",
+    "v4": "entering"
+  },
+  "5326": {
+    "root": "exist",
+    "v1": "exist",
+    "v2": "existed",
+    "v3": "existed",
+    "v4": "existing"
+  },
+  "5327": {
+    "root": "expect",
+    "v1": "expect",
+    "v2": "expected",
+    "v3": "expected",
+    "v4": "expecting"
+  },
+  "5333": {
+    "root": "express",
+    "v1": "express",
+    "v2": "expressed",
+    "v3": "expressed",
+    "v4": "expressing"
+  },
+  "5339": {
+    "root": "fail",
+    "v1": "fail",
+    "v2": "failed",
+    "v3": "failed",
+    "v4": "failing"
+  },
+  "5340": {
+    "root": "fair",
+    "v1": "fair",
+    "v2": "faired",
+    "v3": "faired",
+    "v4": "fairing"
+  },
+  "5343": {
+    "root": "farm",
+    "v1": "farm",
+    "v2": "farmed",
+    "v3": "farmed",
+    "v4": "farming"
+  },
+  "5349": {
+    "root": "feed",
+    "v1": "feed",
+    "v2": "fed",
+    "v3": "fed",
+    "v4": "feeding"
+  },
+  "5354": {
+    "root": "fight",
+    "v1": "fight",
+    "v2": "fought",
+    "v3": "fought",
+    "v4": "fighting"
+  },
+  "5356": {
+    "root": "figure",
+    "v1": "figure",
+    "v2": "figured",
+    "v3": "figured",
+    "v4": "figuring"
+  },
+  "5358": {
+    "root": "film",
+    "v1": "film",
+    "v2": "filmed",
+    "v3": "filmed",
+    "v4": "filming"
+  },
+  "5365": {
+    "root": "fish",
+    "v1": "fish",
+    "v2": "fished",
+    "v3": "fished",
+    "v4": "fishing"
+  },
+  "5367": {
+    "root": "fit",
+    "v1": "fit",
+    "v2": "fitted",
+    "v3": "fitted",
+    "v4": "fitting"
+  },
+  "5369": {
+    "root": "fix",
+    "v1": "fix",
+    "v2": "fixed",
+    "v3": "fixed",
+    "v4": "fixing"
+  },
+  "5375": {
+    "root": "focus",
+    "v1": "focus",
+    "v2": "focused",
+    "v3": "focused",
+    "v4": "focusing"
+  },
+  "5406": {
+    "root": "greet",
+    "v1": "greet",
+    "v2": "greeted",
+    "v3": "greeted",
+    "v4": "greeting"
+  },
+  "5410": {
+    "root": "guide",
+    "v1": "guide",
+    "v2": "guided",
+    "v3": "guided",
+    "v4": "guiding"
+  },
+  "5418": {
+    "root": "have",
+    "v1": "have",
+    "v2": "had",
+    "v3": "had",
+    "v4": "having"
+  },
+  "5424": {
+    "root": "mistake",
+    "v1": "mistake",
+    "v2": "mistook",
+    "v3": "mistaken",
+    "v4": "mistaking"
+  },
+  "5426": {
+    "root": "model",
+    "v1": "model",
+    "v2": "modeled",
+    "v3": "modeled",
+    "v4": "modeling"
+  },
+  "5427": {
+    "root": "modify",
+    "v1": "modify",
+    "v2": "modified",
+    "v3": "modified",
+    "v4": "modifying"
+  },
+  "5429": {
+    "root": "monitor",
+    "v1": "monitor",
+    "v2": "monitored",
+    "v3": "monitored",
+    "v4": "monitoring"
+  },
+  "5434": {
+    "root": "mount",
+    "v1": "mount",
+    "v2": "mounted",
+    "v3": "mounted",
+    "v4": "mounting"
+  },
+  "5436": {
+    "root": "multiply",
+    "v1": "multiply",
+    "v2": "multiplied",
+    "v3": "multiplied",
+    "v4": "multiplying"
+  },
+  "5438": {
+    "root": "narrow",
+    "v1": "narrow",
+    "v2": "narrowed",
+    "v3": "narrowed",
+    "v4": "narrowing"
+  },
+  "5447": {
+    "root": "obey",
+    "v1": "obey",
+    "v2": "obeyed",
+    "v3": "obeyed",
+    "v4": "obeying"
+  },
+  "5448": {
+    "root": "object",
+    "v1": "object",
+    "v2": "objected",
+    "v3": "objected",
+    "v4": "objecting"
+  },
+  "5453": {
+    "root": "observe",
+    "v1": "observe",
+    "v2": "observed",
+    "v3": "observed",
+    "v4": "observing"
+  },
+  "5454": {
+    "root": "obtain",
+    "v1": "obtain",
+    "v2": "obtained",
+    "v3": "obtained",
+    "v4": "obtaining"
+  },
+  "5457": {
+    "root": "offend",
+    "v1": "offend",
+    "v2": "offended",
+    "v3": "offended",
+    "v4": "offending"
+  },
+  "5461": {
+    "root": "operate",
+    "v1": "operate",
+    "v2": "operated",
+    "v3": "operated",
+    "v4": "operating"
+  },
+  "5468": {
+    "root": "hide",
+    "v1": "hide",
+    "v2": "hid",
+    "v3": "hidden",
+    "v4": "hiding"
+  },
+  "5473": {
+    "root": "heat",
+    "v1": "heat",
+    "v2": "heated",
+    "v3": "heated",
+    "v4": "heating"
+  },
+  "5478": {
+    "root": "hit",
+    "v1": "hit",
+    "v2": "hit",
+    "v3": "hit",
+    "v4": "hitting"
+  },
+  "5480": {
+    "root": "hold",
+    "v1": "hold",
+    "v2": "held",
+    "v3": "held",
+    "v4": "holding"
+  },
+  "5486": {
+    "root": "hurt",
+    "v1": "hurt",
+    "v2": "hurt",
+    "v3": "hurt",
+    "v4": "hurting"
+  },
+  "5489": {
+    "root": "identify",
+    "v1": "identify",
+    "v2": "identified",
+    "v3": "identified",
+    "v4": "identifying"
+  },
+  "5497": {
+    "root": "increase",
+    "v1": "increase",
+    "v2": "increased",
+    "v3": "increased",
+    "v4": "increasing"
+  },
+  "5518": {
+    "root": "invent",
+    "v1": "invent",
+    "v2": "invented",
+    "v3": "invented",
+    "v4": "inventing"
+  },
+  "5521": {
+    "root": "invite",
+    "v1": "invite",
+    "v2": "invited",
+    "v3": "invited",
+    "v4": "inviting"
+  },
+  "5522": {
+    "root": "involve",
+    "v1": "involve",
+    "v2": "involved",
+    "v3": "involved",
+    "v4": "involving"
+  },
+  "5529": {
+    "root": "joke",
+    "v1": "joke",
+    "v2": "joked",
+    "v3": "joked",
+    "v4": "joking"
+  },
+  "5531": {
+    "root": "jump",
+    "v1": "jump",
+    "v2": "jumped",
+    "v3": "jumped",
+    "v4": "jumping"
+  },
+  "5534": {
+    "root": "kill",
+    "v1": "kill",
+    "v2": "killed",
+    "v3": "killed",
+    "v4": "killing"
+  },
+  "5538": {
+    "root": "knock",
+    "v1": "knock",
+    "v2": "knocked",
+    "v3": "knocked",
+    "v4": "knocking"
+  },
+  "5544": {
+    "root": "land",
+    "v1": "land",
+    "v2": "landed",
+    "v3": "landed",
+    "v4": "landing"
+  },
+  "5548": {
+    "root": "last",
+    "v1": "last",
+    "v2": "lasted",
+    "v3": "lasted",
+    "v4": "lasting"
+  },
+  "5554": {
+    "root": "lead",
+    "v1": "lead",
+    "v2": "led",
+    "v3": "led",
+    "v4": "leading"
+  },
+  "5555": {
+    "root": "lead",
+    "v1": "lead",
+    "v2": "led",
+    "v3": "led",
+    "v4": "leading"
+  },
+  "5562": {
+    "root": "lecture",
+    "v1": "lecture",
+    "v2": "lectured",
+    "v3": "lectured",
+    "v4": "lecturing"
+  },
+  "5564": {
+    "root": "lend",
+    "v1": "lend",
+    "v2": "lent",
+    "v3": "lent",
+    "v4": "lending"
+  },
+  "5570": {
+    "root": "lift",
+    "v1": "lift",
+    "v2": "lifted",
+    "v3": "lifted",
+    "v4": "lifting"
+  },
+  "5572": {
+    "root": "light",
+    "v1": "light",
+    "v2": "lit",
+    "v3": "lit",
+    "v4": "lighting"
+  },
+  "5576": {
+    "root": "link",
+    "v1": "link",
+    "v2": "linked",
+    "v3": "linked",
+    "v4": "linking"
+  },
+  "5579": {
+    "root": "oppose",
+    "v1": "oppose",
+    "v2": "opposed",
+    "v3": "opposed",
+    "v4": "opposing"
+  },
+  "5587": {
+    "root": "oppose",
+    "v1": "oppose",
+    "v2": "opposed",
+    "v3": "opposed",
+    "v4": "opposing"
+  },
+  "5589": {
+    "root": "outline",
+    "v1": "outline",
+    "v2": "outlined",
+    "v3": "outlined",
+    "v4": "outlining"
+  },
+  "5592": {
+    "root": "owe",
+    "v1": "owe",
+    "v2": "owed",
+    "v3": "owed",
+    "v4": "owing"
+  },
+  "5594": {
+    "root": "pace",
+    "v1": "pace",
+    "v2": "paced",
+    "v3": "paced",
+    "v4": "pacing"
+  },
+  "5595": {
+    "root": "package",
+    "v1": "package",
+    "v2": "packaged",
+    "v3": "packaged",
+    "v4": "packaging"
+  },
+  "5604": {
+    "root": "permit",
+    "v1": "permit",
+    "v2": "permitted",
+    "v3": "permitted",
+    "v4": "permitting"
+  },
+  "5611": {
+    "root": "picture",
+    "v1": "picture",
+    "v2": "pictured",
+    "v3": "pictured",
+    "v4": "picturing"
+  },
+  "5613": {
+    "root": "pile",
+    "v1": "pile",
+    "v2": "piled",
+    "v3": "piled",
+    "v4": "piling"
+  },
+  "5616": {
+    "root": "plot",
+    "v1": "plot",
+    "v2": "plotted",
+    "v3": "plotted",
+    "v4": "plotting"
+  },
+  "5622": {
+    "root": "pose",
+    "v1": "pose",
+    "v2": "posed",
+    "v3": "posed",
+    "v4": "posing"
+  },
+  "5623": {
+    "root": "position",
+    "v1": "position",
+    "v2": "positioned",
+    "v3": "positioned",
+    "v4": "positioning"
+  },
+  "5625": {
+    "root": "possess",
+    "v1": "possess",
+    "v2": "possessed",
+    "v3": "possessed",
+    "v4": "possessing"
+  },
+  "5629": {
+    "root": "target",
+    "v1": "target",
+    "v2": "targeted",
+    "v3": "targeted",
+    "v4": "targeting"
+  },
+  "5630": {
+    "root": "tear",
+    "v1": "tear",
+    "v2": "tore",
+    "v3": "torn",
+    "v4": "tearing"
+  },
+  "5633": {
+    "root": "term",
+    "v1": "term",
+    "v2": "termed",
+    "v3": "termed",
+    "v4": "terming"
+  },
+  "5636": {
+    "root": "threaten",
+    "v1": "threaten",
+    "v2": "threatened",
+    "v3": "threatened",
+    "v4": "threatening"
+  },
+  "5638": {
+    "root": "time",
+    "v1": "time",
+    "v2": "timed",
+    "v3": "timed",
+    "v4": "timing"
+  },
+  "5639": {
+    "root": "title",
+    "v1": "title",
+    "v2": "titled",
+    "v3": "titled",
+    "v4": "titling"
+  },
+  "5642": {
+    "root": "power",
+    "v1": "power",
+    "v2": "powered",
+    "v3": "powered",
+    "v4": "powering"
+  },
+  "5644": {
+    "root": "praise",
+    "v1": "praise",
+    "v2": "praised",
+    "v3": "praised",
+    "v4": "praising"
+  },
+  "5648": {
+    "root": "preserve",
+    "v1": "preserve",
+    "v2": "preserved",
+    "v3": "preserved",
+    "v4": "preserving"
+  },
+  "5649": {
+    "root": "price",
+    "v1": "price",
+    "v2": "priced",
+    "v3": "priced",
+    "v4": "pricing"
+  },
+  "5656": {
+    "root": "process",
+    "v1": "process",
+    "v2": "processed",
+    "v3": "processed",
+    "v4": "processing"
+  },
+  "5659": {
+    "root": "progress",
+    "v1": "progress",
+    "v2": "progressed",
+    "v3": "progressed",
+    "v4": "progressing"
+  },
+  "5660": {
+    "root": "project",
+    "v1": "project",
+    "v2": "projected",
+    "v3": "projected",
+    "v4": "projecting"
+  },
+  "5663": {
+    "root": "propose",
+    "v1": "propose",
+    "v2": "proposed",
+    "v3": "proposed",
+    "v4": "proposing"
+  },
+  "5671": {
+    "root": "purchase",
+    "v1": "purchase",
+    "v2": "purchased",
+    "v3": "purchased",
+    "v4": "purchasing"
+  },
+  "5673": {
+    "root": "pursue",
+    "v1": "pursue",
+    "v2": "pursued",
+    "v3": "pursued",
+    "v4": "pursuing"
+  },
+  "5674": {
+    "root": "range",
+    "v1": "range",
+    "v2": "ranged",
+    "v3": "ranged",
+    "v4": "ranging"
+  },
+  "5676": {
+    "root": "rank",
+    "v1": "rank",
+    "v2": "ranked",
+    "v3": "ranked",
+    "v4": "ranking"
+  },
+  "5679": {
+    "root": "rate",
+    "v1": "rate",
+    "v2": "rated",
+    "v3": "rated",
+    "v4": "rating"
+  },
+  "5684": {
+    "root": "recall",
+    "v1": "recall",
+    "v2": "recalled",
+    "v3": "recalled",
+    "v4": "recalling"
+  },
+  "5685": {
+    "root": "recover",
+    "v1": "recover",
+    "v2": "recovered",
+    "v3": "recovered",
+    "v4": "recovering"
+  },
+  "5690": {
+    "root": "relax",
+    "v1": "relax",
+    "v2": "relaxed",
+    "v3": "relaxed",
+    "v4": "relaxing"
+  },
+  "5692": {
+    "root": "remove",
+    "v1": "remove",
+    "v2": "removed",
+    "v3": "removed",
+    "v4": "removing"
+  },
+  "5696": {
+    "root": "repair",
+    "v1": "repair",
+    "v2": "repaired",
+    "v3": "repaired",
+    "v4": "repairing"
+  },
+  "5697": {
+    "root": "replace",
+    "v1": "replace",
+    "v2": "replaced",
+    "v3": "replaced",
+    "v4": "replacing"
+  },
+  "5700": {
+    "root": "reply",
+    "v1": "reply",
+    "v2": "replied",
+    "v3": "replied",
+    "v4": "replying"
+  },
+  "5702": {
+    "root": "report",
+    "v1": "report",
+    "v2": "reported",
+    "v3": "reported",
+    "v4": "reporting"
+  },
+  "5704": {
+    "root": "request",
+    "v1": "request",
+    "v2": "requested",
+    "v3": "requested",
+    "v4": "requesting"
+  },
+  "5705": {
+    "root": "require",
+    "v1": "require",
+    "v2": "required",
+    "v3": "required",
+    "v4": "requiring"
+  },
+  "5708": {
+    "root": "respect",
+    "v1": "respect",
+    "v2": "respected",
+    "v3": "respected",
+    "v4": "respecting"
+  },
+  "5711": {
+    "root": "result",
+    "v1": "result",
+    "v2": "resulted",
+    "v3": "resulted",
+    "v4": "resulting"
+  },
+  "5714": {
+    "root": "return",
+    "v1": "return",
+    "v2": "returned",
+    "v3": "returned",
+    "v4": "returning"
+  },
+  "5717": {
+    "root": "revenge",
+    "v1": "revenge",
+    "v2": "revenged",
+    "v3": "revenged",
+    "v4": "revenging"
+  },
+  "5720": {
+    "root": "ride",
+    "v1": "ride",
+    "v2": "rode",
+    "v3": "ridden",
+    "v4": "riding"
+  },
+  "5722": {
+    "root": "ring",
+    "v1": "ring",
+    "v2": "rang",
+    "v3": "rung",
+    "v4": "ringing"
+  },
+  "5726": {
+    "root": "roll",
+    "v1": "roll",
+    "v2": "rolled",
+    "v3": "rolled",
+    "v4": "rolling"
+  },
+  "5730": {
+    "root": "rule",
+    "v1": "rule",
+    "v2": "ruled",
+    "v3": "ruled",
+    "v4": "ruling"
+  },
+  "5736": {
+    "root": "separate",
+    "v1": "separate",
+    "v2": "separated",
+    "v3": "separated",
+    "v4": "separating"
+  },
+  "5739": {
+    "root": "serve",
+    "v1": "serve",
+    "v2": "served",
+    "v3": "served",
+    "v4": "serving"
+  },
+  "5742": {
+    "root": "shoot",
+    "v1": "shoot",
+    "v2": "shot",
+    "v3": "shot",
+    "v4": "shooting"
+  },
+  "5744": {
+    "root": "signal",
+    "v1": "signal",
+    "v2": "signaled",
+    "v3": "signaled",
+    "v4": "signaling"
+  },
+  "5748": {
+    "root": "sink",
+    "v1": "sink",
+    "v2": "sank",
+    "v3": "sunk",
+    "v4": "sinking"
+  },
+  "5750": {
+    "root": "slice",
+    "v1": "slice",
+    "v2": "sliced",
+    "v3": "sliced",
+    "v4": "slicing"
+  },
+  "5752": {
+    "root": "slow",
+    "v1": "slow",
+    "v2": "slowed",
+    "v3": "slowed",
+    "v4": "slowing"
+  },
+  "5759": {
+    "root": "sort",
+    "v1": "sort",
+    "v2": "sorted",
+    "v3": "sorted",
+    "v4": "sorting"
+  },
+  "5767": {
+    "root": "suggest",
+    "v1": "suggest",
+    "v2": "suggested",
+    "v3": "suggested",
+    "v4": "suggesting"
+  },
+  "5770": {
+    "root": "support",
+    "v1": "support",
+    "v2": "supported",
+    "v3": "supported",
+    "v4": "supporting"
+  },
+  "5773": {
+    "root": "suppose",
+    "v1": "suppose",
+    "v2": "supposed",
+    "v3": "supposed",
+    "v4": "supposing"
+  },
+  "5776": {
+    "root": "surprise",
+    "v1": "surprise",
+    "v2": "surprised",
+    "v3": "surprised",
+    "v4": "surprising"
+  },
+  "5779": {
+    "root": "survive",
+    "v1": "survive",
+    "v2": "survived",
+    "v3": "survived",
+    "v4": "surviving"
+  },
+  "5782": {
+    "root": "switch",
+    "v1": "switch",
+    "v2": "switched",
+    "v3": "switched",
+    "v4": "switching"
+  },
+  "5785": {
+    "root": "tax",
+    "v1": "tax",
+    "v2": "taxed",
+    "v3": "taxed",
+    "v4": "taxing"
+  },
+  "5788": {
+    "root": "tend",
+    "v1": "tend",
+    "v2": "tended",
+    "v3": "tended",
+    "v4": "tending"
+  },
+  "5791": {
+    "root": "tip",
+    "v1": "tip",
+    "v2": "tipped",
+    "v3": "tipped",
+    "v4": "tipping"
+  },
+  "5798": {
+    "root": "translate",
+    "v1": "translate",
+    "v2": "translated",
+    "v3": "translated",
+    "v4": "translating"
+  },
+  "5801": {
+    "root": "transport",
+    "v1": "transport",
+    "v2": "transported",
+    "v3": "transported",
+    "v4": "transporting"
+  },
+  "5805": {
+    "root": "treat",
+    "v1": "treat",
+    "v2": "treated",
+    "v3": "treated",
+    "v4": "treating"
+  },
+  "5808": {
+    "root": "trick",
+    "v1": "trick",
+    "v2": "tricked",
+    "v3": "tricked",
+    "v4": "tricking"
+  },
+  "5811": {
+    "root": "type",
+    "v1": "type",
+    "v2": "typed",
+    "v3": "typed",
+    "v4": "typing"
+  },
+  "5817": {
+    "root": "warm",
+    "v1": "warm",
+    "v2": "warmed",
+    "v3": "warmed",
+    "v4": "warming"
+  },
+  "5818": {
+    "root": "warn",
+    "v1": "warn",
+    "v2": "warned",
+    "v3": "warned",
+    "v4": "warning"
+  },
+  "5821": {
+    "root": "waste",
+    "v1": "waste",
+    "v2": "wasted",
+    "v3": "wasted",
+    "v4": "wasting"
+  },
+  "5826": {
+    "root": "weigh",
+    "v1": "weigh",
+    "v2": "weighed",
+    "v3": "weighed",
+    "v4": "weighing"
+  },
+  "5830": {
+    "root": "wonder",
+    "v1": "wonder",
+    "v2": "wondered",
+    "v3": "wondered",
+    "v4": "wondering"
+  },
+  "5838": {
+    "root": "abandon",
+    "v1": "abandon",
+    "v2": "abandoned",
+    "v3": "abandoned",
+    "v4": "abandoning"
+  },
+  "5842": {
+    "root": "accompany",
+    "v1": "accompany",
+    "v2": "accompanied",
+    "v3": "accompanied",
+    "v4": "accompanying"
+  },
+  "5843": {
+    "root": "account",
+    "v1": "account",
+    "v2": "accounted",
+    "v3": "accounted",
+    "v4": "accounting"
+  },
+  "5845": {
+    "root": "accuse",
+    "v1": "accuse",
+    "v2": "accused",
+    "v3": "accused",
+    "v4": "accusing"
+  },
+  "5846": {
+    "root": "acknowledge",
+    "v1": "acknowledge",
+    "v2": "acknowledged",
+    "v3": "acknowledged",
+    "v4": "acknowledging"
+  },
+  "5847": {
+    "root": "acquire",
+    "v1": "acquire",
+    "v2": "acquired",
+    "v3": "acquired",
+    "v4": "acquiring"
+  },
+  "5850": {
+    "root": "adapt",
+    "v1": "adapt",
+    "v2": "adapted",
+    "v3": "adapted",
+    "v4": "adapting"
+  },
+  "5852": {
+    "root": "address",
+    "v1": "address",
+    "v2": "addressed",
+    "v3": "addressed",
+    "v4": "addressing"
+  },
+  "5854": {
+    "root": "adopt",
+    "v1": "adopt",
+    "v2": "adopted",
+    "v3": "adopted",
+    "v4": "adopting"
+  },
+  "5856": {
+    "root": "advance",
+    "v1": "advance",
+    "v2": "advanced",
+    "v3": "advanced",
+    "v4": "advancing"
+  },
+  "5864": {
+    "root": "aid",
+    "v1": "aid",
+    "v2": "aided",
+    "v3": "aided",
+    "v4": "aiding"
+  },
+  "5866": {
+    "root": "alarm",
+    "v1": "alarm",
+    "v2": "alarmed",
+    "v3": "alarmed",
+    "v4": "alarming"
+  },
+  "5867": {
+    "root": "alter",
+    "v1": "alter",
+    "v2": "altered",
+    "v3": "altered",
+    "v4": "altering"
+  },
+  "5868": {
+    "root": "amount",
+    "v1": "amount",
+    "v2": "amounted",
+    "v3": "amounted",
+    "v4": "amounting"
+  },
+  "5877": {
+    "root": "appeal",
+    "v1": "appeal",
+    "v2": "appealed",
+    "v3": "appealed",
+    "v4": "appealing"
+  },
+  "5879": {
+    "root": "approach",
+    "v1": "approach",
+    "v2": "approached",
+    "v3": "approached",
+    "v4": "approaching"
+  },
+  "5882": {
+    "root": "arise",
+    "v1": "arise",
+    "v2": "arose",
+    "v3": "arisen",
+    "v4": "arising"
+  },
+  "5687": {
+    "root": "regard",
+    "v1": "regard",
+    "v2": "regarded",
+    "v3": "regarded",
+    "v4": "regarding"
+  },
+  "5698": {
+    "root": "rely",
+    "v1": "rely",
+    "v2": "relied",
+    "v3": "relied",
+    "v4": "relying"
+  },
+  "5712": {
+    "root": "resolve",
+    "v1": "resolve",
+    "v2": "resolved",
+    "v3": "resolved",
+    "v4": "resolving"
+  },
+  "5715": {
+    "root": "reveal",
+    "v1": "reveal",
+    "v2": "revealed",
+    "v3": "revealed",
+    "v4": "revealing"
+  },
+  "5718": {
+    "root": "reward",
+    "v1": "reward",
+    "v2": "rewarded",
+    "v3": "rewarded",
+    "v4": "rewarding"
+  },
+  "5724": {
+    "root": "rub",
+    "v1": "rub",
+    "v2": "rubbed",
+    "v3": "rubbed",
+    "v4": "rubbing"
+  },
+  "5728": {
+    "root": "rush",
+    "v1": "rush",
+    "v2": "rushed",
+    "v3": "rushed",
+    "v4": "rushing"
+  },
+  "5733": {
+    "root": "satisfy",
+    "v1": "satisfy",
+    "v2": "satisfied",
+    "v3": "satisfied",
+    "v4": "satisfying"
+  },
+  "5738": {
+    "root": "scream",
+    "v1": "scream",
+    "v2": "screamed",
+    "v3": "screamed",
+    "v4": "screaming"
+  },
+  "5740": {
+    "root": "screen",
+    "v1": "screen",
+    "v2": "screened",
+    "v3": "screened",
+    "v4": "screening"
+  },
+  "5741": {
+    "root": "seat",
+    "v1": "seat",
+    "v2": "seated",
+    "v3": "seated",
+    "v4": "seating"
+  },
+  "5743": {
+    "root": "secure",
+    "v1": "secure",
+    "v2": "secured",
+    "v3": "secured",
+    "v4": "securing"
+  },
+  "5745": {
+    "root": "seek",
+    "v1": "seek",
+    "v2": "sought",
+    "v3": "sought",
+    "v4": "seeking"
+  },
+  "5746": {
+    "root": "select",
+    "v1": "select",
+    "v2": "selected",
+    "v3": "selected",
+    "v4": "selecting"
+  },
+  "5755": {
+    "root": "settle",
+    "v1": "settle",
+    "v2": "settled",
+    "v3": "settled",
+    "v4": "settling"
+  },
+  "5777": {
+    "root": "witness",
+    "v1": "witness",
+    "v2": "witnessed",
+    "v3": "witnessed",
+    "v4": "witnessing"
+  },
+  "5783": {
+    "root": "wrap",
+    "v1": "wrap",
+    "v2": "wrapped",
+    "v3": "wrapped",
+    "v4": "wrapping"
+  },
+  "5784": {
+    "root": "transfer",
+    "v1": "transfer",
+    "v2": "transferred",
+    "v3": "transferred",
+    "v4": "transferring"
+  },
+  "5786": {
+    "root": "transform",
+    "v1": "transform",
+    "v2": "transformed",
+    "v3": "transformed",
+    "v4": "transforming"
+  },
+  "5789": {
+    "root": "trip",
+    "v1": "trip",
+    "v2": "tripped",
+    "v3": "tripped",
+    "v4": "tripping"
+  },
+  "5794": {
+    "root": "trust",
+    "v1": "trust",
+    "v2": "trusted",
+    "v3": "trusted",
+    "v4": "trusting"
+  },
+  "5807": {
+    "root": "urge",
+    "v1": "urge",
+    "v2": "urged",
+    "v3": "urged",
+    "v4": "urging"
+  },
+  "5809": {
+    "root": "vary",
+    "v1": "vary",
+    "v2": "varied",
+    "v3": "varied",
+    "v4": "varying"
+  },
+  "5823": {
+    "root": "track",
+    "v1": "track",
+    "v2": "tracked",
+    "v3": "tracked",
+    "v4": "tracking"
+  },
+  "5827": {
+    "root": "shape",
+    "v1": "shape",
+    "v2": "shaped",
+    "v3": "shaped",
+    "v4": "shaping"
+  },
+  "5829": {
+    "root": "shelter",
+    "v1": "shelter",
+    "v2": "sheltered",
+    "v3": "sheltered",
+    "v4": "sheltering"
+  },
+  "5831": {
+    "root": "ship",
+    "v1": "ship",
+    "v2": "shipped",
+    "v3": "shipped",
+    "v4": "shipping"
+  },
+  "5833": {
+    "root": "shock",
+    "v1": "shock",
+    "v2": "shocked",
+    "v3": "shocked",
+    "v4": "shocking"
+  },
+
+  "5848": {
+    "root": "slope",
+    "v1": "slope",
+    "v2": "sloped",
+    "v3": "sloped",
+    "v4": "sloping"
+  },
+  "5855": {
+    "root": "speed",
+    "v1": "speed",
+    "v2": "sped",
+    "v3": "sped",
+    "v4": "speeding"
+  },
+  "5857": {
+    "root": "split",
+    "v1": "split",
+    "v2": "split",
+    "v3": "split",
+    "v4": "splitting"
+  },
+  "5859": {
+    "root": "sponsor",
+    "v1": "sponsor",
+    "v2": "sponsored",
+    "v3": "sponsored",
+    "v4": "sponsoring"
+  },
+  "5861": {
+    "root": "spot",
+    "v1": "spot",
+    "v2": "spotted",
+    "v3": "spotted",
+    "v4": "spotting"
+  },
+  "5871": {
+    "root": "step",
+    "v1": "step",
+    "v2": "stepped",
+    "v3": "stepped",
+    "v4": "stepping"
+  },
+  "5876": {
+    "root": "stretch",
+    "v1": "stretch",
+    "v2": "stretched",
+    "v3": "stretched",
+    "v4": "stretching"
+  },
+  "5881": {
+    "root": "structure",
+    "v1": "structure",
+    "v2": "structured",
+    "v3": "structured",
+    "v4": "structuring"
+  },
+  "5884": {
+    "root": "stuff",
+    "v1": "stuff",
+    "v2": "stuffed",
+    "v3": "stuffed",
+    "v4": "stuffing"
+  },
+  "5886": {
+    "root": "submit",
+    "v1": "submit",
+    "v2": "submitted",
+    "v3": "submitted",
+    "v4": "submitting"
+  },
+  "5888": {
+    "root": "sum",
+    "v1": "sum",
+    "v2": "summed",
+    "v3": "summed",
+    "v4": "summing"
+  },
+  "5890": {
+    "root": "surround",
+    "v1": "surround",
+    "v2": "surrounded",
+    "v3": "surrounded",
+    "v4": "surrounding"
+  },
+  "5892": {
+    "root": "survey",
+    "v1": "survey",
+    "v2": "surveyed",
+    "v3": "surveyed",
+    "v4": "surveying"
+  },
+  "5893": {
+    "root": "suspect",
+    "v1": "suspect",
+    "v2": "suspected",
+    "v3": "suspected",
+    "v4": "suspecting"
+  },
+  "5895": {
+    "root": "swear",
+    "v1": "swear",
+    "v2": "swore",
+    "v3": "sworn",
+    "v4": "swearing"
+  },
+  "5896": {
+    "root": "sweep",
+    "v1": "sweep",
+    "v2": "swept",
+    "v3": "swept",
+    "v4": "sweeping"
+  }
+}

@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule pos/word src/controllers/module.pos.php?action=VIEW_POS_WORD [QSA]
+RewriteRule pos/verb/([^/]+)$ src/controllers/module.user.account.feedback.php?action=VIEW_POS_VERB&verb=$1 [QSA]
