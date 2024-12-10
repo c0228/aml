@@ -11,7 +11,9 @@ RewriteEngine On
 #RewriteRule question/update controllers/module.admin.php?action=QUESTION_UPDATE [QSA]
 #RewriteRule question/autocomplete controllers/module.admin.php?action=QUESTION_AUTOCOMPLETE [QSA]
 
+RewriteRule list/view controllers/controller.manage.topic.php?action=LIST_VIEW [QSA]
 RewriteRule topics/add controllers/controller.manage.topic.php?action=TOPICS_ADD [QSA]
 RewriteRule topics/update controllers/controller.manage.topic.php?action=TOPICS_UPDATE [QSA]
-RewriteRule topics/view controllers/controller.manage.topic.php?action=TOPICS_VIEW [QSA]
 RewriteRule topics/delete controllers/controller.manage.topic.php?action=TOPICS_DELETE [QSA]
+
+RewriteRule files/add controllers/controller.manage.files.php?action=CREATE_FILE [QSA]

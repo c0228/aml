@@ -144,14 +144,12 @@ class FolderManager {
                 $results['success'][] = $folderName;
             } else {
                 $results['failed'][] = [
-                    'folder' => $folderName,
-                    'message' => StatusHelper::display(1004)
+                    $folderName => StatusHelper::display(1004)
                 ];
             }
         } else {
             $results['failed'][] = [
-                'folder' => $folderName,
-                'message' => StatusHelper::display(1002)
+                $folderName => StatusHelper::display(1002)
             ];
         }
     }
