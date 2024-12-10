@@ -3,7 +3,7 @@ require_once './../constants/codes.php';
 require_once './../constants/helper.php';
 require_once './../utils/util.manage.folder.php';
 
-$BASE_DIR = './imdb';
+$BASE_DIR = './../../data';
 
 if(isset($_GET["action"]) && $_GET["action"]=='TOPICS_ADD' && $_SERVER['REQUEST_METHOD'] === 'POST'){
  $topicsList = json_decode( file_get_contents('php://input'), true );	
