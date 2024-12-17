@@ -12,8 +12,12 @@ RewriteEngine On
 #RewriteRule question/autocomplete controllers/module.admin.php?action=QUESTION_AUTOCOMPLETE [QSA]
 
 RewriteRule list/view controllers/controller.manage.topic.php?action=LIST_VIEW [QSA]
+
 RewriteRule topics/add controllers/controller.manage.topic.php?action=TOPICS_ADD [QSA]
 RewriteRule topics/update controllers/controller.manage.topic.php?action=TOPICS_UPDATE [QSA]
 RewriteRule topics/delete controllers/controller.manage.topic.php?action=TOPICS_DELETE [QSA]
 
-RewriteRule files/add controllers/controller.manage.files.php?action=CREATE_FILE [QSA]
+RewriteRule files/add controllers/controller.manage.topic.php?action=CREATE_FILE [QSA]
+RewriteRule files/update controllers/controller.manage.topic.php?action=UPDATE_FILE [QSA]
+RewriteRule files/delete controllers/controller.manage.topic.php?action=DELETE_FILE [QSA]
+

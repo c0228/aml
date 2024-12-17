@@ -1,0 +1,15 @@
+PowerShell Run as Administrator
+=========================================================
+SUCCESSFUL LOGIN COMMANDS
+=========================================================
+Get-WinEvent -FilterHashtable @{LogName='Security'; Id=4624} -MaxEvents 10 | Format-Table TimeCreated, Message -AutoSize
+=========================================================
+LOGOUT COMMANDS
+=========================================================
+Get-WinEvent -FilterHashtable @{LogName='Security'; Id=4634} -MaxEvents 10 | Format-Table TimeCreated, Message -AutoSize
+=========================================================
+USER INITIATED LOGOFF
+=========================================================
+Get-WinEvent -FilterHashtable @{LogName='Security'; Id=4647} -MaxEvents 10 | Format-Table TimeCreated, Message -AutoSize
+---------------------------------------------------------
+.NET has an API to execute PowerShell with Administrator Privileges.
