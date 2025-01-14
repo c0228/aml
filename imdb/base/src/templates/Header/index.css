@@ -1,13 +1,13 @@
-.navbar-nav .nav-link.active { color:#000040 !important;padding:6px 10px;border-bottom:2px solid #000040;margin-right:5px; }
-.navbar-nav .nav-link { color:#666;padding:6px 10px;margin-right:5px; }
+.navbar-nav .nav-link.active { color:#000040 !important; }
+.navbar-nav .nav-link { color:#666; }
 
 /* Library */
 @media(min-width:1201px) { 
- /* NavMenu */
- .navbar-nav .nav-link { letter-spacing:0.05vw;font-size:1vw;padding: 0.6vw !important; }
- .navbar-nav .nav-link.active { border-bottom-width: 0.15vw !important; }
+ .navbar-nav .nav-link.active { padding:6px 10px;border-bottom:2px solid #000040;margin-right:5px; }
+ .navbar-nav .nav-link { padding:6px 10px;margin-right:5px; }
 }
 
 @media(max-width:1200px) { 
-
+ .navbar-nav .nav-link.active { padding:6px 10px;border-bottom:2px solid #000040;margin-right:5px; }
+ .navbar-nav .nav-link { padding:6px 10px;margin-right:5px; }
 }
